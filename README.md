@@ -41,7 +41,18 @@ SERPAPI_API_KEY=... node scripts/fetch-events.js --query "events in Austin, TX" 
 
 Notes:
 - The script avoids `start=0` (which can return empty) and paginates `start=10,20,...` until no more results.
-- CSV columns: idx, title, start_date, start_time, end_date, end_time, when_raw, address_line, city, state, postal_code, link.
+- CSV columns: idx, title, start_date, start_time, end_date, end_time, when_raw, address_line, city, state, link.
+
+## ICS generation
+
+Generate an iCalendar feed (ics) from SerpApi events:
+
+```bash
+SERPAPI_API_KEY=... node scripts/generate-ics.js --query "events in Boerne, TX" --out data/boerne-events.ics
+```
+
+- Uses date ranges parsed from `when` text; time is pulled from SerpApi fields or `when` text.
+- Subscribe to the raw ICS URL (after pushing to GitHub): `https://raw.githubusercontent.com/enkday/serpapi-events-toolkit/main/data/boerne-events.ics`
 
 ## Deploying
 

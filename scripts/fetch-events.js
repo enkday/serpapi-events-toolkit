@@ -53,8 +53,6 @@ function parseAddress(addressField, venue) {
   let line1 = '';
   let city = '';
   let state = '';
-  let postalCode = '';
-
   if (asArray.length > 0) {
     line1 = asArray[0] || '';
   }
@@ -64,11 +62,10 @@ function parseAddress(addressField, venue) {
     if (m) {
       city = m[1] || '';
       state = m[2] || '';
-      postalCode = m[3] || '';
     }
   }
 
-  return { line1, city, state, postalCode };
+  return { line1, city, state };
 }
 
 function parseDateInfo(dateObj) {
@@ -222,13 +219,12 @@ async function writeCsv(events, outPath) {
       'address_line',
       'city',
       'state',
-      'postal_code',
       'link'
     ].join(',')
   );
   events.forEach((e, i) => {
     const { startDate, startTime, endDate, endTime, whenRaw } = parseDateInfo(e.date);
-    const { line1, city, state, postalCode } = parseAddress(e.address, e.venue);
+    const { line1, city, state } = parseAddress(e.address, e.venue);
     rows.push(
       [
         i + 1,
@@ -241,7 +237,6 @@ async function writeCsv(events, outPath) {
         escapeCsv(line1),
         escapeCsv(city),
         escapeCsv(state),
-        escapeCsv(postalCode),
         escapeCsv(e.link || '')
       ].join(',')
     );
@@ -267,7 +262,11 @@ async function main() {
   console.log(`CSV written to ${out}`);
 }
 
-main().catch((err) => {
-  console.error(err);
-  process.exit(1);
-});
+if (require.main === module) {
+  main().catch((err) => {
+    console.error(err);
+    process.exit(1);
+  });
+}
+
+module.exports = { fetchEvents, parseAddress, parseDateInfo };
