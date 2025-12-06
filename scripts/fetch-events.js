@@ -89,11 +89,44 @@ function parseDateInfo(dateObj) {
 
   const normalizeMonthDay = (raw) => {
     if (!raw || typeof raw !== 'string') return '';
-    const m = raw.match(/\b([A-Za-z]{3})\b/);
+    // Map common Spanish month/day abbreviations to English equivalents
+    const spanishMap = {
+      ene: 'JAN',
+      feb: 'FEB',
+      mar: 'MAR',
+      abr: 'APR',
+      may: 'MAY',
+      jun: 'JUN',
+      jul: 'JUL',
+      ago: 'AUG',
+      sep: 'SEP',
+      oct: 'OCT',
+      nov: 'NOV',
+      dic: 'DEC',
+      lun: 'Mon',
+      mar_day: 'Tue',
+      mié: 'Wed',
+      jue: 'Thu',
+      vie: 'Fri',
+      sáb: 'Sat',
+      dom: 'Sun'
+    };
+
+    let cleaned = raw;
+    // Replace Spanish month abbreviations
+    Object.entries(spanishMap).forEach(([key, val]) => {
+      const pattern =
+        key === 'mar_day'
+          ? /\bmar\b/gi // disambiguate mar (Tue) vs Mar (March)
+          : new RegExp(`\\b${key}\\b`, 'gi');
+      cleaned = cleaned.replace(pattern, val);
+    });
+
+    const m = cleaned.match(/\b([A-Za-z]{3})\b/);
     if (!m) return '';
     const abbr = m[1].toUpperCase();
     if (!monthAbbrs.has(abbr)) return '';
-    return raw.trim();
+    return cleaned.trim();
   };
 
   if (!dateObj) return { startDate: '', startTime: '', endDate: '', endTime: '', whenRaw: '' };
