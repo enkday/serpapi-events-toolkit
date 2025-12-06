@@ -41,20 +41,80 @@ async function fetchEvents({ query, apiKey }) {
   return events;
 }
 
+function parseAddress(addressField, venue) {
+  const asArray = Array.isArray(addressField)
+    ? addressField
+    : addressField
+    ? [addressField]
+    : venue?.address
+    ? [venue.address]
+    : [];
+
+  let line1 = '';
+  let city = '';
+  let state = '';
+  let postalCode = '';
+
+  if (asArray.length > 0) {
+    line1 = asArray[0] || '';
+  }
+  const cityStateRaw = asArray.find((entry) => entry && /,\s*[A-Z]{2}/.test(entry));
+  if (cityStateRaw) {
+    const m = cityStateRaw.match(/^(.*?),\s*([A-Z]{2})(?:\s+(\d{5}))?/);
+    if (m) {
+      city = m[1] || '';
+      state = m[2] || '';
+      postalCode = m[3] || '';
+    }
+  }
+
+  return { line1, city, state, postalCode };
+}
+
+function parseDateInfo(dateObj) {
+  if (!dateObj) return { startDate: '', startTime: '', endDate: '', endTime: '', whenRaw: '' };
+  const whenRaw = dateObj.when || '';
+  const startDate = dateObj.start_date || '';
+  const endDate = dateObj.end_date || '';
+  const startTime = dateObj.start_time || '';
+  const endTime = dateObj.end_time || '';
+  return { startDate, startTime, endDate, endTime, whenRaw };
+}
+
 async function writeCsv(events, outPath) {
   const rows = [];
-  rows.push(['idx', 'title', 'when', 'address', 'link'].join(','));
+  rows.push(
+    [
+      'idx',
+      'title',
+      'start_date',
+      'start_time',
+      'end_date',
+      'end_time',
+      'when_raw',
+      'address_line',
+      'city',
+      'state',
+      'postal_code',
+      'link'
+    ].join(',')
+  );
   events.forEach((e, i) => {
-    const when = e.date?.when || e.date?.start_date || '';
-    const address = Array.isArray(e.address)
-      ? e.address.join('; ')
-      : e.venue?.address || '';
+    const { startDate, startTime, endDate, endTime, whenRaw } = parseDateInfo(e.date);
+    const { line1, city, state, postalCode } = parseAddress(e.address, e.venue);
     rows.push(
       [
         i + 1,
         escapeCsv(e.title),
-        escapeCsv(when),
-        escapeCsv(address),
+        escapeCsv(startDate),
+        escapeCsv(startTime),
+        escapeCsv(endDate),
+        escapeCsv(endTime),
+        escapeCsv(whenRaw),
+        escapeCsv(line1),
+        escapeCsv(city),
+        escapeCsv(state),
+        escapeCsv(postalCode),
         escapeCsv(e.link || '')
       ].join(',')
     );

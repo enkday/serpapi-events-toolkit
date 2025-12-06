@@ -41,7 +41,7 @@ SERPAPI_API_KEY=... node scripts/fetch-events.js --query "events in Austin, TX" 
 
 Notes:
 - The script avoids `start=0` (which can return empty) and paginates `start=10,20,...` until no more results.
-- CSV columns: idx, title, when, address, link.
+- CSV columns: idx, title, start_date, start_time, end_date, end_time, when_raw, address_line, city, state, postal_code, link.
 
 ## Deploying
 
