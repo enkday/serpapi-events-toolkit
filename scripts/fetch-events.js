@@ -72,10 +72,34 @@ function parseAddress(addressField, venue) {
 }
 
 function parseDateInfo(dateObj) {
+  const monthAbbrs = new Set([
+    'JAN',
+    'FEB',
+    'MAR',
+    'APR',
+    'MAY',
+    'JUN',
+    'JUL',
+    'AUG',
+    'SEP',
+    'OCT',
+    'NOV',
+    'DEC'
+  ]);
+
+  const normalizeMonthDay = (raw) => {
+    if (!raw || typeof raw !== 'string') return '';
+    const m = raw.match(/\b([A-Za-z]{3})\b/);
+    if (!m) return '';
+    const abbr = m[1].toUpperCase();
+    if (!monthAbbrs.has(abbr)) return '';
+    return raw.trim();
+  };
+
   if (!dateObj) return { startDate: '', startTime: '', endDate: '', endTime: '', whenRaw: '' };
   const whenRaw = dateObj.when || '';
-  const startDate = dateObj.start_date || '';
-  const endDate = dateObj.end_date || '';
+  const startDate = normalizeMonthDay(dateObj.start_date);
+  const endDate = normalizeMonthDay(dateObj.end_date);
   const startTime = dateObj.start_time || '';
   const endTime = dateObj.end_time || '';
   return { startDate, startTime, endDate, endTime, whenRaw };
