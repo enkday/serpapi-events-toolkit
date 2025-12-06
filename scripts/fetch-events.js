@@ -87,9 +87,8 @@ function parseDateInfo(dateObj) {
     'DEC'
   ]);
 
-  const normalizeMonthDay = (raw) => {
+  const translateSpanish = (raw) => {
     if (!raw || typeof raw !== 'string') return '';
-    // Map common Spanish month/day abbreviations to English equivalents
     const spanishMap = {
       ene: 'JAN',
       feb: 'FEB',
@@ -104,7 +103,7 @@ function parseDateInfo(dateObj) {
       nov: 'NOV',
       dic: 'DEC',
       lun: 'Mon',
-      mar_day: 'Tue',
+      mar_day: 'Tue', // disambiguate below
       mié: 'Wed',
       jue: 'Thu',
       vie: 'Fri',
@@ -113,15 +112,19 @@ function parseDateInfo(dateObj) {
     };
 
     let cleaned = raw;
-    // Replace Spanish month abbreviations
     Object.entries(spanishMap).forEach(([key, val]) => {
       const pattern =
         key === 'mar_day'
-          ? /\bmar\b/gi // disambiguate mar (Tue) vs Mar (March)
+          ? /\bmar\b/gi // mar can be March or Tuesday; harmless if replaced to Tue as we ignore day-of-week later
           : new RegExp(`\\b${key}\\b`, 'gi');
       cleaned = cleaned.replace(pattern, val);
     });
+    return cleaned;
+  };
 
+  const normalizeMonthDay = (raw) => {
+    if (!raw || typeof raw !== 'string') return '';
+    const cleaned = translateSpanish(raw);
     // Tokenize and pick the first valid month token, ignoring day-of-week tokens.
     const tokens = cleaned.split(/[^A-Za-z0-9]+/).filter(Boolean);
     let monthToken = '';
@@ -149,11 +152,9 @@ function parseDateInfo(dateObj) {
 
   const extractRange = (raw) => {
     if (!raw || typeof raw !== 'string') return [];
-    const normalized = normalizeMonthDay(raw);
-    if (!normalized) return [];
-
-    // Collect month/day pairs from the normalized string.
-    const tokens = normalized.split(/[^A-Za-z0-9]+/).filter(Boolean);
+    const cleaned = translateSpanish(raw);
+    // Collect month/day pairs from the cleaned string.
+    const tokens = cleaned.split(/[^A-Za-z0-9]+/).filter(Boolean);
     const pairs = [];
     for (let i = 0; i < tokens.length; i++) {
       const t = tokens[i].toUpperCase();
