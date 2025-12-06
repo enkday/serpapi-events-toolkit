@@ -147,13 +147,50 @@ function parseDateInfo(dateObj) {
     return monthToken;
   };
 
+  const extractRange = (raw) => {
+    if (!raw || typeof raw !== 'string') return [];
+    const normalized = normalizeMonthDay(raw);
+    if (!normalized) return [];
+
+    // Collect month/day pairs from the normalized string.
+    const tokens = normalized.split(/[^A-Za-z0-9]+/).filter(Boolean);
+    const pairs = [];
+    for (let i = 0; i < tokens.length; i++) {
+      const t = tokens[i].toUpperCase();
+      if (monthAbbrs.has(t)) {
+        // Look ahead for a numeric day
+        for (let j = i + 1; j < tokens.length; j++) {
+          const dayCandidate = parseInt(tokens[j], 10);
+          if (!Number.isNaN(dayCandidate) && dayCandidate >= 1 && dayCandidate <= 31) {
+            pairs.push(`${t} ${dayCandidate}`);
+            break;
+          }
+        }
+      }
+    }
+    // If none found but we still have a standalone month, keep it
+    if (!pairs.length && tokens.length) {
+      const maybeMonth = tokens.find((t) => monthAbbrs.has(t.toUpperCase()));
+      if (maybeMonth) pairs.push(maybeMonth.toUpperCase());
+    }
+    return pairs;
+  };
+
   if (!dateObj) return { startDate: '', startTime: '', endDate: '', endTime: '', whenRaw: '' };
   const whenRaw = dateObj.when || '';
   let startDate = normalizeMonthDay(dateObj.start_date);
   let endDate = normalizeMonthDay(dateObj.end_date);
-  // Fallback: parse from whenRaw if explicit start/end_date missing
-  if (!startDate) startDate = normalizeMonthDay(whenRaw);
-  if (!endDate) endDate = normalizeMonthDay(whenRaw);
+
+  // Parse range from whenRaw to correct inverted/missing dates
+  const range = extractRange(whenRaw);
+  if (range.length >= 2) {
+    startDate = startDate || range[0];
+    endDate = endDate || range[range.length - 1];
+  } else if (range.length === 1) {
+    if (!startDate) startDate = range[0];
+    if (!endDate) endDate = range[0];
+  }
+
   const startTime = dateObj.start_time || '';
   const endTime = dateObj.end_time || '';
   return { startDate, startTime, endDate, endTime, whenRaw };
