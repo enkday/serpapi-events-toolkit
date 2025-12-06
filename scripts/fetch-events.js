@@ -87,6 +87,18 @@ function parseDateInfo(dateObj) {
     'DEC'
   ]);
 
+  const parseTimes = (raw) => {
+    if (!raw || typeof raw !== 'string') return { startTime: '', endTime: '' };
+    const zoneMatch = raw.match(/\b(CST|CDT|EST|EDT|PST|PDT|MST|MDT)\b/i);
+    const zone = zoneMatch ? zoneMatch[1].toUpperCase() : '';
+    const m = raw.match(/(\d{1,2}(?::\d{2})?\s*(?:AM|PM))(?:\s*[–-]\s*(\d{1,2}(?::\d{2})?\s*(?:AM|PM)))?/i);
+    if (!m) return { startTime: '', endTime: '' };
+    const start = m[1] ? m[1].replace(/\s+/g, ' ').toUpperCase() : '';
+    const end = m[2] ? m[2].replace(/\s+/g, ' ').toUpperCase() : '';
+    const appendZone = (t) => (t && zone ? `${t} ${zone}` : t);
+    return { startTime: appendZone(start), endTime: appendZone(end) };
+  };
+
   const translateSpanish = (raw) => {
     if (!raw || typeof raw !== 'string') return '';
     const spanishMap = {
@@ -193,8 +205,13 @@ function parseDateInfo(dateObj) {
     if (!endDate) endDate = range[0];
   }
 
-  const startTime = dateObj.start_time || '';
-  const endTime = dateObj.end_time || '';
+  let startTime = dateObj.start_time || '';
+  let endTime = dateObj.end_time || '';
+  if (!startTime || !endTime) {
+    const t = parseTimes(whenRaw);
+    if (!startTime) startTime = t.startTime;
+    if (!endTime) endTime = t.endTime;
+  }
   return { startDate, startTime, endDate, endTime, whenRaw };
 }
 
