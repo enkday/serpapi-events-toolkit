@@ -113,14 +113,7 @@ function parseDateInfo(dateObj) {
       sep: 'SEP',
       oct: 'OCT',
       nov: 'NOV',
-      dic: 'DEC',
-      lun: 'Mon',
-      mar_day: 'Tue', // disambiguate below
-      mié: 'Wed',
-      jue: 'Thu',
-      vie: 'Fri',
-      sáb: 'Sat',
-      dom: 'Sun'
+      dic: 'DEC'
     };
 
     let cleaned = raw;
