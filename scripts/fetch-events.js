@@ -149,8 +149,11 @@ function parseDateInfo(dateObj) {
 
   if (!dateObj) return { startDate: '', startTime: '', endDate: '', endTime: '', whenRaw: '' };
   const whenRaw = dateObj.when || '';
-  const startDate = normalizeMonthDay(dateObj.start_date);
-  const endDate = normalizeMonthDay(dateObj.end_date);
+  let startDate = normalizeMonthDay(dateObj.start_date);
+  let endDate = normalizeMonthDay(dateObj.end_date);
+  // Fallback: parse from whenRaw if explicit start/end_date missing
+  if (!startDate) startDate = normalizeMonthDay(whenRaw);
+  if (!endDate) endDate = normalizeMonthDay(whenRaw);
   const startTime = dateObj.start_time || '';
   const endTime = dateObj.end_time || '';
   return { startDate, startTime, endDate, endTime, whenRaw };
