@@ -122,11 +122,29 @@ function parseDateInfo(dateObj) {
       cleaned = cleaned.replace(pattern, val);
     });
 
-    const m = cleaned.match(/\b([A-Za-z]{3})\b/);
-    if (!m) return '';
-    const abbr = m[1].toUpperCase();
-    if (!monthAbbrs.has(abbr)) return '';
-    return cleaned.trim();
+    // Tokenize and pick the first valid month token, ignoring day-of-week tokens.
+    const tokens = cleaned.split(/[^A-Za-z0-9]+/).filter(Boolean);
+    let monthToken = '';
+    let dayToken = '';
+    for (let i = 0; i < tokens.length; i++) {
+      const t = tokens[i].toUpperCase();
+      if (monthAbbrs.has(t)) {
+        monthToken = t;
+        // Look ahead for a numeric day in the next token(s)
+        for (let j = i + 1; j < tokens.length; j++) {
+          const dayCandidate = parseInt(tokens[j], 10);
+          if (!Number.isNaN(dayCandidate) && dayCandidate >= 1 && dayCandidate <= 31) {
+            dayToken = String(dayCandidate);
+            break;
+          }
+        }
+        break;
+      }
+    }
+
+    if (!monthToken) return '';
+    if (dayToken) return `${monthToken} ${dayToken}`;
+    return monthToken;
   };
 
   if (!dateObj) return { startDate: '', startTime: '', endDate: '', endTime: '', whenRaw: '' };
