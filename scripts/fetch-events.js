@@ -184,8 +184,9 @@ function parseDateInfo(dateObj) {
   // Parse range from whenRaw to correct inverted/missing dates
   const range = extractRange(whenRaw);
   if (range.length >= 2) {
-    startDate = startDate || range[0];
-    endDate = endDate || range[range.length - 1];
+    // Prefer the range ordering outright to avoid inverted values from partial attrs
+    startDate = range[0];
+    endDate = range[range.length - 1];
   } else if (range.length === 1) {
     if (!startDate) startDate = range[0];
     if (!endDate) endDate = range[0];
