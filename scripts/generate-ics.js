@@ -62,6 +62,14 @@ function buildLocation(addr, city, state) {
   return bits.join(', ');
 }
 
+function addDays(parts, delta) {
+  if (!parts) return null;
+  const year = parts.year || new Date().getFullYear();
+  const d = new Date(Date.UTC(year, (parts.month || 1) - 1, parts.day || 1));
+  d.setUTCDate(d.getUTCDate() + delta);
+  return { year: d.getUTCFullYear(), month: d.getUTCMonth() + 1, day: d.getUTCDate() };
+}
+
 async function main() {
   const apiKey = process.env.SERPAPI_API_KEY;
   if (!apiKey) {
@@ -91,18 +99,16 @@ async function main() {
     const startParts = parseMonthDay(startDate, fallbackYear);
     const endParts = parseMonthDay(endDate || startDate, fallbackYear);
 
-    const startTimeParts = parseTimeStr(startTime);
-    const endTimeParts = parseTimeStr(endTime);
-
-    const dtStart = toIcsDate(startParts, startTimeParts);
-    const dtEnd = toIcsDate(endParts, endTimeParts);
-    if (!dtStart || !dtEnd) return;
+    // All-day events: use date-only, DTEND exclusive (add 1 day)
+    const dtStartDate = toIcsDate(startParts, null);
+    const dtEndDate = toIcsDate(addDays(endParts, 1), null);
+    if (!dtStartDate || !dtEndDate) return;
 
     lines.push('BEGIN:VEVENT');
     lines.push(`UID:${idx}-${evt.title.replace(/[^A-Za-z0-9]+/g, '')}@serpapi-events`);
-    lines.push(`DTSTAMP:${toIcsDate(startParts, startTimeParts)}`);
-    lines.push(`DTSTART:${dtStart}`);
-    lines.push(`DTEND:${dtEnd}`);
+    lines.push(`DTSTAMP:${dtStartDate}`);
+    lines.push(`DTSTART;VALUE=DATE:${dtStartDate}`);
+    lines.push(`DTEND;VALUE=DATE:${dtEndDate}`);
     lines.push('TRANSP:TRANSPARENT'); // do not block availability
     lines.push(`SUMMARY:${(evt.title || '').replace(/,/g, '\\,')}`);
     const loc = buildLocation(line1, city, state);
