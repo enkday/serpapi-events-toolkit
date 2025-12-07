@@ -70,10 +70,10 @@ async function main() {
   }
   const query = process.argv.includes('--query')
     ? process.argv[process.argv.indexOf('--query') + 1]
-    : 'events in Boerne, TX';
+    : process.env.EVENT_QUERY || 'events';
   const out = process.argv.includes('--out')
     ? process.argv[process.argv.indexOf('--out') + 1]
-    : path.join(__dirname, '..', 'data', 'boerne-events.ics');
+    : path.join(__dirname, '..', 'data', process.env.EVENT_ICS || 'events.ics');
 
   const events = await fetchEvents({ query, apiKey });
   const lines = [];

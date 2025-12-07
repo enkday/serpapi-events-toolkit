@@ -41,3 +41,10 @@ After pushing, subscribe to the hosted ICS URL you publish (e.g., raw GitHub URL
 
 - Keep `SERPAPI_API_KEY` as an env var/secret in your host.
 - Optional: set `PORT` for the proxy.
+
+## Automation
+
+- `.github/workflows/daily-refresh.yml` runs daily (08:00 UTC) and on manual dispatch:
+  - Uses `EVENT_QUERY` env (set in the workflow) and `SERPAPI_API_KEY` secret
+  - Regenerates `data/events.csv` and `data/events.ics`
+  - Commits/pushes changes if files differ

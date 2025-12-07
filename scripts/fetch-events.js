@@ -251,9 +251,10 @@ async function main() {
     console.error('Missing SERPAPI_API_KEY in env');
     process.exit(1);
   }
-  const query = getArg('--query') || 'events in Boerne, TX';
+  const query = getArg('--query') || process.env.EVENT_QUERY || 'events';
   const repoRoot = path.join(__dirname, '..');
-  const out = getArg('--out') || path.join(repoRoot, 'data', 'boerne-events.csv');
+  const out =
+    getArg('--out') || path.join(repoRoot, 'data', process.env.EVENT_CSV || 'events.csv');
 
   console.log(`Fetching events for query: "${query}"`);
   const events = await fetchEvents({ query, apiKey });

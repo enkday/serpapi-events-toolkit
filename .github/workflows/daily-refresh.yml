@@ -1,0 +1,37 @@
+name: Daily Refresh
+
+on:
+  schedule:
+    - cron: "0 8 * * *" # 08:00 UTC daily
+  workflow_dispatch: {}
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    env:
+      EVENT_QUERY: "events in Boerne, TX"
+      EVENT_CSV: "events.csv"
+      EVENT_ICS: "events.ics"
+      SERPAPI_API_KEY: ${{ secrets.SERPAPI_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "18"
+      - name: Install deps
+        run: npm install
+      - name: Refresh CSV and ICS
+        run: |
+          node scripts/fetch-events.js
+          node scripts/generate-ics.js
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git status --porcelain | grep .; then
+            git add data/events.csv data/events.ics
+            git commit -m "Automated refresh"
+            git push
+          else
+            echo "No changes to commit"
+          fi
