@@ -103,6 +103,7 @@ async function main() {
     lines.push(`DTSTAMP:${toIcsDate(startParts, startTimeParts)}`);
     lines.push(`DTSTART:${dtStart}`);
     lines.push(`DTEND:${dtEnd}`);
+    lines.push('TRANSP:TRANSPARENT'); // do not block availability
     lines.push(`SUMMARY:${(evt.title || '').replace(/,/g, '\\,')}`);
     const loc = buildLocation(line1, city, state);
     if (loc) lines.push(`LOCATION:${loc.replace(/,/g, '\\,')}`);
