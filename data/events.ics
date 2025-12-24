@@ -79,7 +79,7 @@ DTEND;VALUE=DATE:20251227
 TRANSP:TRANSPARENT
 SUMMARY:Tai Chi with Qi gong
 LOCATION:Boerne Public Library\, 451 N Main St\, Boerne\, TX
-DESCRIPTION:When: Fri\, Dec 26\, 10 – 11 AM CST\nLink: https://theboernelife.com/events/tag/exercise/page/2/?tribe-bar-date=2025-10-03
+DESCRIPTION:When: Fri\, Dec 26\, 10 – 11 AM CST\nLink: https://theboernelife.com/events/tag/exercise/map/page/3/?tribe-bar-date=2025-07-10
 END:VEVENT
 BEGIN:VEVENT
 UID:8-BluegrassJamatTheAgriCultural@serpapi-events
@@ -92,44 +92,44 @@ LOCATION:Agricultural Museum and Arts Center\, 102 City Park Rd\, Boerne\, TX
 DESCRIPTION:When: Sat\, Dec 27\nLink: https://www.tourtexas.com/all-events/83831/Bluegrass-Jam-at-The-AgriCultural
 END:VEVENT
 BEGIN:VEVENT
-UID:9-ArtAfterhoursAdultArtClasses@serpapi-events
-DTSTAMP:20251223
-DTSTART;VALUE=DATE:20251223
-DTEND;VALUE=DATE:20251224
-TRANSP:TRANSPARENT
-SUMMARY:Art Afterhours Adult Art Classes
-LOCATION:Agricultural Museum and Arts Center\, 102 City Park Rd\, Boerne\, TX
-DESCRIPTION:When: Tue\, Dec 23\, 7 – 9 PM CST\nLink: https://theboernelife.com/events/art-afterhours-adult-art-classes-2/2025-12-23/
-END:VEVENT
-BEGIN:VEVENT
-UID:10-StoryTimewithMrsClausatTapatio@serpapi-events
-DTSTAMP:20251223
-DTSTART;VALUE=DATE:20251223
-DTEND;VALUE=DATE:20251224
-TRANSP:TRANSPARENT
-SUMMARY:Story Time with Mrs. Claus at Tapatio
-LOCATION:Tapatio Springs Hill Country Resort\, 1 Resort Way\, Boerne\, TX
-DESCRIPTION:When: Tue\, Dec 23\, 5:30 – 7:30 PM\nLink: https://business.boerne.org/events/details/story-time-with-mrs-claus-at-tapatio-32005?calendarMonth=2025-12-01
-END:VEVENT
-BEGIN:VEVENT
-UID:11-IcingontheCake@serpapi-events
+UID:9-IcingontheCake@serpapi-events
 DTSTAMP:20251225
 DTSTART;VALUE=DATE:20251225
 DTEND;VALUE=DATE:20251226
 TRANSP:TRANSPARENT
 SUMMARY:Icing on the Cake
 LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
-DESCRIPTION:When: Thu\, Dec 25\, 1:00 – 1:30 PM\nLink: https://www.groundedmovement.org/schedule/d3db2aaf-6a71-472b-9a34-1ab708641a8a_1766689200
+DESCRIPTION:When: Thu\, Dec 25\, 1:00 – 1:30 PM CST\nLink: https://www.groundedmovement.org/schedule/d3db2aaf-6a71-472b-9a34-1ab708641a8a_1766689200
 END:VEVENT
 BEGIN:VEVENT
-UID:12-XtraSauce@serpapi-events
+UID:10-XtraSauce@serpapi-events
 DTSTAMP:20251224
 DTSTART;VALUE=DATE:20251224
 DTEND;VALUE=DATE:20251225
 TRANSP:TRANSPARENT
 SUMMARY:Xtra Sauce
 LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
-DESCRIPTION:When: Wed\, Dec 24\, 11:15 AM – 12:15 PM\nLink: https://www.groundedmovement.org/schedule/1e8a4a9a-40ec-4ad0-831a-59bd01b60126_1766596500
+DESCRIPTION:When: Wed\, Dec 24\, 11:15 AM – 12:15 PM CST\nLink: https://www.groundedmovement.org/schedule/1e8a4a9a-40ec-4ad0-831a-59bd01b60126_1766596500
+END:VEVENT
+BEGIN:VEVENT
+UID:11-EricaDanielsMusicSongSwapwGUESTSalvadorDobbs@serpapi-events
+DTSTAMP:20251227
+DTSTART;VALUE=DATE:20251227
+DTEND;VALUE=DATE:20251229
+TRANSP:TRANSPARENT
+SUMMARY:Erica Daniels Music: Song Swap w/GUEST! Salvador Dobbs
+LOCATION:Salvador DOBBS\, 512 River Rd\, Boerne\, TX
+DESCRIPTION:When: Sat\, Dec 27\, 9 PM – Sun\, Dec 28\, 1 AM CST\nLink: https://www.mysanantonio.com/entertainment/?_evDiscoveryPath=/event/107449364n-erica-daniels-music-song-swap-w-guest-salvador-dobbs
+END:VEVENT
+BEGIN:VEVENT
+UID:12-ComfortFlow@serpapi-events
+DTSTAMP:20251225
+DTSTART;VALUE=DATE:20251225
+DTEND;VALUE=DATE:20251226
+TRANSP:TRANSPARENT
+SUMMARY:Comfort Flow
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Thu\, Dec 25\, 8 – 9 AM CST\nLink: https://www.groundedmovement.org/schedule/9a48060d-13d3-4d2c-942e-2b86436e2f45_1766671200
 END:VEVENT
 BEGIN:VEVENT
 UID:13-XtraSauce@serpapi-events
@@ -139,166 +139,1666 @@ DTEND;VALUE=DATE:20251226
 TRANSP:TRANSPARENT
 SUMMARY:Xtra Sauce
 LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
-DESCRIPTION:When: Thu\, Dec 25\, 11:30 AM – 12:00 PM\nLink: https://www.groundedmovement.org/schedule/38c0bb54-2196-435a-b143-f9bd06a87a17_1766683800
+DESCRIPTION:When: Thu\, Dec 25\, 11:30 AM – 12:00 PM CST\nLink: https://www.groundedmovement.org/schedule/38c0bb54-2196-435a-b143-f9bd06a87a17_1766683800
 END:VEVENT
 BEGIN:VEVENT
-UID:14-BuildingBasics@serpapi-events
-DTSTAMP:20251224
-DTSTART;VALUE=DATE:20251224
-DTEND;VALUE=DATE:20251225
-TRANSP:TRANSPARENT
-SUMMARY:Building Basics
-LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
-DESCRIPTION:When: Wed\, Dec 24\, 10 – 11 AM\nLink: https://www.groundedmovement.org/schedule/40c349da-d9d1-4f37-9e41-e624754b07c2_1766592000
-END:VEVENT
-BEGIN:VEVENT
-UID:15-MobilitySnack@serpapi-events
-DTSTAMP:20251224
-DTSTART;VALUE=DATE:20251224
-DTEND;VALUE=DATE:20251225
-TRANSP:TRANSPARENT
-SUMMARY:Mobility Snack
-LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
-DESCRIPTION:When: Wed\, Dec 24\, 12:00 – 12:30 PM\nLink: https://www.groundedmovement.org/schedule/b0f894ad-8496-4c4c-96a3-1723b5f340df_1766599200
-END:VEVENT
-BEGIN:VEVENT
-UID:16-ComfortFlow@serpapi-events
-DTSTAMP:20251225
-DTSTART;VALUE=DATE:20251225
-DTEND;VALUE=DATE:20251226
-TRANSP:TRANSPARENT
-SUMMARY:Comfort Flow
-LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
-DESCRIPTION:When: Thu\, Dec 25\, 8 – 9 AM\nLink: https://www.groundedmovement.org/schedule/9a48060d-13d3-4d2c-942e-2b86436e2f45_1766671200
-END:VEVENT
-BEGIN:VEVENT
-UID:17-EricaDanielsMusicSongSwapwGUESTSalvadorDobbs@serpapi-events
-DTSTAMP:20251227
-DTSTART;VALUE=DATE:20251227
-DTEND;VALUE=DATE:20251229
-TRANSP:TRANSPARENT
-SUMMARY:Erica Daniels Music: Song Swap w/GUEST! Salvador Dobbs
-LOCATION:Salvador DOBBS\, 512 River Rd\, Boerne\, TX
-DESCRIPTION:When: Sat\, Dec 27\, 9 PM – Sun\, Dec 28\, 1 AM\nLink: https://www.mysanantonio.com/entertainment/?_evDiscoveryPath=/event/107449364n-erica-daniels-music-song-swap-w-guest-salvador-dobbs
-END:VEVENT
-BEGIN:VEVENT
-UID:18-MobilitySnack@serpapi-events
-DTSTAMP:20251225
-DTSTART;VALUE=DATE:20251225
-DTEND;VALUE=DATE:20251226
-TRANSP:TRANSPARENT
-SUMMARY:Mobility Snack
-LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
-DESCRIPTION:When: Thu\, Dec 25\, 12:15 – 12:45 PM\nLink: https://www.groundedmovement.org/schedule/d4b112b7-52cd-4d3b-aea8-d022d437f8de_1766686500
-END:VEVENT
-BEGIN:VEVENT
-UID:19-WholesomeYoga@serpapi-events
-DTSTAMP:20251225
-DTSTART;VALUE=DATE:20251225
-DTEND;VALUE=DATE:20251226
-TRANSP:TRANSPARENT
-SUMMARY:Wholesome Yoga
-LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
-DESCRIPTION:When: Thu\, Dec 25\, 9:30 – 10:30 AM\nLink: https://www.groundedmovement.org/schedule/d84397c9-de40-4689-ae8a-aa3779b55cb4_1766676600
-END:VEVENT
-BEGIN:VEVENT
-UID:20-ColleenMichelleMiller@serpapi-events
+UID:14-ColleenMichelleMiller@serpapi-events
 DTSTAMP:20251227
 DTSTART;VALUE=DATE:20251227
 DTEND;VALUE=DATE:20251228
 TRANSP:TRANSPARENT
 SUMMARY:Colleen Michelle Miller
 LOCATION:Lost Oak Cellars\, 111 Rosewood Ave\, Boerne\, TX
-DESCRIPTION:When: Sat\, Dec 27\, 7 – 11 PM\nLink: https://envisionwise.com/local-events?_evDiscoveryPath=/event/107513840n-colleen-michelle-miller
+DESCRIPTION:When: Sat\, Dec 27\, 7 – 11 PM CST\nLink: https://envisionwise.com/local-events?_evDiscoveryPath=/event/107513840n-colleen-michelle-miller
 END:VEVENT
 BEGIN:VEVENT
-UID:21-1940sNightattheUSOGalaPresentedbyVFWPost688@serpapi-events
+UID:15-1940sNightattheUSOGalaPresentedbyVFWPost688@serpapi-events
 DTSTAMP:20250228
 DTSTART;VALUE=DATE:20250228
 DTEND;VALUE=DATE:20250301
 TRANSP:TRANSPARENT
 SUMMARY:1940's Night at the USO Gala Presented by VFW Post 688
 LOCATION:The Cana Ballroom\, 202 W Kronkosky St\, Boerne\, TX
-DESCRIPTION:When: Sat\, Feb 28\, 8 – 11 PM\nLink: https://business.boerne.org/events/details/1940-s-night-at-the-uso-gala-31518
+DESCRIPTION:When: Sat\, Feb 28\, 8 – 11 PM CST\nLink: https://business.boerne.org/events/details/1940-s-night-at-the-uso-gala-31518
 END:VEVENT
 BEGIN:VEVENT
-UID:22-BoerneHomeOutdoorLivingShow@serpapi-events
+UID:16-BuildingBasics@serpapi-events
+DTSTAMP:20251224
+DTSTART;VALUE=DATE:20251224
+DTEND;VALUE=DATE:20251225
+TRANSP:TRANSPARENT
+SUMMARY:Building Basics
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Wed\, Dec 24\, 10 – 11 AM CST\nLink: https://www.groundedmovement.org/schedule/40c349da-d9d1-4f37-9e41-e624754b07c2_1766592000
+END:VEVENT
+BEGIN:VEVENT
+UID:17-BlakgrazLIVEatTheOakofBoerne@serpapi-events
+DTSTAMP:20260110
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260112
+TRANSP:TRANSPARENT
+SUMMARY:Blakgraz LIVE at The Oak of Boerne
+LOCATION:The Oak of Boerne\, 605 S Main St\, Boerne\, TX
+DESCRIPTION:When: Jan 10\, 2026\, 8 PM – Jan 11\, 2026\, 12 AM CST\nLink: https://www.mysanantonio.com/entertainment/?_evDiscoveryPath=/event/107666147n-blakgraz-live-at-the-oak-of-boerne
+END:VEVENT
+BEGIN:VEVENT
+UID:18-2026BoerneHomeOutdoorLivingShow@serpapi-events
 DTSTAMP:20260221
 DTSTART;VALUE=DATE:20260221
 DTEND;VALUE=DATE:20260223
 TRANSP:TRANSPARENT
-SUMMARY:Boerne Home & Outdoor Living Show
+SUMMARY:2026 Boerne Home & Outdoor Living Show
 LOCATION:The Bevy Hotel Boerne\, a DoubleTree by Hilton\, 101 Herff Rd\, Boerne\, TX
-DESCRIPTION:When: Feb 21\, 2026\, 10 AM – Feb 22\, 2026\, 4 PM\nLink: https://www.facebook.com/events/2165768373845272/?acontext=%7B%22action_history%22%3A%22%5B%7B%5C%22surface%5C%22%3A%5C%22unknown%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22unknown%5C%22%2C%5C%22extra_data%5C%22%3A%5B%5D%7D%2C%7B%5C%22surface%5C%22%3A%5C%22permalink%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22SUGGESTED_EVENTS_HSCROLL%5C%22%2C%5C%22extra_data%5C%22%3A%5B%5D%7D%5D%22%2C%22has_source%22%3Atrue%7D
+DESCRIPTION:When: Feb 21\, 2026\, 10 AM – Feb 22\, 2026\, 4 PM CST\nLink: https://business.boerne.org/events/details/2026-boerne-home-outdoor-living-show-32014
 END:VEVENT
 BEGIN:VEVENT
-UID:23-BoerneMarketDays@serpapi-events
-DTSTAMP:20250111
-DTSTART;VALUE=DATE:20250111
-DTEND;VALUE=DATE:20250112
+UID:19-MobilitySnack@serpapi-events
+DTSTAMP:20251224
+DTSTART;VALUE=DATE:20251224
+DTEND;VALUE=DATE:20251225
 TRANSP:TRANSPARENT
-SUMMARY:Boerne Market Days
-LOCATION:Main Plaza\, Boerne\, TX
-DESCRIPTION:When: Sun\, Jan 11\, 10 AM – 4 PM\nLink: http://business.boerne.org/events/details/boerne-market-days-01-11-2026-30465
+SUMMARY:Mobility Snack
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Wed\, Dec 24\, 12:00 – 12:30 PM CST\nLink: https://www.groundedmovement.org/schedule/b0f894ad-8496-4c4c-96a3-1723b5f340df_1766599200
 END:VEVENT
 BEGIN:VEVENT
-UID:24-AnnualAwardsGalapresentedbyBEC@serpapi-events
-DTSTAMP:20250124
-DTSTART;VALUE=DATE:20250124
-DTEND;VALUE=DATE:20250125
-TRANSP:TRANSPARENT
-SUMMARY:Annual Awards Gala presented by BEC
-LOCATION:The Cana Ballroom\, 202 W Kronkosky St\, Boerne\, TX
-DESCRIPTION:When: Sat\, Jan 24\, 6 – 10 PM\nLink: https://business.boerne.org/events/details/annual-awards-gala-presented-by-bec-31753?calendarMonth=2026-01-01
-END:VEVENT
-BEGIN:VEVENT
-UID:25-ADeadlyVintage@serpapi-events
-DTSTAMP:20250115
-DTSTART;VALUE=DATE:20250115
-DTEND;VALUE=DATE:20250116
-TRANSP:TRANSPARENT
-SUMMARY:A Deadly Vintage
-LOCATION:Richter Tavern\, 153 S Main St\, Boerne\, TX
-DESCRIPTION:When: Thu\, Jan 15\, 6:00 – 11:59 PM\nLink: https://www.exploretock.com/richter-tavern-boerne/event/584898
-END:VEVENT
-BEGIN:VEVENT
-UID:26-BoerneMarketDays@serpapi-events
-DTSTAMP:20250308
-DTSTART;VALUE=DATE:20250308
-DTEND;VALUE=DATE:20250309
-TRANSP:TRANSPARENT
-SUMMARY:Boerne Market Days
-LOCATION:Main Plaza\, Boerne\, TX
-DESCRIPTION:When: Sun\, Mar 8\, 10 AM – 4 PM\nLink: https://business.boerne.org/events/details/boerne-market-days-03-08-2026-30467
-END:VEVENT
-BEGIN:VEVENT
-UID:27-BoerneMarketDays@serpapi-events
-DTSTAMP:20250314
-DTSTART;VALUE=DATE:20250314
-DTEND;VALUE=DATE:20250315
-TRANSP:TRANSPARENT
-SUMMARY:Boerne Market Days
-LOCATION:Main Plaza\, Boerne\, TX
-DESCRIPTION:When: Sat\, Mar 14\, 10 AM – 5 PM\nLink: https://business.boerne.org/events/details/boerne-market-days-03-14-2026-30340
-END:VEVENT
-BEGIN:VEVENT
-UID:28-6thAnnualBurnsNightDinner@serpapi-events
-DTSTAMP:20250128
-DTSTART;VALUE=DATE:20250128
-DTEND;VALUE=DATE:20250129
-TRANSP:TRANSPARENT
-SUMMARY:6th Annual Burns Night Dinner
-LOCATION:Richter Tavern\, 153 S Main St\, Boerne\, TX
-DESCRIPTION:When: Wed\, Jan 28\nLink: https://www.exploretock.com/richter-tavern-boerne/event/584234/6th-annual-burns-night-dinner
-END:VEVENT
-BEGIN:VEVENT
-UID:29-BoerneMarketDays@serpapi-events
+UID:20-BoerneMarketDays@serpapi-events
 DTSTAMP:20250214
 DTSTART;VALUE=DATE:20250214
 DTEND;VALUE=DATE:20250215
 TRANSP:TRANSPARENT
 SUMMARY:Boerne Market Days
 LOCATION:Main Plaza\, Boerne\, TX
-DESCRIPTION:When: Sat\, Feb 14\, 10 AM – 5 PM\nLink: https://business.boerne.org/events/details/boerne-market-days-02-14-2026-30339?calendarMonth=2026-02-01
+DESCRIPTION:When: Sat\, Feb 14\, 10 AM – 5 PM CST\nLink: https://business.boerne.org/events/details/boerne-market-days-02-14-2026-30339?calendarMonth=2026-02-01
+END:VEVENT
+BEGIN:VEVENT
+UID:21-MobilitySnack@serpapi-events
+DTSTAMP:20251224
+DTSTART;VALUE=DATE:20251224
+DTEND;VALUE=DATE:20251225
+TRANSP:TRANSPARENT
+SUMMARY:Mobility Snack
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Wed\, Dec 24\, 12:00 – 12:30 PM CST\nLink: https://www.groundedmovement.org/schedule/b0f894ad-8496-4c4c-96a3-1723b5f340df_1766599200
+END:VEVENT
+BEGIN:VEVENT
+UID:22-BaseballforBabiesatTheDugoutofBoerne@serpapi-events
+DTSTAMP:20250328
+DTSTART;VALUE=DATE:20250328
+DTEND;VALUE=DATE:20250329
+TRANSP:TRANSPARENT
+SUMMARY:Baseball for Babies at The Dugout of Boerne
+LOCATION:The Dugout\, 132 Old San Antonio Rd\, Boerne\, TX
+DESCRIPTION:When: Sat\, Mar 28\, 1 – 4 PM CDT\nLink: https://theboernelife.com/events/tag/fundraiser/
+END:VEVENT
+BEGIN:VEVENT
+UID:23-BoerneMarketDays@serpapi-events
+DTSTAMP:20250110
+DTSTART;VALUE=DATE:20250110
+DTEND;VALUE=DATE:20250111
+TRANSP:TRANSPARENT
+SUMMARY:Boerne Market Days
+LOCATION:Main Plaza\, Boerne\, TX
+DESCRIPTION:When: Sat\, Jan 10\, 10 AM – 5 PM CST\nLink: http://business.boerne.org/events/details/boerne-market-days-01-10-2026-30338
+END:VEVENT
+BEGIN:VEVENT
+UID:24-MobilitySnack@serpapi-events
+DTSTAMP:20251225
+DTSTART;VALUE=DATE:20251225
+DTEND;VALUE=DATE:20251226
+TRANSP:TRANSPARENT
+SUMMARY:Mobility Snack
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Thu\, Dec 25\, 12:15 – 12:45 PM CST\nLink: https://www.groundedmovement.org/schedule/d4b112b7-52cd-4d3b-aea8-d022d437f8de_1766686500
+END:VEVENT
+BEGIN:VEVENT
+UID:25-BoerneMarketDays@serpapi-events
+DTSTAMP:20250208
+DTSTART;VALUE=DATE:20250208
+DTEND;VALUE=DATE:20250209
+TRANSP:TRANSPARENT
+SUMMARY:Boerne Market Days
+LOCATION:Main Plaza\, Boerne\, TX
+DESCRIPTION:When: Sun\, Feb 8\, 10 AM – 4 PM CST\nLink: https://business.boerne.org/events/details/boerne-market-days-02-08-2026-30466?calendarMonth=2026-02-01
+END:VEVENT
+BEGIN:VEVENT
+UID:26-NoahPeterson@serpapi-events
+DTSTAMP:20250111
+DTSTART;VALUE=DATE:20250111
+DTEND;VALUE=DATE:20250112
+TRANSP:TRANSPARENT
+SUMMARY:Noah Peterson
+LOCATION:The Dodging Duck Brewhaus & Restaurant\, 402 River Rd\, Boerne\, TX
+DESCRIPTION:When: Sun\, Jan 11\, 11 AM – 3 PM CST\nLink: https://open.spotify.com/concert/3DJ7FYtr3Dsar0NOP4ep6i
+END:VEVENT
+BEGIN:VEVENT
+UID:27-WholesomeYoga@serpapi-events
+DTSTAMP:20251225
+DTSTART;VALUE=DATE:20251225
+DTEND;VALUE=DATE:20251226
+TRANSP:TRANSPARENT
+SUMMARY:Wholesome Yoga
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Thu\, Dec 25\, 9:30 – 10:30 AM CST\nLink: https://www.groundedmovement.org/schedule/d84397c9-de40-4689-ae8a-aa3779b55cb4_1766676600
+END:VEVENT
+BEGIN:VEVENT
+UID:28-AuthorAlley@serpapi-events
+DTSTAMP:20250110
+DTSTART;VALUE=DATE:20250110
+DTEND;VALUE=DATE:20250111
+TRANSP:TRANSPARENT
+SUMMARY:Author Alley
+LOCATION:The Boerne Bookshop\, 153 S Main St Ste 120\, Boerne\, TX
+DESCRIPTION:When: Sat\, Jan 10\, 12 – 4 PM CST\nLink: https://theboernelife.com/events/tag/author/map/?tribe-bar-date=2025-12-15
+END:VEVENT
+BEGIN:VEVENT
+UID:29-BoerneMarketDays@serpapi-events
+DTSTAMP:20250412
+DTSTART;VALUE=DATE:20250412
+DTEND;VALUE=DATE:20250413
+TRANSP:TRANSPARENT
+SUMMARY:Boerne Market Days
+LOCATION:Main Plaza\, Boerne\, TX
+DESCRIPTION:When: Sun\, Apr 12\, 10 AM – 4 PM CDT\nLink: https://business.boerne.org/events/details/boerne-market-days-04-12-2026-30468
+END:VEVENT
+BEGIN:VEVENT
+UID:30-NoahPeterson@serpapi-events
+DTSTAMP:20250201
+DTSTART;VALUE=DATE:20250201
+DTEND;VALUE=DATE:20250202
+TRANSP:TRANSPARENT
+SUMMARY:Noah Peterson
+LOCATION:The Dodging Duck Brewhaus & Restaurant\, 402 River Rd\, Boerne\, TX
+DESCRIPTION:When: Sun\, Feb 1\, 11 AM – 3 PM CST\nLink: https://open.spotify.com/concert/45pqa8lYYwbXqW6CFpDHeH
+END:VEVENT
+BEGIN:VEVENT
+UID:31-NoahPeterson@serpapi-events
+DTSTAMP:20250208
+DTSTART;VALUE=DATE:20250208
+DTEND;VALUE=DATE:20250209
+TRANSP:TRANSPARENT
+SUMMARY:Noah Peterson
+LOCATION:The Dodging Duck Brewhaus & Restaurant\, 402 River Rd\, Boerne\, TX
+DESCRIPTION:When: Sun\, Feb 8\, 11 AM – 3 PM CST\nLink: https://open.spotify.com/concert/5FERnH15yjUKmd4UUu3ZNm
+END:VEVENT
+BEGIN:VEVENT
+UID:32-MurderMysteryDinner@serpapi-events
+DTSTAMP:20250115
+DTSTART;VALUE=DATE:20250115
+DTEND;VALUE=DATE:20250116
+TRANSP:TRANSPARENT
+SUMMARY:Murder Mystery Dinner
+LOCATION:Richter Tavern\, 153 S Main St\, Boerne\, TX
+DESCRIPTION:When: Thu\, Jan 15\, 6:00 – 11:59 PM CST\nLink: https://business.boerne.org/events/details/a-deadly-vintage-murder-mystery-at-richter-cork-keg-32050
+END:VEVENT
+BEGIN:VEVENT
+UID:33-BoerneMarketDays@serpapi-events
+DTSTAMP:20250110
+DTSTART;VALUE=DATE:20250110
+DTEND;VALUE=DATE:20250111
+TRANSP:TRANSPARENT
+SUMMARY:Boerne Market Days
+LOCATION:Main Plaza\, Boerne\, TX
+DESCRIPTION:When: Sat\, Jan 10\, 10 AM – 5 PM CST\nLink: http://business.boerne.org/events/details/boerne-market-days-01-10-2026-30338
+END:VEVENT
+BEGIN:VEVENT
+UID:34-GameKnightatCoopersKingdom@serpapi-events
+DTSTAMP:20251231
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260101
+TRANSP:TRANSPARENT
+SUMMARY:Game Knight at Cooper’s Kingdom
+LOCATION:Cooper's Kingdom\, 129 Old San Antonio Rd\, Boerne\, TX
+DESCRIPTION:When: Wed\, Dec 31\, 5:30 – 8:30 PM CST\nLink: https://theboernelife.com/events/tag/game-night/map/?tribe-bar-date=2025-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:35-BoerneMarketDays@serpapi-events
+DTSTAMP:20250214
+DTSTART;VALUE=DATE:20250214
+DTEND;VALUE=DATE:20250215
+TRANSP:TRANSPARENT
+SUMMARY:Boerne Market Days
+LOCATION:Main Plaza\, Boerne\, TX
+DESCRIPTION:When: Sat\, Feb 14\, 10 AM – 5 PM CST\nLink: https://business.boerne.org/events/details/boerne-market-days-02-14-2026-30339?calendarMonth=2026-02-01
+END:VEVENT
+BEGIN:VEVENT
+UID:36-CiboloFarmersMarketatHerffFarm@serpapi-events
+DTSTAMP:20250103
+DTSTART;VALUE=DATE:20250103
+DTEND;VALUE=DATE:20250104
+TRANSP:TRANSPARENT
+SUMMARY:Cibolo Farmers Market at Herff Farm
+LOCATION:Herff Farm\, 33 Herff Rd\, Boerne\, TX
+DESCRIPTION:When: Sat\, Jan 3\, 9 AM – 1 PM CST\nLink: https://business.boerne.org/events/details/cibolo-farmers-market-at-herff-farm-01-03-2026-29642?calendarMonth=2026-01-01
+END:VEVENT
+BEGIN:VEVENT
+UID:37-RestorativeYogaatSanAntonioYogainBoerne@serpapi-events
+DTSTAMP:20250103
+DTSTART;VALUE=DATE:20250103
+DTEND;VALUE=DATE:20250104
+TRANSP:TRANSPARENT
+SUMMARY:Restorative Yoga at San Antonio Yoga in Boerne
+LOCATION:San Antonio Yoga in Boerne\, 101 Oak Ridge Dr\, Boerne\, TX
+DESCRIPTION:When: Sat\, Jan 3\, 10 AM – 12 PM CST\nLink: https://business.boerne.org/events/details/restorivate-yoga-01-03-2026-31523
+END:VEVENT
+BEGIN:VEVENT
+UID:38-BoerneMarketDays@serpapi-events
+DTSTAMP:20250208
+DTSTART;VALUE=DATE:20250208
+DTEND;VALUE=DATE:20250209
+TRANSP:TRANSPARENT
+SUMMARY:Boerne Market Days
+LOCATION:Main Plaza\, Boerne\, TX
+DESCRIPTION:When: Sun\, Feb 8\, 10 AM – 4 PM CST\nLink: https://business.boerne.org/events/details/boerne-market-days-02-08-2026-30466?calendarMonth=2026-02-01
+END:VEVENT
+BEGIN:VEVENT
+UID:39-NoahPeterson@serpapi-events
+DTSTAMP:20250322
+DTSTART;VALUE=DATE:20250322
+DTEND;VALUE=DATE:20250323
+TRANSP:TRANSPARENT
+SUMMARY:Noah Peterson
+LOCATION:The Dodging Duck Brewhaus & Restaurant\, 402 River Rd\, Boerne\, TX
+DESCRIPTION:When: Sun\, Mar 22\, 11 AM – 3 PM CDT\nLink: https://open.spotify.com/concert/6xg5Znnb6dg1kAZ69UcXWf
+END:VEVENT
+BEGIN:VEVENT
+UID:40-CommunityVibes@serpapi-events
+DTSTAMP:20250116
+DTSTART;VALUE=DATE:20250116
+DTEND;VALUE=DATE:20250117
+TRANSP:TRANSPARENT
+SUMMARY:Community Vibes
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Fri\, Jan 16\, 5:30 – 6:00 PM\nLink: https://www.groundedmovement.org/schedule/387af194-2a1b-45d0-be31-13692a682ffa_1768606200
+END:VEVENT
+BEGIN:VEVENT
+UID:41-NoahPeterson@serpapi-events
+DTSTAMP:20250201
+DTSTART;VALUE=DATE:20250201
+DTEND;VALUE=DATE:20250202
+TRANSP:TRANSPARENT
+SUMMARY:Noah Peterson
+LOCATION:The Dodging Duck Brewhaus & Restaurant\, 402 River Rd\, Boerne\, TX
+DESCRIPTION:When: Sun\, Feb 1\, 11 AM – 3 PM\nLink: https://open.spotify.com/concert/45pqa8lYYwbXqW6CFpDHeH
+END:VEVENT
+BEGIN:VEVENT
+UID:42-NoahPeterson@serpapi-events
+DTSTAMP:20250208
+DTSTART;VALUE=DATE:20250208
+DTEND;VALUE=DATE:20250209
+TRANSP:TRANSPARENT
+SUMMARY:Noah Peterson
+LOCATION:The Dodging Duck Brewhaus & Restaurant\, 402 River Rd\, Boerne\, TX
+DESCRIPTION:When: Sun\, Feb 8\, 11 AM – 3 PM\nLink: https://open.spotify.com/concert/5FERnH15yjUKmd4UUu3ZNm
+END:VEVENT
+BEGIN:VEVENT
+UID:43-MurderMysteryDinner@serpapi-events
+DTSTAMP:20250115
+DTSTART;VALUE=DATE:20250115
+DTEND;VALUE=DATE:20250116
+TRANSP:TRANSPARENT
+SUMMARY:Murder Mystery Dinner
+LOCATION:Richter Tavern\, 153 S Main St\, Boerne\, TX
+DESCRIPTION:When: Thu\, Jan 15\, 6:00 – 11:59 PM\nLink: https://business.boerne.org/events/details/a-deadly-vintage-murder-mystery-at-richter-cork-keg-32050
+END:VEVENT
+BEGIN:VEVENT
+UID:44-CommunityVibes@serpapi-events
+DTSTAMP:20250123
+DTSTART;VALUE=DATE:20250123
+DTEND;VALUE=DATE:20250124
+TRANSP:TRANSPARENT
+SUMMARY:Community Vibes
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Fri\, Jan 23\, 5:30 – 6:00 PM\nLink: https://www.groundedmovement.org/schedule/387af194-2a1b-45d0-be31-13692a682ffa_1769211000
+END:VEVENT
+BEGIN:VEVENT
+UID:45-CommunityVibes@serpapi-events
+DTSTAMP:20250206
+DTSTART;VALUE=DATE:20250206
+DTEND;VALUE=DATE:20250207
+TRANSP:TRANSPARENT
+SUMMARY:Community Vibes
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Fri\, Feb 6\, 5:30 – 6:00 PM\nLink: https://www.groundedmovement.org/schedule/387af194-2a1b-45d0-be31-13692a682ffa_1770420600
+END:VEVENT
+BEGIN:VEVENT
+UID:46-RealityReaders@serpapi-events
+DTSTAMP:20250323
+DTSTART;VALUE=DATE:20250323
+DTEND;VALUE=DATE:20250324
+TRANSP:TRANSPARENT
+SUMMARY:Reality Readers
+LOCATION:Boerne Public Library\, 451 N Main St\, Boerne\, TX
+DESCRIPTION:When: Mon\, Mar 23\, 12 – 1 PM\nLink: https://theboernelife.com/events/tag/book/map/?tribe-bar-date=2026-03-01
+END:VEVENT
+BEGIN:VEVENT
+UID:47-CommunityVibes@serpapi-events
+DTSTAMP:20250130
+DTSTART;VALUE=DATE:20250130
+DTEND;VALUE=DATE:20250131
+TRANSP:TRANSPARENT
+SUMMARY:Community Vibes
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Fri\, Jan 30\, 5:30 – 6:00 PM\nLink: https://www.groundedmovement.org/schedule/387af194-2a1b-45d0-be31-13692a682ffa_1769815800
+END:VEVENT
+BEGIN:VEVENT
+UID:48-CiboloFarmersMarketatHerffFarm@serpapi-events
+DTSTAMP:20250117
+DTSTART;VALUE=DATE:20250117
+DTEND;VALUE=DATE:20250118
+TRANSP:TRANSPARENT
+SUMMARY:Cibolo Farmers Market at Herff Farm
+LOCATION:Herff Farm\, 33 Herff Rd\, Boerne\, TX
+DESCRIPTION:When: Sat\, Jan 17\, 9 AM – 1 PM\nLink: https://business.boerne.org/events/details/cibolo-farmers-market-at-herff-farm-01-17-2026-29644
+END:VEVENT
+BEGIN:VEVENT
+UID:49-GameKnightatCoopersKingdom@serpapi-events
+DTSTAMP:20251231
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260101
+TRANSP:TRANSPARENT
+SUMMARY:Game Knight at Cooper’s Kingdom
+LOCATION:Cooper's Kingdom\, 129 Old San Antonio Rd\, Boerne\, TX
+DESCRIPTION:When: Wed\, Dec 31\, 5:30 – 8:30 PM\nLink: https://theboernelife.com/events/tag/game-night/map/?tribe-bar-date=2025-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:50-NoahPeterson@serpapi-events
+DTSTAMP:20250104
+DTSTART;VALUE=DATE:20250104
+DTEND;VALUE=DATE:20250105
+TRANSP:TRANSPARENT
+SUMMARY:Noah Peterson
+LOCATION:The Dodging Duck Brewhaus & Restaurant\, 402 River Rd\, Boerne\, TX
+DESCRIPTION:When: Sun\, Jan 4\, 11 AM – 3 PM CST\nLink: https://open.spotify.com/concert/6XurM3EL82dKDRYmRGZGP7
+END:VEVENT
+BEGIN:VEVENT
+UID:51-NoahPeterson@serpapi-events
+DTSTAMP:20250201
+DTSTART;VALUE=DATE:20250201
+DTEND;VALUE=DATE:20250202
+TRANSP:TRANSPARENT
+SUMMARY:Noah Peterson
+LOCATION:The Dodging Duck Brewhaus & Restaurant\, 402 River Rd\, Boerne\, TX
+DESCRIPTION:When: Sun\, Feb 1\, 11 AM – 3 PM CST\nLink: https://open.spotify.com/concert/45pqa8lYYwbXqW6CFpDHeH
+END:VEVENT
+BEGIN:VEVENT
+UID:52-NoahPeterson@serpapi-events
+DTSTAMP:20250208
+DTSTART;VALUE=DATE:20250208
+DTEND;VALUE=DATE:20250209
+TRANSP:TRANSPARENT
+SUMMARY:Noah Peterson
+LOCATION:The Dodging Duck Brewhaus & Restaurant\, 402 River Rd\, Boerne\, TX
+DESCRIPTION:When: Sun\, Feb 8\, 11 AM – 3 PM CST\nLink: https://open.spotify.com/concert/5FERnH15yjUKmd4UUu3ZNm
+END:VEVENT
+BEGIN:VEVENT
+UID:53-ComfortFlow@serpapi-events
+DTSTAMP:20250101
+DTSTART;VALUE=DATE:20250101
+DTEND;VALUE=DATE:20250102
+TRANSP:TRANSPARENT
+SUMMARY:Comfort Flow
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Thu\, Jan 1\, 8 – 9 AM CST\nLink: https://www.groundedmovement.org/schedule/9a48060d-13d3-4d2c-942e-2b86436e2f45_1767276000
+END:VEVENT
+BEGIN:VEVENT
+UID:54-MurderMysteryDinner@serpapi-events
+DTSTAMP:20250115
+DTSTART;VALUE=DATE:20250115
+DTEND;VALUE=DATE:20250116
+TRANSP:TRANSPARENT
+SUMMARY:Murder Mystery Dinner
+LOCATION:Richter Tavern\, 153 S Main St\, Boerne\, TX
+DESCRIPTION:When: Thu\, Jan 15\, 6:00 – 11:59 PM CST\nLink: https://business.boerne.org/events/details/a-deadly-vintage-murder-mystery-at-richter-cork-keg-32050
+END:VEVENT
+BEGIN:VEVENT
+UID:55-AuthorEventBookSigningEricGonzalesTheWriter@serpapi-events
+DTSTAMP:20250110
+DTSTART;VALUE=DATE:20250110
+DTEND;VALUE=DATE:20250111
+TRANSP:TRANSPARENT
+SUMMARY:Author Event/Book Signing — Eric Gonzales The Writer
+LOCATION:The Boerne Bookshop\, 153 S Main St Ste 120\, Boerne\, TX
+DESCRIPTION:When: Sat\, Jan 10\, 12 PM CST\nLink: https://www.ericgonzaleswriter.com/events/author-eventbook-signing
+END:VEVENT
+BEGIN:VEVENT
+UID:56-RealityReaders@serpapi-events
+DTSTAMP:20250223
+DTSTART;VALUE=DATE:20250223
+DTEND;VALUE=DATE:20250224
+TRANSP:TRANSPARENT
+SUMMARY:Reality Readers
+LOCATION:Boerne Public Library\, 451 N Main St\, Boerne\, TX
+DESCRIPTION:When: Mon\, Feb 23\, 12 – 1 PM CST\nLink: https://theboernelife.com/events/tag/book/week/2026-02-23/
+END:VEVENT
+BEGIN:VEVENT
+UID:57-GameKnightatCoopersKingdom@serpapi-events
+DTSTAMP:20251231
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260101
+TRANSP:TRANSPARENT
+SUMMARY:Game Knight at Cooper’s Kingdom
+LOCATION:Cooper's Kingdom\, 129 Old San Antonio Rd\, Boerne\, TX
+DESCRIPTION:When: Wed\, Dec 31\, 5:30 – 8:30 PM CST\nLink: https://theboernelife.com/events/tag/game-night/map/?tribe-bar-date=2025-12-31
+END:VEVENT
+BEGIN:VEVENT
+UID:58-DesignReviewCommittee@serpapi-events
+DTSTAMP:20250108
+DTSTART;VALUE=DATE:20250108
+DTEND;VALUE=DATE:20250109
+TRANSP:TRANSPARENT
+SUMMARY:Design Review Committee
+LOCATION:Boerne City Hall\, 447 N Main St\, Boerne\, TX
+DESCRIPTION:When: Thu\, Jan 8\, 6 PM CST\nLink: https://www.ci.boerne.tx.us/Calendar.aspx?EID=18518
+END:VEVENT
+BEGIN:VEVENT
+UID:59-WholesomeYoga@serpapi-events
+DTSTAMP:20250101
+DTSTART;VALUE=DATE:20250101
+DTEND;VALUE=DATE:20250102
+TRANSP:TRANSPARENT
+SUMMARY:Wholesome Yoga
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Thu\, Jan 1\, 9:30 – 10:30 AM CST\nLink: https://www.groundedmovement.org/schedule/d84397c9-de40-4689-ae8a-aa3779b55cb4_1767281400
+END:VEVENT
+BEGIN:VEVENT
+UID:60-CiboloFarmersMarketatHerffFarm@serpapi-events
+DTSTAMP:20250103
+DTSTART;VALUE=DATE:20250103
+DTEND;VALUE=DATE:20250104
+TRANSP:TRANSPARENT
+SUMMARY:Cibolo Farmers Market at Herff Farm
+LOCATION:Herff Farm\, 33 Herff Rd\, Boerne\, TX
+DESCRIPTION:When: Sat\, Jan 3\, 9 AM – 1 PM CST\nLink: https://business.boerne.org/events/details/cibolo-farmers-market-at-herff-farm-01-03-2026-29642?calendarMonth=2026-01-01
+END:VEVENT
+BEGIN:VEVENT
+UID:61-ComfortFlow@serpapi-events
+DTSTAMP:20250115
+DTSTART;VALUE=DATE:20250115
+DTEND;VALUE=DATE:20250116
+TRANSP:TRANSPARENT
+SUMMARY:Comfort Flow
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Thu\, Jan 15\, 8 – 9 AM CST\nLink: https://www.groundedmovement.org/schedule/9a48060d-13d3-4d2c-942e-2b86436e2f45_1768485600
+END:VEVENT
+BEGIN:VEVENT
+UID:62-EricaDanielsMusicFreeRoamBrewingCompanySolo@serpapi-events
+DTSTAMP:20250321
+DTSTART;VALUE=DATE:20250321
+DTEND;VALUE=DATE:20250322
+TRANSP:TRANSPARENT
+SUMMARY:Erica Daniels Music: Free Roam Brewing Company - Solo
+LOCATION:Free Roam Brewing Company\, 325 S Main St\, Boerne\, TX
+DESCRIPTION:When: Sat\, Mar 21\, 6 – 10 PM CDT\nLink: https://www.mysanantonio.com/entertainment/?_evDiscoveryPath=/event/107693383n-erica-daniels-music-free-roam-brewing-company-solo
+END:VEVENT
+BEGIN:VEVENT
+UID:63-RestorativeYogaatSanAntonioYogainBoerne@serpapi-events
+DTSTAMP:20250103
+DTSTART;VALUE=DATE:20250103
+DTEND;VALUE=DATE:20250104
+TRANSP:TRANSPARENT
+SUMMARY:Restorative Yoga at San Antonio Yoga in Boerne
+LOCATION:San Antonio Yoga in Boerne\, 101 Oak Ridge Dr\, Boerne\, TX
+DESCRIPTION:When: Sat\, Jan 3\, 10 AM – 12 PM CST\nLink: https://business.boerne.org/events/details/restorivate-yoga-01-03-2026-31523
+END:VEVENT
+BEGIN:VEVENT
+UID:64-NoahPeterson@serpapi-events
+DTSTAMP:20250322
+DTSTART;VALUE=DATE:20250322
+DTEND;VALUE=DATE:20250323
+TRANSP:TRANSPARENT
+SUMMARY:Noah Peterson
+LOCATION:The Dodging Duck Brewhaus & Restaurant\, 402 River Rd\, Boerne\, TX
+DESCRIPTION:When: Sun\, Mar 22\, 11 AM – 3 PM CDT\nLink: https://open.spotify.com/concert/6xg5Znnb6dg1kAZ69UcXWf
+END:VEVENT
+BEGIN:VEVENT
+UID:65-NoahPeterson@serpapi-events
+DTSTAMP:20250125
+DTSTART;VALUE=DATE:20250125
+DTEND;VALUE=DATE:20250126
+TRANSP:TRANSPARENT
+SUMMARY:Noah Peterson
+LOCATION:The Dodging Duck Brewhaus & Restaurant\, 402 River Rd\, Boerne\, TX
+DESCRIPTION:When: Sun\, Jan 25\, 11 AM – 3 PM CST\nLink: https://open.spotify.com/concert/3Ka4prQciObKzHZ6DXMHoP
+END:VEVENT
+BEGIN:VEVENT
+UID:66-NEWYEARSHITTINGCAMPYOUTHBASEBALL@serpapi-events
+DTSTAMP:20260107
+DTSTART;VALUE=DATE:20260107
+DTEND;VALUE=DATE:20260109
+TRANSP:TRANSPARENT
+SUMMARY:NEW YEARS HITTING CAMP: YOUTH BASEBALL
+LOCATION:The Dugout\, 132 Old San Antonio Rd\, Boerne\, TX
+DESCRIPTION:When: Jan 7\, 2026\, 9:30 AM – Jan 8\, 2026\, 12:00 PM CST\nLink: https://www.activekids.com/boerne-tx/baseball/baseball-camps/new-years-hitting-camp-youth-baseball-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:67-LukeDaniel@serpapi-events
+DTSTAMP:20250124
+DTSTART;VALUE=DATE:20250124
+DTEND;VALUE=DATE:20250125
+TRANSP:TRANSPARENT
+SUMMARY:Luke Daniel
+LOCATION:Free Roam Brewing Company\, 325 S Main St\, Boerne\, TX
+DESCRIPTION:When: Sat\, Jan 24\, 6 – 10 PM CST\nLink: https://open.spotify.com/concert/7laFk54e68kDb7x1svd9Wl
+END:VEVENT
+BEGIN:VEVENT
+UID:68-NoahPeterson@serpapi-events
+DTSTAMP:20250308
+DTSTART;VALUE=DATE:20250308
+DTEND;VALUE=DATE:20250309
+TRANSP:TRANSPARENT
+SUMMARY:Noah Peterson
+LOCATION:The Dodging Duck Brewhaus & Restaurant\, 402 River Rd\, Boerne\, TX
+DESCRIPTION:When: Sun\, Mar 8\, 11 AM – 3 PM CDT\nLink: https://open.spotify.com/concert/6aWrh4TeiTVg5Ezd7Psx2c
+END:VEVENT
+BEGIN:VEVENT
+UID:69-NoahPeterson@serpapi-events
+DTSTAMP:20250222
+DTSTART;VALUE=DATE:20250222
+DTEND;VALUE=DATE:20250223
+TRANSP:TRANSPARENT
+SUMMARY:Noah Peterson
+LOCATION:The Dodging Duck Brewhaus & Restaurant\, 402 River Rd\, Boerne\, TX
+DESCRIPTION:When: Sun\, Feb 22\, 11 AM – 3 PM CST\nLink: https://open.spotify.com/concert/6wB9P70rZ1HmV48PWnYrTY
+END:VEVENT
+BEGIN:VEVENT
+UID:70-ArtAfterhoursAdultArtClasses@serpapi-events
+DTSTAMP:20251230
+DTSTART;VALUE=DATE:20251230
+DTEND;VALUE=DATE:20251231
+TRANSP:TRANSPARENT
+SUMMARY:Art Afterhours Adult Art Classes
+LOCATION:Agricultural Museum and Arts Center\, 102 City Park Rd\, Boerne\, TX
+DESCRIPTION:When: Tue\, Dec 30\, 7 – 9 PM\nLink: https://theboernelife.com/events/art-afterhours-adult-art-classes-2/2025-12-30/
+END:VEVENT
+BEGIN:VEVENT
+UID:71-Before9MorningMinglehostedbyTheHeightsPlasticSurgeryMedSpa@serpapi-events
+DTSTAMP:20250122
+DTSTART;VALUE=DATE:20250122
+DTEND;VALUE=DATE:20250123
+TRANSP:TRANSPARENT
+SUMMARY:Before 9 Morning Mingle hosted by The Heights Plastic Surgery & Med Spa
+LOCATION:The Heights Plastic Surgery Med Spa\, 221 Water St Suite 200B\, Boerne\, TX
+DESCRIPTION:When: Thu\, Jan 22\, 8:45 – 10:00 AM\nLink: https://business.boerne.org/events/details/before-9-morning-mingle-hosted-by-the-heights-plastic-surgery-med-spa-31955
+END:VEVENT
+BEGIN:VEVENT
+UID:72-CiboloFarmersMarketatHerffFarm@serpapi-events
+DTSTAMP:20250321
+DTSTART;VALUE=DATE:20250321
+DTEND;VALUE=DATE:20250322
+TRANSP:TRANSPARENT
+SUMMARY:Cibolo Farmers Market at Herff Farm
+LOCATION:Herff Farm\, 33 Herff Rd\, Boerne\, TX
+DESCRIPTION:When: Sat\, Mar 21\, 9 AM – 1 PM\nLink: http://boernechamber.chambermaster.com/events/details/cibolo-farmers-market-at-herff-farm-03-21-2026-29653
+END:VEVENT
+BEGIN:VEVENT
+UID:73-CiboloFarmersMarketatHerffFarm@serpapi-events
+DTSTAMP:20250328
+DTSTART;VALUE=DATE:20250328
+DTEND;VALUE=DATE:20250329
+TRANSP:TRANSPARENT
+SUMMARY:Cibolo Farmers Market at Herff Farm
+LOCATION:Herff Farm\, 33 Herff Rd\, Boerne\, TX
+DESCRIPTION:When: Sat\, Mar 28\, 9 AM – 1 PM\nLink: https://business.boerne.org/events/details/cibolo-farmers-market-at-herff-farm-03-28-2026-29654?calendarMonth=2026-03-01
+END:VEVENT
+BEGIN:VEVENT
+UID:74-NourishingFlow@serpapi-events
+DTSTAMP:20251229
+DTSTART;VALUE=DATE:20251229
+DTEND;VALUE=DATE:20251230
+TRANSP:TRANSPARENT
+SUMMARY:Nourishing Flow
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Mon\, Dec 29\, 7 – 8 AM\nLink: https://www.groundedmovement.org/schedule/004a5260-0a65-45ee-abd4-c4d1aa97429c_1767013200
+END:VEVENT
+BEGIN:VEVENT
+UID:75-HELLODOLLYAllSchoolMusical@serpapi-events
+DTSTAMP:20250123
+DTSTART;VALUE=DATE:20250123
+DTEND;VALUE=DATE:20250124
+TRANSP:TRANSPARENT
+SUMMARY:“HELLO\, DOLLY” All-School Musical
+LOCATION:201 Charger Blvd\, Boerne\, TX
+DESCRIPTION:When: Fri\, Jan 23\, 1 – 4 AM\nLink: https://www.facebook.com/events/201-charger-blvd-boerne-tx/hello-dolly-all-school-musical/822169540392130/
+END:VEVENT
+BEGIN:VEVENT
+UID:76-DeVinoLadiesNight@serpapi-events
+DTSTAMP:20250101
+DTSTART;VALUE=DATE:20250101
+DTEND;VALUE=DATE:20250102
+TRANSP:TRANSPARENT
+SUMMARY:DeVino Ladies Night
+LOCATION:DeVino Cellars\, 1109 S Main St #101\, Boerne\, TX
+DESCRIPTION:When: Thu\, Jan 1\, 4 – 9 PM\nLink: http://boernechamber.chambermaster.com/events/details/devino-ladies-night-01-01-2026-31065
+END:VEVENT
+BEGIN:VEVENT
+UID:77-HistoricLandmarkCommission@serpapi-events
+DTSTAMP:20250106
+DTSTART;VALUE=DATE:20250106
+DTEND;VALUE=DATE:20250107
+TRANSP:TRANSPARENT
+SUMMARY:Historic Landmark Commission
+LOCATION:Boerne City Hall\, 447 N Main St\, Boerne\, TX
+DESCRIPTION:When: Tue\, Jan 6\, 5:30 PM\nLink: https://www.ci.boerne.tx.us/Calendar.aspx?EID=21973
+END:VEVENT
+BEGIN:VEVENT
+UID:78-CityCouncilMeeting@serpapi-events
+DTSTAMP:20250127
+DTSTART;VALUE=DATE:20250127
+DTEND;VALUE=DATE:20250128
+TRANSP:TRANSPARENT
+SUMMARY:City Council Meeting
+LOCATION:Boerne City Hall\, 447 N Main St\, Boerne\, TX
+DESCRIPTION:When: Tue\, Jan 27\, 6 PM\nLink: https://www.ci.boerne.tx.us/Calendar.aspx?EID=22175
+END:VEVENT
+BEGIN:VEVENT
+UID:79-BlazingBoerneMahJonggTournament@serpapi-events
+DTSTAMP:20250223
+DTSTART;VALUE=DATE:20250223
+DTEND;VALUE=DATE:20250224
+TRANSP:TRANSPARENT
+SUMMARY:Blazing Boerne Mah Jongg Tournament
+LOCATION:The Kendall\, 128 W Blanco Rd\, Boerne\, TX
+DESCRIPTION:When: Mon\, Feb 23\nLink: https://allevents.in/boerne/blazing-boerne-mah-jongg-tournament/100001851768833429
+END:VEVENT
+BEGIN:VEVENT
+UID:80-RestorativeYogaatSanAntonioYogainBoerne@serpapi-events
+DTSTAMP:20250207
+DTSTART;VALUE=DATE:20250207
+DTEND;VALUE=DATE:20250208
+TRANSP:TRANSPARENT
+SUMMARY:Restorative Yoga at San Antonio Yoga in Boerne
+LOCATION:San Antonio Yoga in Boerne\, 101 Oak Ridge Dr\, Boerne\, TX
+DESCRIPTION:When: Sat\, Feb 7\, 10 AM – 12 PM\nLink: https://business.boerne.org/events/details/restorivate-yoga-02-07-2026-31524?calendarMonth=2026-02-01
+END:VEVENT
+BEGIN:VEVENT
+UID:81-CommunityVibes@serpapi-events
+DTSTAMP:20250206
+DTSTART;VALUE=DATE:20250206
+DTEND;VALUE=DATE:20250207
+TRANSP:TRANSPARENT
+SUMMARY:Community Vibes
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Fri\, Feb 6\, 5:30 – 6:00 PM\nLink: https://www.groundedmovement.org/schedule/387af194-2a1b-45d0-be31-13692a682ffa_1770420600
+END:VEVENT
+BEGIN:VEVENT
+UID:82-NoahPeterson@serpapi-events
+DTSTAMP:20250315
+DTSTART;VALUE=DATE:20250315
+DTEND;VALUE=DATE:20250316
+TRANSP:TRANSPARENT
+SUMMARY:Noah Peterson
+LOCATION:The Dodging Duck Brewhaus & Restaurant\, 402 River Rd\, Boerne\, TX
+DESCRIPTION:When: Sun\, Mar 15\, 11 AM – 3 PM\nLink: https://open.spotify.com/concert/59aMeOBnNBicFw0ytp2UUn
+END:VEVENT
+BEGIN:VEVENT
+UID:83-CommunityVibes@serpapi-events
+DTSTAMP:20250130
+DTSTART;VALUE=DATE:20250130
+DTEND;VALUE=DATE:20250131
+TRANSP:TRANSPARENT
+SUMMARY:Community Vibes
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Fri\, Jan 30\, 5:30 – 6:00 PM\nLink: https://www.groundedmovement.org/schedule/387af194-2a1b-45d0-be31-13692a682ffa_1769815800
+END:VEVENT
+BEGIN:VEVENT
+UID:84-CommunityVibes@serpapi-events
+DTSTAMP:20250220
+DTSTART;VALUE=DATE:20250220
+DTEND;VALUE=DATE:20250221
+TRANSP:TRANSPARENT
+SUMMARY:Community Vibes
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Fri\, Feb 20\, 5:30 – 6:00 PM\nLink: https://www.groundedmovement.org/schedule/387af194-2a1b-45d0-be31-13692a682ffa_1771630200
+END:VEVENT
+BEGIN:VEVENT
+UID:85-RealityReaders@serpapi-events
+DTSTAMP:20250126
+DTSTART;VALUE=DATE:20250126
+DTEND;VALUE=DATE:20250127
+TRANSP:TRANSPARENT
+SUMMARY:Reality Readers
+LOCATION:Boerne Public Library\, 451 N Main St\, Boerne\, TX
+DESCRIPTION:When: Mon\, Jan 26\, 12 – 1 PM\nLink: https://theboernelife.com/events/tag/book/week/2026-01-26/
+END:VEVENT
+BEGIN:VEVENT
+UID:86-ChamberWednesdayLeadsGroup@serpapi-events
+DTSTAMP:20250114
+DTSTART;VALUE=DATE:20250114
+DTEND;VALUE=DATE:20250115
+TRANSP:TRANSPARENT
+SUMMARY:Chamber Wednesday Leads Group
+LOCATION:Greater Boerne Chamber of Commerce\, 121 S Main St\, Boerne\, TX
+DESCRIPTION:When: Wed\, Jan 14\, 11 AM – 12 PM\nLink: https://business.boerne.org/events/details/chamber-wednesday-leads-group-01-14-2026-29301
+END:VEVENT
+BEGIN:VEVENT
+UID:87-NoahPeterson@serpapi-events
+DTSTAMP:20250405
+DTSTART;VALUE=DATE:20250405
+DTEND;VALUE=DATE:20250406
+TRANSP:TRANSPARENT
+SUMMARY:Noah Peterson
+LOCATION:The Dodging Duck Brewhaus & Restaurant\, 402 River Rd\, Boerne\, TX
+DESCRIPTION:When: Sun\, Apr 5\, 11 AM – 3 PM\nLink: https://open.spotify.com/concert/0dlvRXsW69WLKv1gwoaBUY
+END:VEVENT
+BEGIN:VEVENT
+UID:88-CommunityVibes@serpapi-events
+DTSTAMP:20250227
+DTSTART;VALUE=DATE:20250227
+DTEND;VALUE=DATE:20250228
+TRANSP:TRANSPARENT
+SUMMARY:Community Vibes
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Fri\, Feb 27\, 5:30 – 6:00 PM\nLink: https://www.groundedmovement.org/schedule/387af194-2a1b-45d0-be31-13692a682ffa_1772235000
+END:VEVENT
+BEGIN:VEVENT
+UID:89-MasqueradeNewYearsEveParty@serpapi-events
+DTSTAMP:20251231
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260101
+TRANSP:TRANSPARENT
+SUMMARY:Masquerade New Year's Eve Party
+LOCATION:Ironwood Events at Von Erich Ranch\, 1637 Ranch Rd 473\, Boerne\, TX
+DESCRIPTION:When: Wed\, Dec 31\, 8:00 – 11:59 PM\nLink: https://business.boerne.org/events/details/masquerade-new-year-s-eve-party-at-ironwood-events-at-von-erich-ranch-32017
+END:VEVENT
+BEGIN:VEVENT
+UID:90-MasqueradeNewYearsEveParty@serpapi-events
+DTSTAMP:20251231
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260101
+TRANSP:TRANSPARENT
+SUMMARY:Masquerade New Year's Eve Party
+LOCATION:Ironwood Events at Von Erich Ranch\, 1637 Ranch Rd 473\, Boerne\, TX
+DESCRIPTION:When: Wed\, Dec 31\, 8:00 – 11:59 PM CST\nLink: https://business.boerne.org/events/details/masquerade-new-year-s-eve-party-at-ironwood-events-at-von-erich-ranch-32017
+END:VEVENT
+BEGIN:VEVENT
+UID:91-NoahPeterson@serpapi-events
+DTSTAMP:20250329
+DTSTART;VALUE=DATE:20250329
+DTEND;VALUE=DATE:20250330
+TRANSP:TRANSPARENT
+SUMMARY:Noah Peterson
+LOCATION:The Dodging Duck Brewhaus & Restaurant\, 402 River Rd\, Boerne\, TX
+DESCRIPTION:When: Sun\, Mar 29\, 11 AM – 3 PM CDT\nLink: https://open.spotify.com/concert/7pqz5htWRmjge2YM6iQmmf
+END:VEVENT
+BEGIN:VEVENT
+UID:92-LiveMusicatValeriaRestaurant@serpapi-events
+DTSTAMP:20260110
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260112
+TRANSP:TRANSPARENT
+SUMMARY:Live Music at Valeria Restaurant
+LOCATION:Valeria Restaurant\, 109 Waterview Pkwy STE 105\, Boerne\, TX
+DESCRIPTION:When: Jan 10\, 2026\, 6 PM – Jan 11\, 2026\, 9 PM CST\nLink: https://theboernelife.com/events/live-music-at-valeria-restaurant/2026-01-10/
+END:VEVENT
+BEGIN:VEVENT
+UID:93-WholesomeYoga@serpapi-events
+DTSTAMP:20250115
+DTSTART;VALUE=DATE:20250115
+DTEND;VALUE=DATE:20250116
+TRANSP:TRANSPARENT
+SUMMARY:Wholesome Yoga
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Thu\, Jan 15\, 9:30 – 10:30 AM CST\nLink: https://www.groundedmovement.org/schedule/d84397c9-de40-4689-ae8a-aa3779b55cb4_1768491000
+END:VEVENT
+BEGIN:VEVENT
+UID:94-ChamberWednesdayLeadsGroup@serpapi-events
+DTSTAMP:20250225
+DTSTART;VALUE=DATE:20250225
+DTEND;VALUE=DATE:20250226
+TRANSP:TRANSPARENT
+SUMMARY:Chamber Wednesday Leads Group
+LOCATION:Greater Boerne Chamber of Commerce\, 121 S Main St\, Boerne\, TX
+DESCRIPTION:When: Wed\, Feb 25\, 11 AM – 12 PM CST\nLink: https://business.boerne.org/events/details/chamber-wednesday-leads-group-02-25-2026-29323?calendarMonth=2026-02-01
+END:VEVENT
+BEGIN:VEVENT
+UID:95-LiveMusicatValeriaRestaurant@serpapi-events
+DTSTAMP:20260109
+DTSTART;VALUE=DATE:20260109
+DTEND;VALUE=DATE:20260111
+TRANSP:TRANSPARENT
+SUMMARY:Live Music at Valeria Restaurant
+LOCATION:Valeria Restaurant\, 109 Waterview Pkwy STE 105\, Boerne\, TX
+DESCRIPTION:When: Jan 9\, 2026\, 6 PM – Jan 10\, 2026\, 9 PM CST\nLink: https://theboernelife.com/events/live-music-at-valeria-restaurant/2026-01-09/
+END:VEVENT
+BEGIN:VEVENT
+UID:96-ComfortFlow@serpapi-events
+DTSTAMP:20250226
+DTSTART;VALUE=DATE:20250226
+DTEND;VALUE=DATE:20250227
+TRANSP:TRANSPARENT
+SUMMARY:Comfort Flow
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Thu\, Feb 26\, 8 – 9 AM CST\nLink: https://www.groundedmovement.org/schedule/9a48060d-13d3-4d2c-942e-2b86436e2f45_1772114400
+END:VEVENT
+BEGIN:VEVENT
+UID:97-NoahPeterson@serpapi-events
+DTSTAMP:20250301
+DTSTART;VALUE=DATE:20250301
+DTEND;VALUE=DATE:20250302
+TRANSP:TRANSPARENT
+SUMMARY:Noah Peterson
+LOCATION:The Dodging Duck Brewhaus & Restaurant\, 402 River Rd\, Boerne\, TX
+DESCRIPTION:When: Sun\, Mar 1\, 11 AM – 3 PM CST\nLink: https://open.spotify.com/concert/5ZKA4dHK7FsHYKvqmU3s7u
+END:VEVENT
+BEGIN:VEVENT
+UID:98-ChamberThursdayLeadsGroup@serpapi-events
+DTSTAMP:20250122
+DTSTART;VALUE=DATE:20250122
+DTEND;VALUE=DATE:20250123
+TRANSP:TRANSPARENT
+SUMMARY:Chamber Thursday Leads Group
+LOCATION:Greater Boerne Chamber of Commerce\, 121 S Main St\, Boerne\, TX
+DESCRIPTION:When: Thu\, Jan 22\, 9 – 10 AM CST\nLink: http://boernechamber.chambermaster.com/events/details/chamber-thursday-leads-group-01-22-2026-29364
+END:VEVENT
+BEGIN:VEVENT
+UID:99-CiboloFarmersMarketatHerffFarm@serpapi-events
+DTSTAMP:20250221
+DTSTART;VALUE=DATE:20250221
+DTEND;VALUE=DATE:20250222
+TRANSP:TRANSPARENT
+SUMMARY:Cibolo Farmers Market at Herff Farm
+LOCATION:Herff Farm\, 33 Herff Rd\, Boerne\, TX
+DESCRIPTION:When: Sat\, Feb 21\, 9 AM – 1 PM CST\nLink: https://business.boerne.org/events/details/cibolo-farmers-market-at-herff-farm-02-21-2026-29649?calendarMonth=2026-02-01
+END:VEVENT
+BEGIN:VEVENT
+UID:100-NoahPeterson@serpapi-events
+DTSTAMP:20250301
+DTSTART;VALUE=DATE:20250301
+DTEND;VALUE=DATE:20250302
+TRANSP:TRANSPARENT
+SUMMARY:Noah Peterson
+LOCATION:The Dodging Duck Brewhaus & Restaurant\, 402 River Rd\, Boerne\, TX
+DESCRIPTION:When: Sun\, Mar 1\, 11 AM – 3 PM CST\nLink: https://open.spotify.com/concert/5ZKA4dHK7FsHYKvqmU3s7u
+END:VEVENT
+BEGIN:VEVENT
+UID:101-ChamberThursdayLeadsGroup@serpapi-events
+DTSTAMP:20250122
+DTSTART;VALUE=DATE:20250122
+DTEND;VALUE=DATE:20250123
+TRANSP:TRANSPARENT
+SUMMARY:Chamber Thursday Leads Group
+LOCATION:Greater Boerne Chamber of Commerce\, 121 S Main St\, Boerne\, TX
+DESCRIPTION:When: Thu\, Jan 22\, 9 – 10 AM CST\nLink: http://boernechamber.chambermaster.com/events/details/chamber-thursday-leads-group-01-22-2026-29364
+END:VEVENT
+BEGIN:VEVENT
+UID:102-FreestyleClinic@serpapi-events
+DTSTAMP:20250102
+DTSTART;VALUE=DATE:20250102
+DTEND;VALUE=DATE:20250103
+TRANSP:TRANSPARENT
+SUMMARY:Freestyle Clinic
+LOCATION:106 City Park Rd\, Boerne\, TX
+DESCRIPTION:When: Fri\, Jan 2\, 9:00 – 9:30 PM\nLink: https://www.boerneelite.com/event-details/freestyle-clinic-1
+END:VEVENT
+BEGIN:VEVENT
+UID:103-CiboloFarmersMarketatHerffFarm@serpapi-events
+DTSTAMP:20250307
+DTSTART;VALUE=DATE:20250307
+DTEND;VALUE=DATE:20250308
+TRANSP:TRANSPARENT
+SUMMARY:Cibolo Farmers Market at Herff Farm
+LOCATION:Herff Farm\, 33 Herff Rd\, Boerne\, TX
+DESCRIPTION:When: Sat\, Mar 7\, 9 AM – 1 PM CST\nLink: https://business.boerne.org/events/details/cibolo-farmers-market-at-herff-farm-03-07-2026-29651
+END:VEVENT
+BEGIN:VEVENT
+UID:104-ArtAfterhoursAdultArtClasses@serpapi-events
+DTSTAMP:20251230
+DTSTART;VALUE=DATE:20251230
+DTEND;VALUE=DATE:20251231
+TRANSP:TRANSPARENT
+SUMMARY:Art Afterhours Adult Art Classes
+LOCATION:Agricultural Museum and Arts Center\, 102 City Park Rd\, Boerne\, TX
+DESCRIPTION:When: Tue\, Dec 30\, 7 – 9 PM CST\nLink: https://theboernelife.com/events/art-afterhours-adult-art-classes-2/2025-12-30/
+END:VEVENT
+BEGIN:VEVENT
+UID:105-Before9MorningMinglehostedbyTheHeightsPlasticSurgeryMedSpa@serpapi-events
+DTSTAMP:20250122
+DTSTART;VALUE=DATE:20250122
+DTEND;VALUE=DATE:20250123
+TRANSP:TRANSPARENT
+SUMMARY:Before 9 Morning Mingle hosted by The Heights Plastic Surgery & Med Spa
+LOCATION:The Heights Plastic Surgery Med Spa\, 221 Water St Suite 200B\, Boerne\, TX
+DESCRIPTION:When: Thu\, Jan 22\, 8:45 – 10:00 AM CST\nLink: https://business.boerne.org/events/details/before-9-morning-mingle-hosted-by-the-heights-plastic-surgery-med-spa-31955
+END:VEVENT
+BEGIN:VEVENT
+UID:106-WholesomeYoga@serpapi-events
+DTSTAMP:20250205
+DTSTART;VALUE=DATE:20250205
+DTEND;VALUE=DATE:20250206
+TRANSP:TRANSPARENT
+SUMMARY:Wholesome Yoga
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Thu\, Feb 5\, 9:30 – 10:30 AM CST\nLink: https://www.groundedmovement.org/schedule/d84397c9-de40-4689-ae8a-aa3779b55cb4_1770305400
+END:VEVENT
+BEGIN:VEVENT
+UID:107-CiboloFarmersMarketatHerffFarm@serpapi-events
+DTSTAMP:20250321
+DTSTART;VALUE=DATE:20250321
+DTEND;VALUE=DATE:20250322
+TRANSP:TRANSPARENT
+SUMMARY:Cibolo Farmers Market at Herff Farm
+LOCATION:Herff Farm\, 33 Herff Rd\, Boerne\, TX
+DESCRIPTION:When: Sat\, Mar 21\, 9 AM – 1 PM CDT\nLink: http://boernechamber.chambermaster.com/events/details/cibolo-farmers-market-at-herff-farm-03-21-2026-29653
+END:VEVENT
+BEGIN:VEVENT
+UID:108-CiboloFarmersMarketatHerffFarm@serpapi-events
+DTSTAMP:20250328
+DTSTART;VALUE=DATE:20250328
+DTEND;VALUE=DATE:20250329
+TRANSP:TRANSPARENT
+SUMMARY:Cibolo Farmers Market at Herff Farm
+LOCATION:Herff Farm\, 33 Herff Rd\, Boerne\, TX
+DESCRIPTION:When: Sat\, Mar 28\, 9 AM – 1 PM CDT\nLink: https://business.boerne.org/events/details/cibolo-farmers-market-at-herff-farm-03-28-2026-29654?calendarMonth=2026-03-01
+END:VEVENT
+BEGIN:VEVENT
+UID:109-HELLODOLLYAllSchoolMusical@serpapi-events
+DTSTAMP:20250123
+DTSTART;VALUE=DATE:20250123
+DTEND;VALUE=DATE:20250124
+TRANSP:TRANSPARENT
+SUMMARY:“HELLO\, DOLLY” All-School Musical
+LOCATION:201 Charger Blvd\, Boerne\, TX
+DESCRIPTION:When: Fri\, Jan 23\, 1 – 4 AM\nLink: https://www.facebook.com/events/201-charger-blvd-boerne-tx/hello-dolly-all-school-musical/822169540392130/
+END:VEVENT
+BEGIN:VEVENT
+UID:110-BluegrassJamatTheAgriCultural@serpapi-events
+DTSTAMP:20250124
+DTSTART;VALUE=DATE:20250124
+DTEND;VALUE=DATE:20250125
+TRANSP:TRANSPARENT
+SUMMARY:Bluegrass Jam at The AgriCultural
+LOCATION:Agricultural Museum and Arts Center\, 102 City Park Rd\, Boerne\, TX
+DESCRIPTION:When: Sat\, Jan 24\nLink: https://www.tourtexas.com/all-events/83838/Bluegrass-Jam-at-The-AgriCultural
+END:VEVENT
+BEGIN:VEVENT
+UID:111-ArtAfterhoursAdultArtClasses@serpapi-events
+DTSTAMP:20250113
+DTSTART;VALUE=DATE:20250113
+DTEND;VALUE=DATE:20250114
+TRANSP:TRANSPARENT
+SUMMARY:Art Afterhours Adult Art Classes
+LOCATION:Agricultural Museum and Arts Center\, 102 City Park Rd\, Boerne\, TX
+DESCRIPTION:When: Tue\, Jan 13\, 7 – 9 PM CST\nLink: https://theboernelife.com/events/art-afterhours-adult-art-classes-2/2026-01-13/
+END:VEVENT
+BEGIN:VEVENT
+UID:112-NourishingFlow@serpapi-events
+DTSTAMP:20250119
+DTSTART;VALUE=DATE:20250119
+DTEND;VALUE=DATE:20250120
+TRANSP:TRANSPARENT
+SUMMARY:Nourishing Flow
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Mon\, Jan 19\, 7 – 8 AM CST\nLink: https://www.groundedmovement.org/schedule/004a5260-0a65-45ee-abd4-c4d1aa97429c_1768827600
+END:VEVENT
+BEGIN:VEVENT
+UID:113-DeVinoLadiesNight@serpapi-events
+DTSTAMP:20250115
+DTSTART;VALUE=DATE:20250115
+DTEND;VALUE=DATE:20250116
+TRANSP:TRANSPARENT
+SUMMARY:DeVino Ladies Night
+LOCATION:DeVino Cellars\, 1109 S Main St #101\, Boerne\, TX
+DESCRIPTION:When: Thu\, Jan 15\, 4 – 9 PM CST\nLink: http://boernechamber.chambermaster.com/events/details/devino-ladies-night-01-15-2026-31067
+END:VEVENT
+BEGIN:VEVENT
+UID:114-HCCFITHYROX@serpapi-events
+DTSTAMP:20250207
+DTSTART;VALUE=DATE:20250207
+DTEND;VALUE=DATE:20250208
+TRANSP:TRANSPARENT
+SUMMARY:HCCFIT HYROX
+LOCATION:Free Roam Brewing Company\, 325 S Main St\, Boerne\, TX
+DESCRIPTION:When: Sat\, Feb 7\, 10:00 – 11:30 AM CST\nLink: https://theboernelife.com/events/hccfit-hyrox-2-2/2026-02-07/
+END:VEVENT
+BEGIN:VEVENT
+UID:115-CommunityVibes@serpapi-events
+DTSTAMP:20250227
+DTSTART;VALUE=DATE:20250227
+DTEND;VALUE=DATE:20250228
+TRANSP:TRANSPARENT
+SUMMARY:Community Vibes
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Fri\, Feb 27\, 5:30 – 6:00 PM CST\nLink: https://www.groundedmovement.org/schedule/387af194-2a1b-45d0-be31-13692a682ffa_1772235000
+END:VEVENT
+BEGIN:VEVENT
+UID:116-DeVinoLadiesNight@serpapi-events
+DTSTAMP:20250122
+DTSTART;VALUE=DATE:20250122
+DTEND;VALUE=DATE:20250123
+TRANSP:TRANSPARENT
+SUMMARY:DeVino Ladies Night
+LOCATION:DeVino Cellars\, 1109 S Main St #101\, Boerne\, TX
+DESCRIPTION:When: Thu\, Jan 22\, 4 – 9 PM CST\nLink: http://boernechamber.chambermaster.com/events/details/devino-ladies-night-01-22-2026-31068
+END:VEVENT
+BEGIN:VEVENT
+UID:117-IcingontheCake@serpapi-events
+DTSTAMP:20250108
+DTSTART;VALUE=DATE:20250108
+DTEND;VALUE=DATE:20250109
+TRANSP:TRANSPARENT
+SUMMARY:Icing on the Cake
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Thu\, Jan 8\, 1:00 – 1:30 PM CST\nLink: https://www.groundedmovement.org/schedule/d3db2aaf-6a71-472b-9a34-1ab708641a8a_1767898800
+END:VEVENT
+BEGIN:VEVENT
+UID:118-CommunityVibes@serpapi-events
+DTSTAMP:20250313
+DTSTART;VALUE=DATE:20250313
+DTEND;VALUE=DATE:20250314
+TRANSP:TRANSPARENT
+SUMMARY:Community Vibes
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Fri\, Mar 13\, 5:30 – 6:00 PM CDT\nLink: https://www.groundedmovement.org/schedule/387af194-2a1b-45d0-be31-13692a682ffa_1773441000
+END:VEVENT
+BEGIN:VEVENT
+UID:119-SpiritualBootCampBasicTraining@serpapi-events
+DTSTAMP:20260110
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260112
+TRANSP:TRANSPARENT
+SUMMARY:Spiritual Boot Camp: Basic Training
+LOCATION:Comfort Inn & Suites Texas Hill Country\, 35000 I-10\, Boerne\, TX
+DESCRIPTION:When: Jan 10\, 2026\, 9:30 AM – Jan 11\, 2026\, 5:00 PM CST\nLink: https://www.eventbrite.com/e/spiritual-boot-camp-basic-training-tickets-1976218483683
+END:VEVENT
+BEGIN:VEVENT
+UID:120-BluegrassJamatTheAgriCultural@serpapi-events
+DTSTAMP:20250110
+DTSTART;VALUE=DATE:20250110
+DTEND;VALUE=DATE:20250111
+TRANSP:TRANSPARENT
+SUMMARY:Bluegrass Jam at The AgriCultural
+LOCATION:Agricultural Museum and Arts Center\, 102 City Park Rd\, Boerne\, TX
+DESCRIPTION:When: Sat\, Jan 10\nLink: https://www.tourtexas.com/all-events/83833/Bluegrass-Jam-at-The-AgriCultural
+END:VEVENT
+BEGIN:VEVENT
+UID:121-HCCFITHYROX@serpapi-events
+DTSTAMP:20250214
+DTSTART;VALUE=DATE:20250214
+DTEND;VALUE=DATE:20250215
+TRANSP:TRANSPARENT
+SUMMARY:HCCFIT HYROX
+LOCATION:Free Roam Brewing Company\, 325 S Main St\, Boerne\, TX
+DESCRIPTION:When: Sat\, Feb 14\, 10:00 – 11:30 AM CST\nLink: https://theboernelife.com/events/hccfit-hyrox-2/2026-02-14/
+END:VEVENT
+BEGIN:VEVENT
+UID:122-SecondSaturdayBookSigning@serpapi-events
+DTSTAMP:20250110
+DTSTART;VALUE=DATE:20250110
+DTEND;VALUE=DATE:20250111
+TRANSP:TRANSPARENT
+SUMMARY:Second Saturday Book Signing
+LOCATION:Boerne Public Library\, 451 N Main St\, Boerne\, TX
+DESCRIPTION:When: Sat\, Jan 10\, 11 AM – 1 PM CST\nLink: https://theboernelife.com/events/second-saturday-book-signing/2026-01-10/
+END:VEVENT
+BEGIN:VEVENT
+UID:123-NoahPeterson@serpapi-events
+DTSTAMP:20250419
+DTSTART;VALUE=DATE:20250419
+DTEND;VALUE=DATE:20250420
+TRANSP:TRANSPARENT
+SUMMARY:Noah Peterson
+LOCATION:The Dodging Duck Brewhaus & Restaurant\, 402 River Rd\, Boerne\, TX
+DESCRIPTION:When: Sun\, Apr 19\, 11 AM – 3 PM CDT\nLink: https://open.spotify.com/concert/0TpzBs00BJNeSy207BHZaY
+END:VEVENT
+BEGIN:VEVENT
+UID:124-BluegrassJamatTheAgriCultural@serpapi-events
+DTSTAMP:20250228
+DTSTART;VALUE=DATE:20250228
+DTEND;VALUE=DATE:20250301
+TRANSP:TRANSPARENT
+SUMMARY:Bluegrass Jam at The AgriCultural
+LOCATION:Agricultural Museum and Arts Center\, 102 City Park Rd\, Boerne\, TX
+DESCRIPTION:When: Sat\, Feb 28\nLink: https://www.tourtexas.com/all-events/83850/Bluegrass-Jam-at-The-AgriCultural
+END:VEVENT
+BEGIN:VEVENT
+UID:125-RestorativeYogaatSanAntonioYogainBoerne@serpapi-events
+DTSTAMP:20250404
+DTSTART;VALUE=DATE:20250404
+DTEND;VALUE=DATE:20250405
+TRANSP:TRANSPARENT
+SUMMARY:Restorative Yoga at San Antonio Yoga in Boerne
+LOCATION:San Antonio Yoga in Boerne\, 101 Oak Ridge Dr\, Boerne\, TX
+DESCRIPTION:When: Sat\, Apr 4\, 10 AM – 12 PM CDT\nLink: https://business.boerne.org/events/details/restorivate-yoga-04-04-2026-31526
+END:VEVENT
+BEGIN:VEVENT
+UID:126-ArtAfterhoursAdultArtClasses@serpapi-events
+DTSTAMP:20250113
+DTSTART;VALUE=DATE:20250113
+DTEND;VALUE=DATE:20250114
+TRANSP:TRANSPARENT
+SUMMARY:Art Afterhours Adult Art Classes
+LOCATION:Agricultural Museum and Arts Center\, 102 City Park Rd\, Boerne\, TX
+DESCRIPTION:When: Tue\, Jan 13\, 7 – 9 PM CST\nLink: https://theboernelife.com/events/art-afterhours-adult-art-classes-2/2026-01-13/
+END:VEVENT
+BEGIN:VEVENT
+UID:127-BluegrassJamatTheAgriCultural@serpapi-events
+DTSTAMP:20250124
+DTSTART;VALUE=DATE:20250124
+DTEND;VALUE=DATE:20250125
+TRANSP:TRANSPARENT
+SUMMARY:Bluegrass Jam at The AgriCultural
+LOCATION:Agricultural Museum and Arts Center\, 102 City Park Rd\, Boerne\, TX
+DESCRIPTION:When: Sat\, Jan 24\nLink: https://www.tourtexas.com/all-events/83838/Bluegrass-Jam-at-The-AgriCultural
+END:VEVENT
+BEGIN:VEVENT
+UID:128-NourishingFlow@serpapi-events
+DTSTAMP:20250105
+DTSTART;VALUE=DATE:20250105
+DTEND;VALUE=DATE:20250106
+TRANSP:TRANSPARENT
+SUMMARY:Nourishing Flow
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Mon\, Jan 5\, 7 – 8 AM CST\nLink: https://www.groundedmovement.org/schedule/004a5260-0a65-45ee-abd4-c4d1aa97429c_1767618000
+END:VEVENT
+BEGIN:VEVENT
+UID:129-WholesomeYoga@serpapi-events
+DTSTAMP:20250205
+DTSTART;VALUE=DATE:20250205
+DTEND;VALUE=DATE:20250206
+TRANSP:TRANSPARENT
+SUMMARY:Wholesome Yoga
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Thu\, Feb 5\, 9:30 – 10:30 AM CST\nLink: https://www.groundedmovement.org/schedule/d84397c9-de40-4689-ae8a-aa3779b55cb4_1770305400
+END:VEVENT
+BEGIN:VEVENT
+UID:130-BoerneChampionChargerRelays@serpapi-events
+DTSTAMP:20250205
+DTSTART;VALUE=DATE:20250205
+DTEND;VALUE=DATE:20250206
+TRANSP:TRANSPARENT
+SUMMARY:Boerne Champion Charger Relays
+LOCATION:Boerne High School\, 1 Greyhound Ln\, Boerne\, TX
+DESCRIPTION:When: Thu\, Feb 5\nLink: https://tx.milesplit.com/meets/710352-boerne-champion-charger-relays-2026/info
+END:VEVENT
+BEGIN:VEVENT
+UID:131-ArtAfterhoursAdultArtClasses@serpapi-events
+DTSTAMP:20250210
+DTSTART;VALUE=DATE:20250210
+DTEND;VALUE=DATE:20250211
+TRANSP:TRANSPARENT
+SUMMARY:Art Afterhours Adult Art Classes
+LOCATION:Agricultural Museum and Arts Center\, 102 City Park Rd\, Boerne\, TX
+DESCRIPTION:When: Tue\, Feb 10\, 7 – 9 PM CST\nLink: https://theboernelife.com/events/art-afterhours-adult-art-classes-2/2026-02-10/
+END:VEVENT
+BEGIN:VEVENT
+UID:132-ArtAfterhoursAdultArtClasses@serpapi-events
+DTSTAMP:20250303
+DTSTART;VALUE=DATE:20250303
+DTEND;VALUE=DATE:20250304
+TRANSP:TRANSPARENT
+SUMMARY:Art Afterhours Adult Art Classes
+LOCATION:Agricultural Museum and Arts Center\, 102 City Park Rd\, Boerne\, TX
+DESCRIPTION:When: Tue\, Mar 3\, 7 – 9 PM CST\nLink: https://theboernelife.com/events/art-afterhours-adult-art-classes-2/2026-03-03/
+END:VEVENT
+BEGIN:VEVENT
+UID:133-ValentinesDayPaintYourPartnerChallenge@serpapi-events
+DTSTAMP:20250214
+DTSTART;VALUE=DATE:20250214
+DTEND;VALUE=DATE:20250215
+TRANSP:TRANSPARENT
+SUMMARY:Valentine’s Day “Paint Your Partner” Challenge
+LOCATION:The Downtown DIY\, 206 W Highland Dr\, Boerne\, TX
+DESCRIPTION:When: Sat\, Feb 14\, 3 – 5 PM CST\nLink: https://www.simpletix.com/e/valentine-s-day-paint-your-partner-challen-tickets-246809
+END:VEVENT
+BEGIN:VEVENT
+UID:134-KillerCraftsTrueCrimePodcastsandCrafts@serpapi-events
+DTSTAMP:20250113
+DTSTART;VALUE=DATE:20250113
+DTEND;VALUE=DATE:20250114
+TRANSP:TRANSPARENT
+SUMMARY:Killer Crafts: True Crime Podcasts and Crafts
+LOCATION:Boerne Public Library\, 451 N Main St\, Boerne\, TX
+DESCRIPTION:When: Tue\, Jan 13\, 6:00 – 7:30 PM CST\nLink: https://theboernelife.com/events/true-crim-podcasts-and-crafts-2-2/2026-01-13/
+END:VEVENT
+BEGIN:VEVENT
+UID:135-BuildingBasics@serpapi-events
+DTSTAMP:20251231
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260101
+TRANSP:TRANSPARENT
+SUMMARY:Building Basics
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Wed\, Dec 31\, 10 – 11 AM CST\nLink: https://www.groundedmovement.org/schedule/40c349da-d9d1-4f37-9e41-e624754b07c2_1767196800
+END:VEVENT
+BEGIN:VEVENT
+UID:136-ArtAfterhoursAdultArtClasses@serpapi-events
+DTSTAMP:20250224
+DTSTART;VALUE=DATE:20250224
+DTEND;VALUE=DATE:20250225
+TRANSP:TRANSPARENT
+SUMMARY:Art Afterhours Adult Art Classes
+LOCATION:Agricultural Museum and Arts Center\, 102 City Park Rd\, Boerne\, TX
+DESCRIPTION:When: Tue\, Feb 24\, 7 – 9 PM CST\nLink: https://theboernelife.com/events/art-afterhours-adult-art-classes-2/2026-02-24/
+END:VEVENT
+BEGIN:VEVENT
+UID:137-IcingontheCake@serpapi-events
+DTSTAMP:20250115
+DTSTART;VALUE=DATE:20250115
+DTEND;VALUE=DATE:20250116
+TRANSP:TRANSPARENT
+SUMMARY:Icing on the Cake
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Thu\, Jan 15\, 1:00 – 1:30 PM CST\nLink: https://www.groundedmovement.org/schedule/d3db2aaf-6a71-472b-9a34-1ab708641a8a_1768503600
+END:VEVENT
+BEGIN:VEVENT
+UID:138-NourishingFlow@serpapi-events
+DTSTAMP:20250330
+DTSTART;VALUE=DATE:20250330
+DTEND;VALUE=DATE:20250331
+TRANSP:TRANSPARENT
+SUMMARY:Nourishing Flow
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Mon\, Mar 30\, 7 – 8 AM CDT\nLink: https://www.groundedmovement.org/schedule/004a5260-0a65-45ee-abd4-c4d1aa97429c_1774872000
+END:VEVENT
+BEGIN:VEVENT
+UID:139-BoerneISDStateoftheDistrictPresentedbyFordofBoerne@serpapi-events
+DTSTAMP:20250226
+DTSTART;VALUE=DATE:20250226
+DTEND;VALUE=DATE:20250227
+TRANSP:TRANSPARENT
+SUMMARY:Boerne ISD State of the District - Presented by Ford of Boerne
+LOCATION:The Cana Ballroom\, 202 W Kronkosky St\, Boerne\, TX
+DESCRIPTION:When: Thu\, Feb 26\, 11 AM – 1 PM CST\nLink: https://business.boerne.org/events/details/boerne-isd-state-of-the-district-presented-by-ford-of-boerne-32016
+END:VEVENT
+BEGIN:VEVENT
+UID:140-NoahPeterson@serpapi-events
+DTSTAMP:20250607
+DTSTART;VALUE=DATE:20250607
+DTEND;VALUE=DATE:20250608
+TRANSP:TRANSPARENT
+SUMMARY:Noah Peterson
+LOCATION:The Dodging Duck Brewhaus & Restaurant\, 402 River Rd\, Boerne\, TX
+DESCRIPTION:When: Sun\, Jun 7\, 11 AM – 3 PM CDT\nLink: https://open.spotify.com/concert/15OPLCRYEXjjfIF74oRAKV
+END:VEVENT
+BEGIN:VEVENT
+UID:141-NourishingFlow@serpapi-events
+DTSTAMP:20250309
+DTSTART;VALUE=DATE:20250309
+DTEND;VALUE=DATE:20250310
+TRANSP:TRANSPARENT
+SUMMARY:Nourishing Flow
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Mon\, Mar 9\, 7 – 8 AM CDT\nLink: https://www.groundedmovement.org/schedule/004a5260-0a65-45ee-abd4-c4d1aa97429c_1773057600
+END:VEVENT
+BEGIN:VEVENT
+UID:142-BuildingBasics@serpapi-events
+DTSTAMP:20250107
+DTSTART;VALUE=DATE:20250107
+DTEND;VALUE=DATE:20250108
+TRANSP:TRANSPARENT
+SUMMARY:Building Basics
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Wed\, Jan 7\, 10 – 11 AM CST\nLink: https://www.groundedmovement.org/schedule/40c349da-d9d1-4f37-9e41-e624754b07c2_1767801600
+END:VEVENT
+BEGIN:VEVENT
+UID:143-NourishingFlow@serpapi-events
+DTSTAMP:20250406
+DTSTART;VALUE=DATE:20250406
+DTEND;VALUE=DATE:20250407
+TRANSP:TRANSPARENT
+SUMMARY:Nourishing Flow
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Mon\, Apr 6\, 7 – 8 AM CDT\nLink: https://www.groundedmovement.org/schedule/004a5260-0a65-45ee-abd4-c4d1aa97429c_1775476800
+END:VEVENT
+BEGIN:VEVENT
+UID:144-NoahPeterson@serpapi-events
+DTSTAMP:20250524
+DTSTART;VALUE=DATE:20250524
+DTEND;VALUE=DATE:20250525
+TRANSP:TRANSPARENT
+SUMMARY:Noah Peterson
+LOCATION:The Dodging Duck Brewhaus & Restaurant\, 402 River Rd\, Boerne\, TX
+DESCRIPTION:When: Sun\, May 24\, 11 AM – 3 PM CDT\nLink: https://open.spotify.com/concert/1dqhnOmpbIgF9TpW7hffgg
+END:VEVENT
+BEGIN:VEVENT
+UID:145-BoerneMarketDays@serpapi-events
+DTSTAMP:20250613
+DTSTART;VALUE=DATE:20250613
+DTEND;VALUE=DATE:20250614
+TRANSP:TRANSPARENT
+SUMMARY:Boerne Market Days
+LOCATION:Main Plaza\, Boerne\, TX
+DESCRIPTION:When: Sat\, Jun 13\, 10 AM – 5 PM CDT\nLink: http://boernechamber.chambermaster.com/events/details/boerne-market-days-06-13-2026-30343
+END:VEVENT
+BEGIN:VEVENT
+UID:146-RestorativeYogaatSanAntonioYogainBoerne@serpapi-events
+DTSTAMP:20250502
+DTSTART;VALUE=DATE:20250502
+DTEND;VALUE=DATE:20250503
+TRANSP:TRANSPARENT
+SUMMARY:Restorative Yoga at San Antonio Yoga in Boerne
+LOCATION:San Antonio Yoga in Boerne\, 101 Oak Ridge Dr\, Boerne\, TX
+DESCRIPTION:When: Sat\, May 2\, 10 AM – 12 PM CDT\nLink: http://boernechamber.chambermaster.com/events/details/restorivate-yoga-05-02-2026-31527
+END:VEVENT
+BEGIN:VEVENT
+UID:147-QuintessentialClassicswithTheWoodlandWinds@serpapi-events
+DTSTAMP:20250117
+DTSTART;VALUE=DATE:20250117
+DTEND;VALUE=DATE:20250118
+TRANSP:TRANSPARENT
+SUMMARY:Quintessential Classics with The Woodland Winds
+LOCATION:Cave Without A Name\, 325 Kreutzberg Rd\, Boerne\, TX
+DESCRIPTION:When: Sat\, Jan 17\, 7 PM CST\nLink: https://www.facebook.com/events/325-kreutzberg-rd-boerne-tx-united-states-texas-78006/quintessential-classics-with-the-woodland-winds/2634712710216288/
+END:VEVENT
+BEGIN:VEVENT
+UID:148-XtraSauce@serpapi-events
+DTSTAMP:20250101
+DTSTART;VALUE=DATE:20250101
+DTEND;VALUE=DATE:20250102
+TRANSP:TRANSPARENT
+SUMMARY:Xtra Sauce
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Thu\, Jan 1\, 11:30 AM – 12:00 PM CST\nLink: https://www.groundedmovement.org/schedule/38c0bb54-2196-435a-b143-f9bd06a87a17_1767288600
+END:VEVENT
+BEGIN:VEVENT
+UID:149-NoahPeterson@serpapi-events
+DTSTAMP:20250118
+DTSTART;VALUE=DATE:20250118
+DTEND;VALUE=DATE:20250119
+TRANSP:TRANSPARENT
+SUMMARY:Noah Peterson
+LOCATION:The Dodging Duck Brewhaus & Restaurant\, 402 River Rd\, Boerne\, TX
+DESCRIPTION:When: Sun\, Jan 18\, 11 AM – 3 PM CST\nLink: https://open.spotify.com/concert/6zttl4kK2eM4bV7wQT2uQH
+END:VEVENT
+BEGIN:VEVENT
+UID:150-SpiritualBootCampBasicTraining@serpapi-events
+DTSTAMP:20260110
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260112
+TRANSP:TRANSPARENT
+SUMMARY:Spiritual Boot Camp: Basic Training
+LOCATION:Comfort Inn & Suites Texas Hill Country\, 35000 I-10\, Boerne\, TX
+DESCRIPTION:When: Jan 10\, 2026\, 9:30 AM – Jan 11\, 2026\, 5:00 PM CST\nLink: https://www.eventbrite.com/e/spiritual-boot-camp-basic-training-tickets-1976218483683
+END:VEVENT
+BEGIN:VEVENT
+UID:151-ArtAfterhoursAdultArtClasses@serpapi-events
+DTSTAMP:20250203
+DTSTART;VALUE=DATE:20250203
+DTEND;VALUE=DATE:20250204
+TRANSP:TRANSPARENT
+SUMMARY:Art Afterhours Adult Art Classes
+LOCATION:Agricultural Museum and Arts Center\, 102 City Park Rd\, Boerne\, TX
+DESCRIPTION:When: Tue\, Feb 3\, 7 – 9 PM CST\nLink: https://theboernelife.com/events/art-afterhours-adult-art-classes-2/2026-02-03/
+END:VEVENT
+BEGIN:VEVENT
+UID:152-DeVinoLadiesNight@serpapi-events
+DTSTAMP:20250205
+DTSTART;VALUE=DATE:20250205
+DTEND;VALUE=DATE:20250206
+TRANSP:TRANSPARENT
+SUMMARY:DeVino Ladies Night
+LOCATION:DeVino Cellars\, 1109 S Main St #101\, Boerne\, TX
+DESCRIPTION:When: Thu\, Feb 5\, 4 – 9 PM CST\nLink: https://business.boerne.org/events/details/devino-ladies-night-02-05-2026-31070
+END:VEVENT
+BEGIN:VEVENT
+UID:153-CHRISTMASHOLIDAYYOUTHSOFTBALLCAMP@serpapi-events
+DTSTAMP:20251230
+DTSTART;VALUE=DATE:20251230
+DTEND;VALUE=DATE:20260101
+TRANSP:TRANSPARENT
+SUMMARY:CHRISTMAS HOLIDAY YOUTH SOFTBALL CAMP
+LOCATION:The Dugout\, 132 Old San Antonio Rd\, Boerne\, TX
+DESCRIPTION:When: Tue\, Dec 30\, 9 AM – Wed\, Dec 31\, 4 PM CST\nLink: https://www.activekids.com/boerne-tx/cross-training/camps/christmas-holiday-youth-softball-camp-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:154-XtraSauce@serpapi-events
+DTSTAMP:20251231
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260101
+TRANSP:TRANSPARENT
+SUMMARY:Xtra Sauce
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Wed\, Dec 31\, 11:15 AM – 12:15 PM CST\nLink: https://www.groundedmovement.org/schedule/1e8a4a9a-40ec-4ad0-831a-59bd01b60126_1767201300
+END:VEVENT
+BEGIN:VEVENT
+UID:155-DeVinoLadiesNight@serpapi-events
+DTSTAMP:20250212
+DTSTART;VALUE=DATE:20250212
+DTEND;VALUE=DATE:20250213
+TRANSP:TRANSPARENT
+SUMMARY:DeVino Ladies Night
+LOCATION:DeVino Cellars\, 1109 S Main St #101\, Boerne\, TX
+DESCRIPTION:When: Thu\, Feb 12\, 4 – 9 PM CST\nLink: https://business.boerne.org/events/details/devino-ladies-night-02-12-2026-31071?calendarMonth=2026-02-01
+END:VEVENT
+BEGIN:VEVENT
+UID:156-HCCFITHYROX@serpapi-events
+DTSTAMP:20250103
+DTSTART;VALUE=DATE:20250103
+DTEND;VALUE=DATE:20250104
+TRANSP:TRANSPARENT
+SUMMARY:HCCFIT HYROX
+LOCATION:Free Roam Brewing Company\, 325 S Main St\, Boerne\, TX
+DESCRIPTION:When: Sat\, Jan 3\, 10:00 – 11:30 AM CST\nLink: https://theboernelife.com/events/hccfit-hyrox/2026-01-03/
+END:VEVENT
+BEGIN:VEVENT
+UID:157-RibbonCuttingforRealPropertyManagementHillCountry@serpapi-events
+DTSTAMP:20250127
+DTSTART;VALUE=DATE:20250127
+DTEND;VALUE=DATE:20250128
+TRANSP:TRANSPARENT
+SUMMARY:Ribbon Cutting for Real Property Management Hill Country
+LOCATION:Real Property Management Hill Country\, 606 Frey St\, Boerne\, TX
+DESCRIPTION:When: Tue\, Jan 27\, 11:30 AM – 12:00 PM CST\nLink: https://business.boerne.org/events/details/ribbon-cutting-for-real-property-management-hill-country-32053
+END:VEVENT
+BEGIN:VEVENT
+UID:158-DeVinoLadiesNight@serpapi-events
+DTSTAMP:20250129
+DTSTART;VALUE=DATE:20250129
+DTEND;VALUE=DATE:20250130
+TRANSP:TRANSPARENT
+SUMMARY:DeVino Ladies Night
+LOCATION:DeVino Cellars\, 1109 S Main St #101\, Boerne\, TX
+DESCRIPTION:When: Thu\, Jan 29\, 4 – 9 PM CST\nLink: http://business.boerne.org/events/details/devino-ladies-night-01-29-2026-31069
+END:VEVENT
+BEGIN:VEVENT
+UID:159-NourishingFlow@serpapi-events
+DTSTAMP:20250223
+DTSTART;VALUE=DATE:20250223
+DTEND;VALUE=DATE:20250224
+TRANSP:TRANSPARENT
+SUMMARY:Nourishing Flow
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Mon\, Feb 23\, 7 – 8 AM CST\nLink: https://www.groundedmovement.org/schedule/004a5260-0a65-45ee-abd4-c4d1aa97429c_1771851600
+END:VEVENT
+BEGIN:VEVENT
+UID:160-IcingontheCake@serpapi-events
+DTSTAMP:20250226
+DTSTART;VALUE=DATE:20250226
+DTEND;VALUE=DATE:20250227
+TRANSP:TRANSPARENT
+SUMMARY:Icing on the Cake
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Thu\, Feb 26\, 1:00 – 1:30 PM CST\nLink: https://www.groundedmovement.org/schedule/d3db2aaf-6a71-472b-9a34-1ab708641a8a_1772132400
+END:VEVENT
+BEGIN:VEVENT
+UID:161-MobilitySnack@serpapi-events
+DTSTAMP:20251231
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260101
+TRANSP:TRANSPARENT
+SUMMARY:Mobility Snack
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Wed\, Dec 31\, 12:00 – 12:30 PM CST\nLink: https://www.groundedmovement.org/schedule/b0f894ad-8496-4c4c-96a3-1723b5f340df_1767204000
+END:VEVENT
+BEGIN:VEVENT
+UID:162-MobilitySnack@serpapi-events
+DTSTAMP:20250101
+DTSTART;VALUE=DATE:20250101
+DTEND;VALUE=DATE:20250102
+TRANSP:TRANSPARENT
+SUMMARY:Mobility Snack
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Thu\, Jan 1\, 12:15 – 12:45 PM CST\nLink: https://www.groundedmovement.org/schedule/d4b112b7-52cd-4d3b-aea8-d022d437f8de_1767291300
+END:VEVENT
+BEGIN:VEVENT
+UID:163-DesignReviewCommittee@serpapi-events
+DTSTAMP:20250108
+DTSTART;VALUE=DATE:20250108
+DTEND;VALUE=DATE:20250109
+TRANSP:TRANSPARENT
+SUMMARY:Design Review Committee
+LOCATION:Boerne City Hall\, 447 N Main St\, Boerne\, TX
+DESCRIPTION:When: Thu\, Jan 8\, 6 PM CST\nLink: https://www.ci.boerne.tx.us/Calendar.aspx?EID=18518
+END:VEVENT
+BEGIN:VEVENT
+UID:164-ChampionHSBloodCancerUnitedHopeinMotion5k@serpapi-events
+DTSTAMP:20250228
+DTSTART;VALUE=DATE:20250228
+DTEND;VALUE=DATE:20250301
+TRANSP:TRANSPARENT
+SUMMARY:Champion HS Blood Cancer United Hope in Motion 5k
+LOCATION:Boerne-Samuel V. Champion High School\, 201 Charger Blvd\, Boerne\, TX
+DESCRIPTION:When: Sat\, Feb 28\, 8 AM – 12 PM CST\nLink: https://www.mysanantonio.com/entertainment/?_evDiscoveryPath=/event/85038c-champion-hs-blood-cancer-united-hope-in-motion-5k
+END:VEVENT
+BEGIN:VEVENT
+UID:165-XtraSauce@serpapi-events
+DTSTAMP:20250114
+DTSTART;VALUE=DATE:20250114
+DTEND;VALUE=DATE:20250115
+TRANSP:TRANSPARENT
+SUMMARY:Xtra Sauce
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Wed\, Jan 14\, 11:15 AM – 12:15 PM CST\nLink: https://www.groundedmovement.org/schedule/1e8a4a9a-40ec-4ad0-831a-59bd01b60126_1768410900
+END:VEVENT
+BEGIN:VEVENT
+UID:166-BuildingBasics@serpapi-events
+DTSTAMP:20250114
+DTSTART;VALUE=DATE:20250114
+DTEND;VALUE=DATE:20250115
+TRANSP:TRANSPARENT
+SUMMARY:Building Basics
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Wed\, Jan 14\, 10 – 11 AM CST\nLink: https://www.groundedmovement.org/schedule/40c349da-d9d1-4f37-9e41-e624754b07c2_1768406400
+END:VEVENT
+BEGIN:VEVENT
+UID:167-WholesomeYoga@serpapi-events
+DTSTAMP:20250101
+DTSTART;VALUE=DATE:20250101
+DTEND;VALUE=DATE:20250102
+TRANSP:TRANSPARENT
+SUMMARY:Wholesome Yoga
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Thu\, Jan 1\, 9:30 – 10:30 AM CST\nLink: https://www.groundedmovement.org/schedule/d84397c9-de40-4689-ae8a-aa3779b55cb4_1767281400
+END:VEVENT
+BEGIN:VEVENT
+UID:168-LacyBrinson@serpapi-events
+DTSTAMP:20250306
+DTSTART;VALUE=DATE:20250306
+DTEND;VALUE=DATE:20250307
+TRANSP:TRANSPARENT
+SUMMARY:Lacy Brinson
+LOCATION:The Clubs of Cordillera Ranch\, 1092 Clubs Dr\, Boerne\, TX
+DESCRIPTION:When: Fri\, Mar 6\, 6 – 10 PM CST\nLink: https://open.spotify.com/concert/1AQKMI1aWBHBAmtX43w6iF
+END:VEVENT
+BEGIN:VEVENT
+UID:169-CommunityYoga@serpapi-events
+DTSTAMP:20250306
+DTSTART;VALUE=DATE:20250306
+DTEND;VALUE=DATE:20250307
+TRANSP:TRANSPARENT
+SUMMARY:Community Yoga
+LOCATION:Patrick Heath Public Library\, 451 N Main St\, Boerne\, TX
+DESCRIPTION:When: Fri\, Mar 6\, 6 – 7 PM CST\nLink: https://www.groundedmovement.org/schedule/e3bd4b5b-4cbd-4af4-a21e-6db2e0cdd668_1772841600
+END:VEVENT
+BEGIN:VEVENT
+UID:170-NourishingFlow@serpapi-events
+DTSTAMP:20250309
+DTSTART;VALUE=DATE:20250309
+DTEND;VALUE=DATE:20250310
+TRANSP:TRANSPARENT
+SUMMARY:Nourishing Flow
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Mon\, Mar 9\, 7 – 8 AM CDT\nLink: https://www.groundedmovement.org/schedule/004a5260-0a65-45ee-abd4-c4d1aa97429c_1773057600
+END:VEVENT
+BEGIN:VEVENT
+UID:171-RestorativeYogaatSanAntonioYogainBoerne@serpapi-events
+DTSTAMP:20250502
+DTSTART;VALUE=DATE:20250502
+DTEND;VALUE=DATE:20250503
+TRANSP:TRANSPARENT
+SUMMARY:Restorative Yoga at San Antonio Yoga in Boerne
+LOCATION:San Antonio Yoga in Boerne\, 101 Oak Ridge Dr\, Boerne\, TX
+DESCRIPTION:When: Sat\, May 2\, 10 AM – 12 PM CDT\nLink: http://boernechamber.chambermaster.com/events/details/restorivate-yoga-05-02-2026-31527
+END:VEVENT
+BEGIN:VEVENT
+UID:172-BuildingBasics@serpapi-events
+DTSTAMP:20250107
+DTSTART;VALUE=DATE:20250107
+DTEND;VALUE=DATE:20250108
+TRANSP:TRANSPARENT
+SUMMARY:Building Basics
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Wed\, Jan 7\, 10 – 11 AM CST\nLink: https://www.groundedmovement.org/schedule/40c349da-d9d1-4f37-9e41-e624754b07c2_1767801600
+END:VEVENT
+BEGIN:VEVENT
+UID:173-NourishingFlow@serpapi-events
+DTSTAMP:20250406
+DTSTART;VALUE=DATE:20250406
+DTEND;VALUE=DATE:20250407
+TRANSP:TRANSPARENT
+SUMMARY:Nourishing Flow
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Mon\, Apr 6\, 7 – 8 AM CDT\nLink: https://www.groundedmovement.org/schedule/004a5260-0a65-45ee-abd4-c4d1aa97429c_1775476800
+END:VEVENT
+BEGIN:VEVENT
+UID:174-QuintessentialClassicswithTheWoodlandWinds@serpapi-events
+DTSTAMP:20250117
+DTSTART;VALUE=DATE:20250117
+DTEND;VALUE=DATE:20250118
+TRANSP:TRANSPARENT
+SUMMARY:Quintessential Classics with The Woodland Winds
+LOCATION:Cave Without A Name\, 325 Kreutzberg Rd\, Boerne\, TX
+DESCRIPTION:When: Sat\, Jan 17\, 7 PM CST\nLink: https://www.facebook.com/events/325-kreutzberg-rd-boerne-tx-united-states-texas-78006/quintessential-classics-with-the-woodland-winds/2634712710216288/
+END:VEVENT
+BEGIN:VEVENT
+UID:175-XtraSauce@serpapi-events
+DTSTAMP:20250101
+DTSTART;VALUE=DATE:20250101
+DTEND;VALUE=DATE:20250102
+TRANSP:TRANSPARENT
+SUMMARY:Xtra Sauce
+LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
+DESCRIPTION:When: Thu\, Jan 1\, 11:30 AM – 12:00 PM CST\nLink: https://www.groundedmovement.org/schedule/38c0bb54-2196-435a-b143-f9bd06a87a17_1767288600
+END:VEVENT
+BEGIN:VEVENT
+UID:176-VeteransMemorialatBoerneChampion@serpapi-events
+DTSTAMP:20250217
+DTSTART;VALUE=DATE:20250217
+DTEND;VALUE=DATE:20250218
+TRANSP:TRANSPARENT
+SUMMARY:Veterans Memorial at Boerne-Champion
+LOCATION:Boerne-Samuel V. Champion High School\, 201 Charger Blvd\, Boerne\, TX
+DESCRIPTION:When: Tue\, Feb 17\, 7:00 – 8:45 PM CST\nLink: https://www.maxpreps.com/tx/boerne/boerne-champion-chargers/baseball/jv/schedule/
+END:VEVENT
+BEGIN:VEVENT
+UID:177-NoahPeterson@serpapi-events
+DTSTAMP:20250118
+DTSTART;VALUE=DATE:20250118
+DTEND;VALUE=DATE:20250119
+TRANSP:TRANSPARENT
+SUMMARY:Noah Peterson
+LOCATION:The Dodging Duck Brewhaus & Restaurant\, 402 River Rd\, Boerne\, TX
+DESCRIPTION:When: Sun\, Jan 18\, 11 AM – 3 PM CST\nLink: https://open.spotify.com/concert/6zttl4kK2eM4bV7wQT2uQH
+END:VEVENT
+BEGIN:VEVENT
+UID:178-BoerneMarketDays@serpapi-events
+DTSTAMP:20250712
+DTSTART;VALUE=DATE:20250712
+DTEND;VALUE=DATE:20250713
+TRANSP:TRANSPARENT
+SUMMARY:Boerne Market Days
+LOCATION:Main Plaza\, Boerne\, TX
+DESCRIPTION:When: Sun\, Jul 12\, 10 AM – 4 PM CDT\nLink: http://boernechamber.chambermaster.com/events/details/boerne-market-days-07-12-2026-30471
+END:VEVENT
+BEGIN:VEVENT
+UID:179-PlanningandZoningCommissionMeeting@serpapi-events
+DTSTAMP:20250105
+DTSTART;VALUE=DATE:20250105
+DTEND;VALUE=DATE:20250106
+TRANSP:TRANSPARENT
+SUMMARY:Planning and Zoning Commission Meeting
+LOCATION:Boerne City Hall\, 447 N Main St\, Boerne\, TX
+DESCRIPTION:When: Mon\, Jan 5\, 6 PM CST\nLink: https://www.ci.boerne.tx.us/Calendar.aspx?EID=21867
 END:VEVENT
 END:VCALENDAR
