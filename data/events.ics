@@ -9,17 +9,17 @@ DTEND;VALUE=DATE:20260323
 TRANSP:TRANSPARENT
 SUMMARY:Noah Peterson
 LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
-DESCRIPTION:When: Sun\, Mar 22\, 11 AM – 3 PM\nLink: https://open.spotify.com/concert/6xg5Znnb6dg1kAZ69UcXWf
+DESCRIPTION:When: Sun\, Mar 22\, 11 AM – 3 PM CDT\nLink: https://open.spotify.com/concert/6xg5Znnb6dg1kAZ69UcXWf
 END:VEVENT
 BEGIN:VEVENT
-UID:1-ConversationswithCommandosBOERNETX@serpapi-events
-DTSTAMP:20260319
-DTSTART;VALUE=DATE:20260319
-DTEND;VALUE=DATE:20260321
+UID:1-MindfulWellnessWalkinBoerne@serpapi-events
+DTSTAMP:20260321
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
 TRANSP:TRANSPARENT
-SUMMARY:Conversations with Commandos - BOERNE\, TX
-LOCATION:The Kendall\, 128 W Blanco Rd\, Boerne\, TX
-DESCRIPTION:When: Thu\, Mar 19\, 7 PM – Fri\, Mar 20\, 1 AM\nLink: https://www.facebook.com/events/4302777969966586/?ref_source=NEWS_FEED
+SUMMARY:⁠Mindful Wellness Walk in Boerne
+LOCATION:Bear Moon Bakery Cafe\, 401 S Main St\, Boerne\, TX
+DESCRIPTION:When: Sat\, Mar 21\, 11 AM – 1 PM CDT\nLink: https://www.eventbrite.com/e/mindful-wellness-walk-in-boerne-tickets-1849310400189
 END:VEVENT
 BEGIN:VEVENT
 UID:2-LacyBrinson@serpapi-events
@@ -29,7 +29,7 @@ DTEND;VALUE=DATE:20260321
 TRANSP:TRANSPARENT
 SUMMARY:Lacy Brinson
 LOCATION:Tapatio Springs Hill Country Resort\, 1 Resort Way\, Boerne\, TX
-DESCRIPTION:When: Fri\, Mar 20\, 7 – 11 PM\nLink: https://open.spotify.com/concert/2AaFqZRSg1VviwuyZz7zf5
+DESCRIPTION:When: Fri\, Mar 20\, 7 – 11 PM CDT\nLink: https://open.spotify.com/concert/2AaFqZRSg1VviwuyZz7zf5
 END:VEVENT
 BEGIN:VEVENT
 UID:3-VolksmarchDuringtheBoerneOutdoorFamilyFair@serpapi-events
@@ -39,80 +39,60 @@ DTEND;VALUE=DATE:20260322
 TRANSP:TRANSPARENT
 SUMMARY:Volksmarch During the Boerne Outdoor Family Fair
 LOCATION:Main Plaza\, Boerne\, TX
-DESCRIPTION:When: Sat\, Mar 21\, 8 AM – 2 PM\nLink: https://sanantoniopathfinders.org/venue/main-plaza-park-boerne/
+DESCRIPTION:When: Sat\, Mar 21\, 8 AM – 2 PM CDT\nLink: https://sanantoniopathfinders.org/venue/main-plaza-park-boerne/
 END:VEVENT
 BEGIN:VEVENT
-UID:4-MindfulWellnessWalkinBoerne@serpapi-events
-DTSTAMP:20260321
-DTSTART;VALUE=DATE:20260321
-DTEND;VALUE=DATE:20260322
-TRANSP:TRANSPARENT
-SUMMARY:⁠Mindful Wellness Walk in Boerne
-LOCATION:Bear Moon Bakery Cafe\, 401 S Main St\, Boerne\, TX
-DESCRIPTION:When: Sat\, Mar 21\, 11 AM – 1 PM\nLink: https://www.eventbrite.com/e/mindful-wellness-walk-in-boerne-tickets-1849310400189
-END:VEVENT
-BEGIN:VEVENT
-UID:5-EricaDaniels@serpapi-events
+UID:4-EricaDaniels@serpapi-events
 DTSTAMP:20260321
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260322
 TRANSP:TRANSPARENT
 SUMMARY:Erica Daniels
 LOCATION:Free Roam Brewing Company\, 325 S Main St\, Boerne\, TX
-DESCRIPTION:When: Sat\, Mar 21\, 6 – 10 PM\nLink: https://open.spotify.com/concert/6KEPa0psVLAxQb9UZ464qv
+DESCRIPTION:When: Sat\, Mar 21\, 6 – 10 PM CDT\nLink: https://open.spotify.com/concert/6KEPa0psVLAxQb9UZ464qv
 END:VEVENT
 BEGIN:VEVENT
-UID:6-WholesomeYoga@serpapi-events
-DTSTAMP:20260319
-DTSTART;VALUE=DATE:20260319
-DTEND;VALUE=DATE:20260320
+UID:5-RestorativeYoga@serpapi-events
+DTSTAMP:20260322
+DTSTART;VALUE=DATE:20260322
+DTEND;VALUE=DATE:20260323
 TRANSP:TRANSPARENT
-SUMMARY:Wholesome Yoga
-LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
-DESCRIPTION:When: Thu\, Mar 19\, 9:30 – 10:30 AM\nLink: https://www.groundedmovement.org/schedule/d84397c9-de40-4689-ae8a-aa3779b55cb4_1773930600
+SUMMARY:Restorative Yoga
+LOCATION:San Antonio Yoga in Boerne\, 101 Oak Ridge Dr\, Boerne\, TX
+DESCRIPTION:When: Sun\, Mar 22\, 10 AM – 12 PM CDT\nLink: https://business.boerne.org/events/details/restorivate-yoga-03-07-2026-31525?calendarMonth=2026-03-01
 END:VEVENT
 BEGIN:VEVENT
-UID:7-PetsBarnBoerne@serpapi-events
-DTSTAMP:20260319
-DTSTART;VALUE=DATE:20260319
-DTEND;VALUE=DATE:20260320
-TRANSP:TRANSPARENT
-SUMMARY:Pet's Barn Boerne
-LOCATION:Pet's Barn - Boerne\, 214 W Bandera Rd #100\, Boerne\, TX
-DESCRIPTION:When: Thu\, Mar 19\, 6 – 8 PM\nLink: https://vanguardvet.com/event-location/pets-barn-23-boerne/
-END:VEVENT
-BEGIN:VEVENT
-UID:8-CiboloFarmersMarketatHerffFarm@serpapi-events
+UID:6-CiboloFarmersMarketatHerffFarm@serpapi-events
 DTSTAMP:20260321
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260322
 TRANSP:TRANSPARENT
 SUMMARY:Cibolo Farmers Market at Herff Farm
 LOCATION:Herff Farm\, 33 Herff Rd\, Boerne\, TX
-DESCRIPTION:When: Sat\, Mar 21\, 9 AM – 1 PM\nLink: https://business.boerne.org/events/details/cibolo-farmers-market-at-herff-farm-03-21-2026-29653
+DESCRIPTION:When: Sat\, Mar 21\, 9 AM – 1 PM CDT\nLink: https://business.boerne.org/events/details/cibolo-farmers-market-at-herff-farm-03-21-2026-29653
 END:VEVENT
 BEGIN:VEVENT
-UID:9-TaiChiwithQigong@serpapi-events
+UID:7-TaiChiwithQigong@serpapi-events
 DTSTAMP:20260320
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260321
 TRANSP:TRANSPARENT
 SUMMARY:Tai Chi with Qi gong
 LOCATION:Boerne Public Library\, 451 N Main St\, Boerne\, TX
-DESCRIPTION:When: Fri\, Mar 20\, 11:30 AM – 12:30 PM\nLink: https://theboernelife.com/events/tai-chi-qi-gong-2/2026-03-20/
+DESCRIPTION:When: Fri\, Mar 20\, 11:30 AM – 12:30 PM CDT\nLink: https://theboernelife.com/events/tai-chi-qi-gong-2/2026-03-20/
 END:VEVENT
 BEGIN:VEVENT
-UID:10-RibbonCutting@serpapi-events
-DTSTAMP:20260319
-DTSTART;VALUE=DATE:20260319
-DTEND;VALUE=DATE:20260320
+UID:8-FreetoPlayFridaysBoerneLove@serpapi-events
+DTSTAMP:20260320
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
 TRANSP:TRANSPARENT
-SUMMARY:Ribbon Cutting
-LOCATION:Greater Boerne Chamber of Commerce\, 121 S Main St\, Boerne\, TX
-DESCRIPTION:When: Thu\, Mar 19\, 11:30 AM – 5:30 PM CDT\nLink: https://business.boerne.org/events/details/ribbon-cutting-for-celebrations-gift-service-32240
+SUMMARY:Free-to-Play Fridays — Boerne Love
+LOCATION:Patrick Heath Public Library\, 451 N Main St\, Boerne\, TX
+DESCRIPTION:When: Fri\, Mar 20\, 4:15 – 5:15 PM CDT\nLink: https://rose-chiton-kl9d.squarespace.com/new-events-1/free-to-play-fridays-1
 END:VEVENT
 BEGIN:VEVENT
-UID:11-ModalMojoattheDuck@serpapi-events
+UID:9-ModalMojoattheDuck@serpapi-events
 DTSTAMP:20260322
 DTSTART;VALUE=DATE:20260322
 DTEND;VALUE=DATE:20260323
@@ -122,27 +102,7 @@ LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
 DESCRIPTION:When: Sun\, Mar 22\, 5:30 – 8:30 PM CDT\nLink: https://modalmojo.com/event/6393431/748515631/modal-mojo-at-the-duck
 END:VEVENT
 BEGIN:VEVENT
-UID:12-XtraSauce@serpapi-events
-DTSTAMP:20260319
-DTSTART;VALUE=DATE:20260319
-DTEND;VALUE=DATE:20260320
-TRANSP:TRANSPARENT
-SUMMARY:Xtra Sauce
-LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
-DESCRIPTION:When: Thu\, Mar 19\, 11:30 AM – 12:00 PM CDT\nLink: https://www.groundedmovement.org/schedule/38c0bb54-2196-435a-b143-f9bd06a87a17_1773937800
-END:VEVENT
-BEGIN:VEVENT
-UID:13-DeVinoLadiesNight@serpapi-events
-DTSTAMP:20260319
-DTSTART;VALUE=DATE:20260319
-DTEND;VALUE=DATE:20260320
-TRANSP:TRANSPARENT
-SUMMARY:DeVino Ladies Night
-LOCATION:DeVino Cellars\, 1109 S Main St #101\, Boerne\, TX
-DESCRIPTION:When: Thu\, Mar 19\, 4 – 9 PM CDT\nLink: https://business.boerne.org/events/details/devino-ladies-night-03-19-2026-31076?calendarMonth=2026-03-01
-END:VEVENT
-BEGIN:VEVENT
-UID:14-BubbletimeBookworms@serpapi-events
+UID:10-BubbletimeBookworms@serpapi-events
 DTSTAMP:20260320
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260321
@@ -152,7 +112,7 @@ LOCATION:Boerne Public Library\, 451 N Main St\, Boerne\, TX
 DESCRIPTION:When: Fri\, Mar 20\, 10:00 – 10:30 AM CDT\nLink: https://theboernelife.com/events/bubbletime-bookworms-2/2026-03-20/
 END:VEVENT
 BEGIN:VEVENT
-UID:15-DuoPerformance@serpapi-events
+UID:11-DuoPerformance@serpapi-events
 DTSTAMP:20260321
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260322
@@ -162,27 +122,7 @@ LOCATION:Cibolo Creek Brewing Co.\, 448 S Main St\, Boerne\, TX
 DESCRIPTION:When: Sat\, Mar 21\, 6 – 9 PM CDT\nLink: https://jackhigginbothamofficial.com/event/6371106/746378681/duo-performance
 END:VEVENT
 BEGIN:VEVENT
-UID:16-FeastofStBenedictSpaghettiDinner@serpapi-events
-DTSTAMP:20260319
-DTSTART;VALUE=DATE:20260319
-DTEND;VALUE=DATE:20260320
-TRANSP:TRANSPARENT
-SUMMARY:Feast of St. Benedict Spaghetti Dinner
-LOCATION:The Cana Ballroom\, 202 W Kronkosky St\, Boerne\, TX
-DESCRIPTION:When: Thu\, Mar 19\, 5 – 7 PM CDT\nLink: https://business.boerne.org/events/details/feast-of-st-benedict-spaghetti-dinner-32182
-END:VEVENT
-BEGIN:VEVENT
-UID:17-MeetStahlMedical@serpapi-events
-DTSTAMP:20260319
-DTSTART;VALUE=DATE:20260319
-DTEND;VALUE=DATE:20260320
-TRANSP:TRANSPARENT
-SUMMARY:Meet Stahl Medical
-LOCATION:Stahl Medical\, 112 Herff Rd #110\, Boerne\, TX
-DESCRIPTION:When: Thu\, Mar 19\, 5:00 – 7:30 PM CDT\nLink: https://www.eventbrite.com/e/meet-stahl-medical-tickets-1984340118712
-END:VEVENT
-BEGIN:VEVENT
-UID:18-ResinCharcuterieBoardWorkshop@serpapi-events
+UID:12-ResinCharcuterieBoardWorkshop@serpapi-events
 DTSTAMP:20260321
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260322
@@ -192,27 +132,7 @@ LOCATION:The Downtown DIY\, 206 W Highland Dr\, Boerne\, TX
 DESCRIPTION:When: Sat\, Mar 21\, 3 – 5 PM CDT\nLink: https://www.simpletix.com/e/resin-charcuterie-board-workshop-tickets-252640
 END:VEVENT
 BEGIN:VEVENT
-UID:19-PetsBarnBoerne@serpapi-events
-DTSTAMP:20260319
-DTSTART;VALUE=DATE:20260319
-DTEND;VALUE=DATE:20260320
-TRANSP:TRANSPARENT
-SUMMARY:Pet's Barn Boerne
-LOCATION:Pet's Barn - Boerne\, 214 W Bandera Rd #100\, Boerne\, TX
-DESCRIPTION:When: Thu\, Mar 19\, 6 – 8 PM CDT\nLink: https://vanguardvet.com/event-location/pets-barn-23-boerne/
-END:VEVENT
-BEGIN:VEVENT
-UID:20-ResinCharcuterieBoardWorkshop@serpapi-events
-DTSTAMP:20260321
-DTSTART;VALUE=DATE:20260321
-DTEND;VALUE=DATE:20260322
-TRANSP:TRANSPARENT
-SUMMARY:Resin Charcuterie Board Workshop
-LOCATION:The Downtown DIY\, 206 W Highland Dr\, Boerne\, TX
-DESCRIPTION:When: Sat\, Mar 21\, 3 – 5 PM CDT\nLink: https://www.simpletix.com/e/resin-charcuterie-board-workshop-tickets-252640
-END:VEVENT
-BEGIN:VEVENT
-UID:21-RudiTheRudimentsSpringEquinoxMusicInTheCave@serpapi-events
+UID:13-RudiTheRudimentsSpringEquinoxMusicInTheCave@serpapi-events
 DTSTAMP:20260321
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260322
@@ -222,17 +142,7 @@ LOCATION:Cave Without A Name\, 325 Kreutzberg Rd\, Boerne\, TX
 DESCRIPTION:When: Sat\, Mar 21\, 7 PM CDT\nLink: https://www.facebook.com/events/cave-without-a-name/rudi-the-rudiments-spring-equinox-music-in-the-cave/1583912469998211/
 END:VEVENT
 BEGIN:VEVENT
-UID:22-BubbletimeBookworms@serpapi-events
-DTSTAMP:20260319
-DTSTART;VALUE=DATE:20260319
-DTEND;VALUE=DATE:20260320
-TRANSP:TRANSPARENT
-SUMMARY:Bubbletime Bookworms
-LOCATION:Boerne Public Library\, 451 N Main St\, Boerne\, TX
-DESCRIPTION:When: Thu\, Mar 19\, 10:00 – 10:30 AM CDT\nLink: https://theboernelife.com/events/bubbletime-bookworms-2/2026-03-19/
-END:VEVENT
-BEGIN:VEVENT
-UID:23-GiovannieandtheHiredGuns@serpapi-events
+UID:14-GiovannieandtheHiredGuns@serpapi-events
 DTSTAMP:20260320
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260321
@@ -242,27 +152,7 @@ LOCATION:John T. Floore's Country Store\, 14492 Old Bandera Rd\, Helotes\, TX
 DESCRIPTION:When: Fri\, Mar 20\, 7 – 10 PM CDT\nLink: https://do210.com/artists/giovannie-and-the-hired-guns
 END:VEVENT
 BEGIN:VEVENT
-UID:24-RibbonCuttingforECHOPhysicalTherapyandAthletics@serpapi-events
-DTSTAMP:20260319
-DTSTART;VALUE=DATE:20260319
-DTEND;VALUE=DATE:20260320
-TRANSP:TRANSPARENT
-SUMMARY:Ribbon Cutting for ECHO Physical Therapy and Athletics
-LOCATION:ECHO Physical Therapy and Athletics\, 1 FM 3351 Suite #140\, Boerne\, TX
-DESCRIPTION:When: Thu\, Mar 19\, 1:30 – 2:00 PM CDT\nLink: https://business.boerne.org/events/details/ribbon-cutting-for-echo-physical-therapy-and-athletics-32241
-END:VEVENT
-BEGIN:VEVENT
-UID:25-IcingontheCake@serpapi-events
-DTSTAMP:20260319
-DTSTART;VALUE=DATE:20260319
-DTEND;VALUE=DATE:20260320
-TRANSP:TRANSPARENT
-SUMMARY:Icing on the Cake
-LOCATION:Unison Studios: Music Academy\, 725 N Main St\, Boerne\, TX
-DESCRIPTION:When: Thu\, Mar 19\, 1:00 – 1:30 PM CDT\nLink: https://www.groundedmovement.org/schedule/d3db2aaf-6a71-472b-9a34-1ab708641a8a_1773943200
-END:VEVENT
-BEGIN:VEVENT
-UID:26-NOKINGSBoerneTX@serpapi-events
+UID:15-NOKINGSBoerneTX@serpapi-events
 DTSTAMP:20260328
 DTSTART;VALUE=DATE:20260328
 DTEND;VALUE=DATE:20260329
@@ -272,7 +162,7 @@ LOCATION:Boerne City Hall\, 447 N Main St\, Boerne\, TX
 DESCRIPTION:When: Sat\, Mar 28\, 1:00 – 2:30 PM CDT\nLink: https://www.mobilize.us/democracy12/event/905896/
 END:VEVENT
 BEGIN:VEVENT
-UID:27-CirqueMaCeoLIVEinBoerneMay1102026@serpapi-events
+UID:16-CirqueMaCeoLIVEinBoerneMay1102026@serpapi-events
 DTSTAMP:20260501
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260511
@@ -282,7 +172,7 @@ LOCATION:Kendall County Fair Association (Kendall County Fair Grounds)\, 1307 Ri
 DESCRIPTION:When: May 1\, 7:00 PM – May 10\, 8:30 PM CDT\nLink: https://atxwoman.com/calendar/?_evDiscoveryPath=/event%2F3532394-cirque-ma-ceo-live-in-boerne-may-1-10-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:28-LivingTrustSeminarBoerneTXApril292026@serpapi-events
+UID:17-LivingTrustSeminarBoerneTXApril292026@serpapi-events
 DTSTAMP:20260429
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260430
@@ -292,7 +182,17 @@ LOCATION:Fairfield by Marriott Inn & Suites San Antonio Boerne\, 6 Cascade Caver
 DESCRIPTION:When: Wed\, Apr 29\, 9:30 – 10:30 AM CDT\nLink: https://atxwoman.com/calendar/?_evDiscoveryPath=/event/3525442-living-trust-seminar-boerne-tx-april-29-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:29-BoerneAfterHoursMixerhostedbyJoshuaCreekRanch@serpapi-events
+UID:18-VeteranOutreachCommittee@serpapi-events
+DTSTAMP:20260324
+DTSTART;VALUE=DATE:20260324
+DTEND;VALUE=DATE:20260325
+TRANSP:TRANSPARENT
+SUMMARY:Veteran Outreach Committee
+LOCATION:28 Songs Brewhouse + Kitchen\, 110 Market Ave\, Boerne\, TX
+DESCRIPTION:When: Tue\, Mar 24\, 9 – 10 AM CDT\nLink: https://business.boerne.org/events/details/veteran-outreach-committee-32200
+END:VEVENT
+BEGIN:VEVENT
+UID:19-BoerneAfterHoursMixerhostedbyJoshuaCreekRanch@serpapi-events
 DTSTAMP:20260423
 DTSTART;VALUE=DATE:20260423
 DTEND;VALUE=DATE:20260424
