@@ -5,6 +5,9 @@ on:
     - cron: "0 8 * * *" # 08:00 UTC daily
   workflow_dispatch: {}
 
+permissions:
+  contents: write
+
 jobs:
   refresh:
     runs-on: ubuntu-latest
@@ -25,13 +28,12 @@ jobs:
           node scripts/fetch-events.js
           node scripts/generate-ics.js
       - name: Commit and push if changed
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if git status --porcelain | grep .; then
-            git add data/events.csv data/events.ics
-            git commit -m "Automated refresh"
-            git push
-          else
-            echo "No changes to commit"
-          fi
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+          git commit -m "Automated refresh [skip ci]" || exit 0
+          git push https://${GH_TOKEN}@github.com/enkday/serpapi-events-toolkit.git HEAD:main
