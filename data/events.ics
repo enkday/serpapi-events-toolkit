@@ -2,27 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//serpapi-events//EN
 BEGIN:VEVENT
-UID:0-BenMcPeak@serpapi-events
-DTSTAMP:20260619
-DTSTART;VALUE=DATE:20260619
-DTEND;VALUE=DATE:20260621
-TRANSP:TRANSPARENT
-SUMMARY:Ben McPeak
-LOCATION:Main Plaza\, Boerne\, TX
-DESCRIPTION:When: Fri\, Jun 19 – Sat\, Jun 20\nLink: https://open.spotify.com/concert/5gPjP360Jd2zCONYuvPVlG
-END:VEVENT
-BEGIN:VEVENT
-UID:1-SingerSongwriterPresentsTapatios45thAnniversaryftTHESPAZMATICS@serpapi-events
-DTSTAMP:20260618
-DTSTART;VALUE=DATE:20260618
-DTEND;VALUE=DATE:20260619
-TRANSP:TRANSPARENT
-SUMMARY:Singer-Songwriter Presents: Tapatio's 45th Anniversary ft. THE SPAZMATICS
-LOCATION:Tapatio Springs Hill Country Resort\, 1 Resort Way\, Boerne\, TX
-DESCRIPTION:When: Today\, 6:00 – 10:30 PM\nLink: https://events.ticketleap.com/tickets/tapatio-springs-hill-country-resort/singer-songwriter-presents-tapatio-s-45th-anniversary-ft-the-spazmatics
-END:VEVENT
-BEGIN:VEVENT
-UID:2-TheBestJazzBrunchinTexas@serpapi-events
+UID:0-TheBestJazzBrunchinTexas@serpapi-events
 DTSTAMP:20260621
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260622
@@ -32,67 +12,67 @@ LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
 DESCRIPTION:When: Sun\, 11 AM – 3 PM\nLink: https://open.spotify.com/concert/3DDWNNE8iQoqxrRdUzeepl
 END:VEVENT
 BEGIN:VEVENT
-UID:3-DeVinoLadiesNight@serpapi-events
-DTSTAMP:20260618
-DTSTART;VALUE=DATE:20260618
-DTEND;VALUE=DATE:20260619
+UID:1-BenMcPeak@serpapi-events
+DTSTAMP:20260619
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260621
 TRANSP:TRANSPARENT
-SUMMARY:DeVino Ladies Night
-LOCATION:DeVino Cellars\, 112 E San Antonio Ave\, Boerne\, TX
-DESCRIPTION:When: Today\, 4 – 9 PM\nLink: https://business.boerne.org/events/details/devino-ladies-night-06-18-2026-31089?calendarMonth=2026-06-01
+SUMMARY:Ben McPeak
+LOCATION:Main Plaza\, Boerne\, TX
+DESCRIPTION:When: Fri\, Jun 19 – Sat\, Jun 20\nLink: https://open.spotify.com/concert/5gPjP360Jd2zCONYuvPVlG
 END:VEVENT
 BEGIN:VEVENT
-UID:4-CiboloFarmersMarketatHerffFarm@serpapi-events
+UID:2-CiboloFarmersMarketatHerffFarm@serpapi-events
 DTSTAMP:20260620
 DTSTART;VALUE=DATE:20260620
 DTEND;VALUE=DATE:20260621
 TRANSP:TRANSPARENT
 SUMMARY:Cibolo Farmers Market at Herff Farm
 LOCATION:Herff Farm\, 33 Herff Rd\, Boerne\, TX
-DESCRIPTION:When: Sat\, 9 AM – 1 PM\nLink: https://business.boerne.org/events/details/cibolo-farmers-market-at-herff-farm-06-20-2026-29666?calendarMonth=2026-06-01
+DESCRIPTION:When: Tomorrow\, 9 AM – 1 PM\nLink: https://business.boerne.org/events/details/cibolo-farmers-market-at-herff-farm-06-20-2026-29666?calendarMonth=2026-06-01
 END:VEVENT
 BEGIN:VEVENT
-UID:5-SoloatTheClubsofCordilleraRanch@serpapi-events
+UID:3-SoloatTheClubsofCordilleraRanch@serpapi-events
 DTSTAMP:20260619
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260620
 TRANSP:TRANSPARENT
 SUMMARY:Solo at The Clubs of Cordillera Ranch
 LOCATION:The Clubs of Cordillera Ranch\, 1092 Clubs Dr\, Boerne\, TX
-DESCRIPTION:When: Tomorrow\, 6 – 9 PM\nLink: https://meghanmariemusic.com/event/6613746/766658764/solo-at-the-clubs-of-cordillera-ranch
+DESCRIPTION:When: Today\, 6 – 9 PM\nLink: https://meghanmariemusic.com/event/6613746/766658764/solo-at-the-clubs-of-cordillera-ranch
 END:VEVENT
 BEGIN:VEVENT
-UID:6-RubenPAcoustic@serpapi-events
+UID:4-RubenPAcoustic@serpapi-events
 DTSTAMP:20260620
 DTSTART;VALUE=DATE:20260620
 DTEND;VALUE=DATE:20260621
 TRANSP:TRANSPARENT
 SUMMARY:Ruben P Acoustic
 LOCATION:Tapatio Springs Hill Country Resort\, 1 Resort Way\, Boerne\, TX
-DESCRIPTION:When: Sat\, 7 – 11 PM\nLink: https://www.mysanantonio.com/entertainment/?_evDiscoveryPath=/event/108451175n-ruben-p-acoustic
+DESCRIPTION:When: Tomorrow\, 7 – 11 PM\nLink: https://www.mysanantonio.com/entertainment/?_evDiscoveryPath=/event/108451175n-ruben-p-acoustic
 END:VEVENT
 BEGIN:VEVENT
-UID:7-CourtneyKing@serpapi-events
-DTSTAMP:20260620
-DTSTART;VALUE=DATE:20260620
-DTEND;VALUE=DATE:20260621
-TRANSP:TRANSPARENT
-SUMMARY:Courtney King
-LOCATION:Cave Without A Name\, 325 Kreutzberg Rd\, Boerne\, TX
-DESCRIPTION:When: Sat\, 7:30 – 11:30 PM\nLink: https://herald-zeitung.com/local-events/?_evDiscoveryPath=/event/108418037n-courtney-king
-END:VEVENT
-BEGIN:VEVENT
-UID:8-BubbletimeBookworms@serpapi-events
+UID:5-BubbletimeBookworms@serpapi-events
 DTSTAMP:20260619
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260620
 TRANSP:TRANSPARENT
 SUMMARY:Bubbletime Bookworms
 LOCATION:Boerne Public Library\, 451 N Main St\, Boerne\, TX
-DESCRIPTION:When: Tomorrow\, 10:00 – 10:30 AM\nLink: https://theboernelife.com/events/bubbletime-bookworms-2/2026-06-19/
+DESCRIPTION:When: Today\, 10:00 – 10:30 AM\nLink: https://theboernelife.com/events/bubbletime-bookworms-2/2026-06-19/
 END:VEVENT
 BEGIN:VEVENT
-UID:9-TheBoerneBookFestival@serpapi-events
+UID:6-CourtneyKing@serpapi-events
+DTSTAMP:20260620
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+TRANSP:TRANSPARENT
+SUMMARY:Courtney King
+LOCATION:Cave Without A Name\, 325 Kreutzberg Rd\, Boerne\, TX
+DESCRIPTION:When: Tomorrow\, 7:30 – 11:30 PM\nLink: https://herald-zeitung.com/local-events/?_evDiscoveryPath=/event/108418037n-courtney-king
+END:VEVENT
+BEGIN:VEVENT
+UID:7-TheBoerneBookFestival@serpapi-events
 DTSTAMP:20261003
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
@@ -100,6 +80,26 @@ TRANSP:TRANSPARENT
 SUMMARY:The Boerne Book Festival
 LOCATION:Patrick Heath Public Library\, 451 N Main St\, Boerne\, TX
 DESCRIPTION:When: Sat\, 10 AM – 4 PM\nLink: https://www.traveltexas.com/event/the-boerne-book-festival/6179/
+END:VEVENT
+BEGIN:VEVENT
+UID:8-NoahPeterson@serpapi-events
+DTSTAMP:20260628
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+TRANSP:TRANSPARENT
+SUMMARY:Noah Peterson
+LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
+DESCRIPTION:When: Sun\, 11 AM – 3 PM\nLink: https://open.spotify.com/concert/2nOKSpXN2Ujt8e9hFYYOXn
+END:VEVENT
+BEGIN:VEVENT
+UID:9-NoahPeterson@serpapi-events
+DTSTAMP:20260705
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260706
+TRANSP:TRANSPARENT
+SUMMARY:Noah Peterson
+LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
+DESCRIPTION:When: Sun\, 11 AM – 3 PM\nLink: https://open.spotify.com/concert/2L2sMSwgGFrLUCF2DibY9D
 END:VEVENT
 BEGIN:VEVENT
 UID:10-NoahPeterson@serpapi-events
@@ -112,27 +112,7 @@ LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
 DESCRIPTION:When: Sun\, 11 AM – 3 PM\nLink: https://open.spotify.com/concert/2nOKSpXN2Ujt8e9hFYYOXn
 END:VEVENT
 BEGIN:VEVENT
-UID:11-BubbletimeBookworms@serpapi-events
-DTSTAMP:20260618
-DTSTART;VALUE=DATE:20260618
-DTEND;VALUE=DATE:20260619
-TRANSP:TRANSPARENT
-SUMMARY:Bubbletime Bookworms
-LOCATION:Patrick Heath Public Library\, 451 N Main St\, Boerne\, TX
-DESCRIPTION:When: Today\, 10:00 – 10:30 AM\nLink: https://theboernelife.com/events/bubbletime-bookworms-2-2/2026-06-18/
-END:VEVENT
-BEGIN:VEVENT
-UID:12-BoerneMarketDays@serpapi-events
-DTSTAMP:20260711
-DTSTART;VALUE=DATE:20260711
-DTEND;VALUE=DATE:20260712
-TRANSP:TRANSPARENT
-SUMMARY:Boerne Market Days
-LOCATION:Main Plaza\, Boerne\, TX
-DESCRIPTION:When: Sat\, 10 AM – 5 PM\nLink: https://business.boerne.org/events/details/boerne-market-days-07-11-2026-30344
-END:VEVENT
-BEGIN:VEVENT
-UID:13-NoahPeterson@serpapi-events
+UID:11-NoahPeterson@serpapi-events
 DTSTAMP:20260705
 DTSTART;VALUE=DATE:20260705
 DTEND;VALUE=DATE:20260706
@@ -142,17 +122,7 @@ LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
 DESCRIPTION:When: Sun\, 11 AM – 3 PM\nLink: https://open.spotify.com/concert/2L2sMSwgGFrLUCF2DibY9D
 END:VEVENT
 BEGIN:VEVENT
-UID:14-20261003BoerneTXBasicClass261104@serpapi-events
-DTSTAMP:20261003
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-TRANSP:TRANSPARENT
-SUMMARY:2026-10-03 – Boerne\, TX – Basic Class – 26-1104
-LOCATION:The Center\, 17 Old San Antonio Rd\, Boerne\, TX
-DESCRIPTION:When: Sat\, 9 AM – 5 PM\nLink: https://roadguardians.org/event/boerne-tx-26-1104/
-END:VEVENT
-BEGIN:VEVENT
-UID:15-July1stComedyShowGameNight@serpapi-events
+UID:12-July1stComedyShowGameNight@serpapi-events
 DTSTAMP:20260701
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260702
@@ -162,27 +132,7 @@ LOCATION:DeVino Cellars\, 112 E San Antonio Ave\, Boerne\, TX
 DESCRIPTION:When: Wed\, 7:30 – 9:00 PM\nLink: https://www.eventbrite.com/e/july-1st-comedy-show-game-night-tickets-1990056426342
 END:VEVENT
 BEGIN:VEVENT
-UID:16-KaraokeatDrinkTexasBoerne@serpapi-events
-DTSTAMP:20260623
-DTSTART;VALUE=DATE:20260623
-DTEND;VALUE=DATE:20260624
-TRANSP:TRANSPARENT
-SUMMARY:Karaoke at Drink Texas Boerne
-LOCATION:Drink Texas Boerne\, 31138 I-10\, Boerne\, TX
-DESCRIPTION:When: Tue\, 7 – 11 PM\nLink: https://theboernelife.com/events/tag/night/week/2026-06-26/
-END:VEVENT
-BEGIN:VEVENT
-UID:17-NoahPeterson@serpapi-events
-DTSTAMP:20260927
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-TRANSP:TRANSPARENT
-SUMMARY:Noah Peterson
-LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
-DESCRIPTION:When: Sun\, 11 AM – 3 PM\nLink: https://open.spotify.com/concert/45YCfsjmmCp6tIlz163eVv
-END:VEVENT
-BEGIN:VEVENT
-UID:18-BoerneAfterHoursMixerHostedbySenderoWealthManagement@serpapi-events
+UID:13-BoerneAfterHoursMixerHostedbySenderoWealthManagement@serpapi-events
 DTSTAMP:20260827
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
@@ -192,17 +142,47 @@ LOCATION:Richter Tavern\, 153 S Main St\, Boerne\, TX
 DESCRIPTION:When: Thu\, 4 – 6 PM\nLink: https://business.boerne.org/events/details/boerne-after-hours-mixer-hosted-by-sendero-wealth-management-32372
 END:VEVENT
 BEGIN:VEVENT
-UID:19-VeteranOutreachCommittee@serpapi-events
+UID:14-KaraokeatDrinkTexasBoerne@serpapi-events
+DTSTAMP:20260623
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260624
+TRANSP:TRANSPARENT
+SUMMARY:Karaoke at Drink Texas Boerne
+LOCATION:Drink Texas Boerne\, 31138 I-10\, Boerne\, TX
+DESCRIPTION:When: Tue\, 7 – 11 PM\nLink: https://theboernelife.com/events/tag/night/week/2026-06-26/
+END:VEVENT
+BEGIN:VEVENT
+UID:15-VeteranOutreachCommittee@serpapi-events
 DTSTAMP:20260623
 DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260624
 TRANSP:TRANSPARENT
 SUMMARY:Veteran Outreach Committee
-LOCATION:28 Songs Brewhouse + Kitchen\, 110 Market Ave\, Boerne\, TX
+LOCATION:28 Songs Brewhouse\, 110 Market Ave\, Boerne\, TX
 DESCRIPTION:When: Tue\, 9 – 10 AM\nLink: https://business.boerne.org/events/details/veteran-outreach-committee-32201
 END:VEVENT
 BEGIN:VEVENT
-UID:20-BoerneMarketDays@serpapi-events
+UID:16-NoahPeterson@serpapi-events
+DTSTAMP:20260927
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+TRANSP:TRANSPARENT
+SUMMARY:Noah Peterson
+LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
+DESCRIPTION:When: Sun\, 11 AM – 3 PM\nLink: https://open.spotify.com/concert/45YCfsjmmCp6tIlz163eVv
+END:VEVENT
+BEGIN:VEVENT
+UID:17-BoerneMarketDays@serpapi-events
+DTSTAMP:20261010
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+TRANSP:TRANSPARENT
+SUMMARY:Boerne Market Days
+LOCATION:Main Plaza\, Boerne\, TX
+DESCRIPTION:When: Sat\, 10 AM – 5 PM\nLink: https://business.boerne.org/events/details/boerne-market-days-10-10-2026-30347
+END:VEVENT
+BEGIN:VEVENT
+UID:18-BoerneMarketDays@serpapi-events
 DTSTAMP:20260712
 DTSTART;VALUE=DATE:20260712
 DTEND;VALUE=DATE:20260713
@@ -212,7 +192,7 @@ LOCATION:Main Plaza\, Boerne\, TX
 DESCRIPTION:When: Sun\, 10 AM – 4 PM\nLink: https://business.boerne.org/events/details/boerne-market-days-07-12-2026-30471?calendarMonth=2026-07-01
 END:VEVENT
 BEGIN:VEVENT
-UID:21-TheBestJazzBrunchinTexas@serpapi-events
+UID:19-TheBestJazzBrunchinTexas@serpapi-events
 DTSTAMP:20260712
 DTSTART;VALUE=DATE:20260712
 DTEND;VALUE=DATE:20260713
@@ -222,7 +202,7 @@ LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
 DESCRIPTION:When: Sun\, 11 AM – 3 PM\nLink: https://open.spotify.com/concert/2HwD3Oncj3HUYdsdX1Z0kj
 END:VEVENT
 BEGIN:VEVENT
-UID:22-TheBestJazzBrunchinTexas@serpapi-events
+UID:20-TheBestJazzBrunchinTexas@serpapi-events
 DTSTAMP:20260906
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20260907
@@ -232,7 +212,17 @@ LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
 DESCRIPTION:When: Sun\, 11 AM – 3 PM\nLink: https://open.spotify.com/concert/3Rl3QccCGG3iSu1aI51XLB
 END:VEVENT
 BEGIN:VEVENT
-UID:23-TheBestJazzBrunchinTexas@serpapi-events
+UID:21-TheBestJazzBrunchinTexas@serpapi-events
+DTSTAMP:20260830
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+TRANSP:TRANSPARENT
+SUMMARY:The Best Jazz Brunch in Texas
+LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
+DESCRIPTION:When: Sun\, 11 AM – 3 PM\nLink: https://open.spotify.com/concert/0C1pfIloRizblhWBJJ6VQI
+END:VEVENT
+BEGIN:VEVENT
+UID:22-TheBestJazzBrunchinTexas@serpapi-events
 DTSTAMP:20260920
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
@@ -242,7 +232,7 @@ LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
 DESCRIPTION:When: Sun\, 11 AM – 3 PM\nLink: https://open.spotify.com/concert/0ZFT0fhjWWxoS4wsEnVCC5
 END:VEVENT
 BEGIN:VEVENT
-UID:24-November4thComedyShowGameNight@serpapi-events
+UID:23-November4thComedyShowGameNight@serpapi-events
 DTSTAMP:20261104
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
@@ -252,37 +242,7 @@ LOCATION:DeVino Cellars\, 112 E San Antonio Ave\, Boerne\, TX
 DESCRIPTION:When: Wed\, 7:30 – 9:00 PM\nLink: https://www.eventbrite.com/e/november-4th-comedy-show-game-night-tickets-1990056771374
 END:VEVENT
 BEGIN:VEVENT
-UID:25-TheBestJazzBrunchinTexas@serpapi-events
-DTSTAMP:20260830
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260831
-TRANSP:TRANSPARENT
-SUMMARY:The Best Jazz Brunch in Texas
-LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
-DESCRIPTION:When: Sun\, 11 AM – 3 PM\nLink: https://open.spotify.com/concert/0C1pfIloRizblhWBJJ6VQI
-END:VEVENT
-BEGIN:VEVENT
-UID:26-NoahPeterson@serpapi-events
-DTSTAMP:20260802
-DTSTART;VALUE=DATE:20260802
-DTEND;VALUE=DATE:20260803
-TRANSP:TRANSPARENT
-SUMMARY:Noah Peterson
-LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
-DESCRIPTION:When: Sun\, 11 AM – 3 PM\nLink: https://open.spotify.com/concert/1HXTy0rYPGFTs5Hs9MAXny
-END:VEVENT
-BEGIN:VEVENT
-UID:27-NoahPeterson@serpapi-events
-DTSTAMP:20260830
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260831
-TRANSP:TRANSPARENT
-SUMMARY:Noah Peterson
-LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
-DESCRIPTION:When: Sun\, 11 AM – 3 PM\nLink: https://open.spotify.com/concert/0C1pfIloRizblhWBJJ6VQI
-END:VEVENT
-BEGIN:VEVENT
-UID:28-NoahPeterson@serpapi-events
+UID:24-NoahPeterson@serpapi-events
 DTSTAMP:20260823
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
@@ -292,7 +252,27 @@ LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
 DESCRIPTION:When: Sun\, 11 AM – 3 PM\nLink: https://open.spotify.com/concert/6U9UJdmDJ3xMUOxXPQGzHS
 END:VEVENT
 BEGIN:VEVENT
-UID:29-BoerneMarketDays@serpapi-events
+UID:25-NoahPeterson@serpapi-events
+DTSTAMP:20260802
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+TRANSP:TRANSPARENT
+SUMMARY:Noah Peterson
+LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
+DESCRIPTION:When: Sun\, 11 AM – 3 PM\nLink: https://open.spotify.com/concert/1HXTy0rYPGFTs5Hs9MAXny
+END:VEVENT
+BEGIN:VEVENT
+UID:26-NoahPeterson@serpapi-events
+DTSTAMP:20260830
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+TRANSP:TRANSPARENT
+SUMMARY:Noah Peterson
+LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
+DESCRIPTION:When: Sun\, 11 AM – 3 PM\nLink: https://open.spotify.com/concert/0C1pfIloRizblhWBJJ6VQI
+END:VEVENT
+BEGIN:VEVENT
+UID:27-BoerneMarketDays@serpapi-events
 DTSTAMP:20260809
 DTSTART;VALUE=DATE:20260809
 DTEND;VALUE=DATE:20260810
@@ -302,44 +282,94 @@ LOCATION:Main Plaza\, Boerne\, TX
 DESCRIPTION:When: Sun\, 10 AM – 4 PM\nLink: https://business.boerne.org/events/details/boerne-market-days-08-09-2026-30472
 END:VEVENT
 BEGIN:VEVENT
-UID:30-KaraokeatDrinkTexasBoerne@serpapi-events
+UID:28-KaraokeatDrinkTexasBoerne@serpapi-events
 DTSTAMP:20260714
 DTSTART;VALUE=DATE:20260714
 DTEND;VALUE=DATE:20260715
 TRANSP:TRANSPARENT
 SUMMARY:Karaoke at Drink Texas Boerne
 LOCATION:Drink Texas Boerne\, 31138 I-10\, Boerne\, TX
-DESCRIPTION:When: ter.\, 19:00 – 23:00\nLink: https://theboernelife.com/events/tag/night/week/2026-07-15/
+DESCRIPTION:When: Tue\, 7 – 11 PM\nLink: https://theboernelife.com/events/tag/night/week/2026-07-15/
 END:VEVENT
 BEGIN:VEVENT
-UID:31-NoahPeterson@serpapi-events
-DTSTAMP:20261122
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
+UID:29-INFIELDERACADEMYSESSON1AGE712BoerneTX2026@serpapi-events
+DTSTAMP:20260707
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+TRANSP:TRANSPARENT
+SUMMARY:INFIELDER ACADEMY SESSON 1: AGE 7-12 - Boerne\, TX 2026
+LOCATION:The Dugout\, 132 Old San Antonio Rd\, Boerne\, TX
+DESCRIPTION:When: Jul 7 – 21\nLink: https://www.activekids.com/boerne-tx/baseball/baseball-camps/infielder-academy-sesson-1-age-13-18-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:30-NoahPeterson@serpapi-events
+DTSTAMP:20260913
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
 TRANSP:TRANSPARENT
 SUMMARY:Noah Peterson
 LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
-DESCRIPTION:When: dom.\, 11:00 – 15:00\nLink: https://open.spotify.com/concert/5sGoMoXL4dugpB2v3m3LJB
+DESCRIPTION:When: Sun\, 11 AM – 3 PM\nLink: https://open.spotify.com/concert/5b0inAl0NjqoZnGRhOVHXQ
 END:VEVENT
 BEGIN:VEVENT
-UID:32-TheBestJazzBrunchinTexas@serpapi-events
-DTSTAMP:20260830
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260831
+UID:31-INFIELDERACADEMYSESSON1AGE712BoerneTX2026@serpapi-events
+DTSTAMP:20260707
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
 TRANSP:TRANSPARENT
-SUMMARY:The Best Jazz Brunch in Texas
-LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
-DESCRIPTION:When: dom.\, 11:00 – 15:00\nLink: https://open.spotify.com/concert/0C1pfIloRizblhWBJJ6VQI
+SUMMARY:INFIELDER ACADEMY SESSON 1: AGE 7-12 - Boerne\, TX 2026
+LOCATION:The Dugout\, 132 Old San Antonio Rd\, Boerne\, TX
+DESCRIPTION:When: Jul 7 – 21\nLink: https://www.activekids.com/boerne-tx/baseball/baseball-camps/infielder-academy-sesson-1-age-13-18-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:34-JohnnyMurphyLiveatTapatioSprings@serpapi-events
+UID:32-BoerneMarketDays@serpapi-events
+DTSTAMP:20261011
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+TRANSP:TRANSPARENT
+SUMMARY:Boerne Market Days
+LOCATION:Main Plaza\, Boerne\, TX
+DESCRIPTION:When: Sun\, 10 AM – 4 PM\nLink: https://business.boerne.org/events/details/boerne-market-days-10-11-2026-30474?calendarMonth=2026-10-01
+END:VEVENT
+BEGIN:VEVENT
+UID:33-YOUTHBASEBALLHITTINGCAMPBoerneTX2026@serpapi-events
+DTSTAMP:20260803
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260805
+TRANSP:TRANSPARENT
+SUMMARY:YOUTH BASEBALL HITTING CAMP - Boerne\, TX 2026
+LOCATION:The Dugout\, 132 Old San Antonio Rd\, Boerne\, TX
+DESCRIPTION:When: Mon\, Aug 3 – Tue\, Aug 4\nLink: https://www.activekids.com/boerne-tx/baseball/baseball-camps/youth-baseball-hitting-camp-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:34-KaraokeatDrinkTexasBoerne@serpapi-events
+DTSTAMP:20260908
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+TRANSP:TRANSPARENT
+SUMMARY:Karaoke at Drink Texas Boerne
+LOCATION:Drink Texas Boerne\, 31138 I-10\, Boerne\, TX
+DESCRIPTION:When: Tue\, 7 – 11 PM\nLink: https://theboernelife.com/events/tag/night/week/2026-09-09/
+END:VEVENT
+BEGIN:VEVENT
+UID:35-JohnnyMurphyLiveatTapatioSprings@serpapi-events
 DTSTAMP:20260627
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260628
 TRANSP:TRANSPARENT
 SUMMARY:Johnny Murphy Live at Tapatio Springs
 LOCATION:La Cascada Table & Bar\, 1 Resort Way\, Boerne\, TX
-DESCRIPTION:When: sáb.\, 19:00 – 23:00\nLink: https://open.spotify.com/concert/1WFlek39zjfEb2qoffgOY0
+DESCRIPTION:When: Sat\, 7 – 11 PM\nLink: https://open.spotify.com/concert/1WFlek39zjfEb2qoffgOY0
+END:VEVENT
+BEGIN:VEVENT
+UID:36-TheBestJazzBrunchinTexas@serpapi-events
+DTSTAMP:20260719
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+TRANSP:TRANSPARENT
+SUMMARY:The Best Jazz Brunch in Texas
+LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
+DESCRIPTION:When: Sun\, 11 AM – 3 PM\nLink: https://open.spotify.com/concert/34OcUb6rv9pzB9sL7NzClm
 END:VEVENT
 BEGIN:VEVENT
 UID:37-SOLDOUTMurderattheWineBarBoerneCommunityTheatreFundraiser@serpapi-events
@@ -349,30 +379,10 @@ DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
 SUMMARY:SOLD OUT: Murder at the Wine Bar – Boerne Community Theatre Fundraiser
 LOCATION:DeVino Cellars\, 112 E San Antonio Ave\, Boerne\, TX
-DESCRIPTION:When: sex.\, 16:30 – 20:00\nLink: https://theboernelife.com/events/murder-at-the-wine-bar-boerne-community-theatre-fundraiser/2026-11-27/
+DESCRIPTION:When: Fri\, 4:30 – 8:00 PM\nLink: https://theboernelife.com/events/murder-at-the-wine-bar-boerne-community-theatre-fundraiser/2026-11-27/
 END:VEVENT
 BEGIN:VEVENT
-UID:38-NoahPeterson@serpapi-events
-DTSTAMP:20260802
-DTSTART;VALUE=DATE:20260802
-DTEND;VALUE=DATE:20260803
-TRANSP:TRANSPARENT
-SUMMARY:Noah Peterson
-LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
-DESCRIPTION:When: dom.\, 11:00 – 15:00\nLink: https://open.spotify.com/concert/1HXTy0rYPGFTs5Hs9MAXny
-END:VEVENT
-BEGIN:VEVENT
-UID:39-NoahPeterson@serpapi-events
-DTSTAMP:20260823
-DTSTART;VALUE=DATE:20260823
-DTEND;VALUE=DATE:20260824
-TRANSP:TRANSPARENT
-SUMMARY:Noah Peterson
-LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
-DESCRIPTION:When: dom.\, 11:00 – 15:00\nLink: https://open.spotify.com/concert/6U9UJdmDJ3xMUOxXPQGzHS
-END:VEVENT
-BEGIN:VEVENT
-UID:40-September2ndComedyShowGameNight@serpapi-events
+UID:38-September2ndComedyShowGameNight@serpapi-events
 DTSTAMP:20260902
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260903
@@ -382,7 +392,17 @@ LOCATION:DeVino Cellars\, 112 E San Antonio Ave\, Boerne\, TX
 DESCRIPTION:When: Wed\, 7:30 – 9:00 PM\nLink: https://www.eventbrite.com/e/september-2nd-comedy-show-game-night-tickets-1990056667062
 END:VEVENT
 BEGIN:VEVENT
-UID:41-TheBestJazzBrunchinTexas@serpapi-events
+UID:39-NoahPeterson@serpapi-events
+DTSTAMP:20261004
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+TRANSP:TRANSPARENT
+SUMMARY:Noah Peterson
+LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
+DESCRIPTION:When: Sun\, 11 AM – 3 PM\nLink: https://open.spotify.com/concert/3Nf5Qi4MBM5TyeOzqmHK14
+END:VEVENT
+BEGIN:VEVENT
+UID:40-TheBestJazzBrunchinTexas@serpapi-events
 DTSTAMP:20260816
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
@@ -392,17 +412,17 @@ LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
 DESCRIPTION:When: Sun\, 11 AM – 3 PM\nLink: https://open.spotify.com/concert/7n8rd0EhfHR5hbJWqpiIib
 END:VEVENT
 BEGIN:VEVENT
-UID:42-DropsShotsWorldCup@serpapi-events
+UID:41-DropsShotsWorldCup@serpapi-events
 DTSTAMP:20260619
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260620
 TRANSP:TRANSPARENT
 SUMMARY:Drops & Shots | World Cup
 LOCATION:Fair Oaks Ranch Golf & Country Club\, 7900 Fair Oaks Pkwy\, Fair Oaks Ranch\, TX
-DESCRIPTION:When: Tomorrow\, 8:00 – 9:30 AM\nLink: https://www.bounce.game/event/drops-and-shots-zthzzve
+DESCRIPTION:When: Today\, 8:00 – 9:30 AM\nLink: https://www.bounce.game/event/drops-and-shots-zthzzve
 END:VEVENT
 BEGIN:VEVENT
-UID:43-NoahPeterson@serpapi-events
+UID:42-NoahPeterson@serpapi-events
 DTSTAMP:20260809
 DTSTART;VALUE=DATE:20260809
 DTEND;VALUE=DATE:20260810
@@ -412,7 +432,7 @@ LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
 DESCRIPTION:When: Sun\, 11 AM – 3 PM\nLink: https://open.spotify.com/concert/3zg5VBqZrC89o5INM8GJJQ
 END:VEVENT
 BEGIN:VEVENT
-UID:44-NoahPeterson@serpapi-events
+UID:43-NoahPeterson@serpapi-events
 DTSTAMP:20261101
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
@@ -420,6 +440,16 @@ TRANSP:TRANSPARENT
 SUMMARY:Noah Peterson
 LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
 DESCRIPTION:When: Sun\, 11 AM – 3 PM\nLink: https://open.spotify.com/concert/1aw3yQHsUY5RQcd5cdLMuN
+END:VEVENT
+BEGIN:VEVENT
+UID:44-LacyBrinsonatTapatioSprings@serpapi-events
+DTSTAMP:20260807
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+TRANSP:TRANSPARENT
+SUMMARY:Lacy Brinson at Tapatio Springs
+LOCATION:Tapatio Springs Hill Country Resort\, 1 Resort Way\, Boerne\, TX
+DESCRIPTION:When: Fri\, 7 – 11 PM\nLink: https://herald-zeitung.com/local-events/?_evDiscoveryPath=/event%2F108428529n-lacy-brinson-at-tapatio-springs
 END:VEVENT
 BEGIN:VEVENT
 UID:45-BluegrassJamsatTheAgriCulturalMuseumArtsCenterBoerneLove@serpapi-events
@@ -442,17 +472,7 @@ LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
 DESCRIPTION:When: Sun\, 11 AM – 3 PM\nLink: https://open.spotify.com/concert/0aSH8pLNBZzMBH0vY8wWuc
 END:VEVENT
 BEGIN:VEVENT
-UID:47-LacyBrinsonatTapatioSprings@serpapi-events
-DTSTAMP:20260807
-DTSTART;VALUE=DATE:20260807
-DTEND;VALUE=DATE:20260808
-TRANSP:TRANSPARENT
-SUMMARY:Lacy Brinson at Tapatio Springs
-LOCATION:Tapatio Springs Hill Country Resort\, 1 Resort Way\, Boerne\, TX
-DESCRIPTION:When: Fri\, 7 – 11 PM\nLink: https://herald-zeitung.com/local-events/?_evDiscoveryPath=/event%2F108428529n-lacy-brinson-at-tapatio-springs
-END:VEVENT
-BEGIN:VEVENT
-UID:48-NoahPeterson@serpapi-events
+UID:47-NoahPeterson@serpapi-events
 DTSTAMP:20261213
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
@@ -462,7 +482,7 @@ LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
 DESCRIPTION:When: Sun\, 11 AM – 3 PM\nLink: https://open.spotify.com/concert/39ndaNc9lMDj0iNOqVf449
 END:VEVENT
 BEGIN:VEVENT
-UID:49-TheBestJazzBrunchinTexas@serpapi-events
+UID:48-TheBestJazzBrunchinTexas@serpapi-events
 DTSTAMP:20261011
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
@@ -470,6 +490,16 @@ TRANSP:TRANSPARENT
 SUMMARY:The Best Jazz Brunch in Texas
 LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
 DESCRIPTION:When: Sun\, 11 AM – 3 PM\nLink: https://open.spotify.com/concert/3GI50WnRtS1FV6bD3avrVC
+END:VEVENT
+BEGIN:VEVENT
+UID:49-BoerneMarketDays@serpapi-events
+DTSTAMP:20260808
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+TRANSP:TRANSPARENT
+SUMMARY:Boerne Market Days
+LOCATION:Main Plaza\, Boerne\, TX
+DESCRIPTION:When: Sat\, 10 AM – 5 PM\nLink: https://business.boerne.org/events/details/boerne-market-days-08-08-2026-30345
 END:VEVENT
 BEGIN:VEVENT
 UID:50-NoahPeterson@serpapi-events
@@ -482,17 +512,7 @@ LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
 DESCRIPTION:When: Sun\, 11 AM – 3 PM\nLink: https://open.spotify.com/concert/0I4kv7CoW6hH11PFvbSJHm
 END:VEVENT
 BEGIN:VEVENT
-UID:51-BoerneMarketDays@serpapi-events
-DTSTAMP:20260808
-DTSTART;VALUE=DATE:20260808
-DTEND;VALUE=DATE:20260809
-TRANSP:TRANSPARENT
-SUMMARY:Boerne Market Days
-LOCATION:Main Plaza\, Boerne\, TX
-DESCRIPTION:When: Sat\, 10 AM – 5 PM\nLink: https://business.boerne.org/events/details/boerne-market-days-08-08-2026-30345
-END:VEVENT
-BEGIN:VEVENT
-UID:52-CalligraphyClassBoerne@serpapi-events
+UID:51-CalligraphyClassBoerne@serpapi-events
 DTSTAMP:20260626
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
@@ -500,6 +520,16 @@ TRANSP:TRANSPARENT
 SUMMARY:Calligraphy Class @ Boerne
 LOCATION:Bakery Lorraine at Boerne\, 134 Oak Park Dr\, Boerne\, TX
 DESCRIPTION:When: Fri\, 1:00 – 2:30 PM\nLink: https://ma.to/event/calligraphy-class-boerne-26-june-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:52-BoerneMarketDays@serpapi-events
+DTSTAMP:20260808
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+TRANSP:TRANSPARENT
+SUMMARY:Boerne Market Days
+LOCATION:Main Plaza\, Boerne\, TX
+DESCRIPTION:When: Sat\, 10 AM – 5 PM\nLink: https://business.boerne.org/events/details/boerne-market-days-08-08-2026-30345
 END:VEVENT
 BEGIN:VEVENT
 UID:53-TheChocolateExperienceCreateYourOwnConfections@serpapi-events
@@ -572,104 +602,104 @@ LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
 DESCRIPTION:When: Sun\, 11 AM – 3 PM\nLink: https://open.spotify.com/concert/7hy6301roLpiwH9c6ORz1O
 END:VEVENT
 BEGIN:VEVENT
-UID:60-NoahPeterson@serpapi-events
-DTSTAMP:20261206
-DTSTART;VALUE=DATE:20261206
-DTEND;VALUE=DATE:20261207
-TRANSP:TRANSPARENT
-SUMMARY:Noah Peterson
-LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
-DESCRIPTION:When: Sun\, 11 AM – 3 PM\nLink: https://open.spotify.com/concert/2tnLcTbY3yf07Q40R4NHhP
-END:VEVENT
-BEGIN:VEVENT
-UID:61-RestorativeYogaatSanAntonioYogainBoerne@serpapi-events
-DTSTAMP:20260704
-DTSTART;VALUE=DATE:20260704
-DTEND;VALUE=DATE:20260705
-TRANSP:TRANSPARENT
-SUMMARY:Restorative Yoga at San Antonio Yoga in Boerne
-LOCATION:San Antonio Yoga in Boerne\, 101 Oak Ridge Dr\, Boerne\, TX
-DESCRIPTION:When: Sat\, 10 AM – 12 PM\nLink: https://business.boerne.org/events/details/restorivate-yoga-07-04-2026-31529?memberSlug=san-antonio-yoga-in-boerne
-END:VEVENT
-BEGIN:VEVENT
-UID:62-TexasStringAssembly@serpapi-events
-DTSTAMP:20260627
-DTSTART;VALUE=DATE:20260627
-DTEND;VALUE=DATE:20260628
-TRANSP:TRANSPARENT
-SUMMARY:Texas String Assembly
-LOCATION:Cibolo Center for Conservation\, 140 City Park Rd\, Boerne\, TX
-DESCRIPTION:When: Sat\, 7 – 11 PM\nLink: https://open.spotify.com/concert/0FPur3YzGGmF8H6DYi462B
-END:VEVENT
-BEGIN:VEVENT
-UID:63-TheBestJazzBrunchinTexas@serpapi-events
-DTSTAMP:20261025
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-TRANSP:TRANSPARENT
-SUMMARY:The Best Jazz Brunch in Texas
-LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
-DESCRIPTION:When: Sun\, 11 AM – 3 PM\nLink: https://open.spotify.com/concert/5FfzllZhm3Al7V1cgUHc4l
-END:VEVENT
-BEGIN:VEVENT
-UID:64-FirstFridayYoga@serpapi-events
-DTSTAMP:20260703
-DTSTART;VALUE=DATE:20260703
-DTEND;VALUE=DATE:20260704
-TRANSP:TRANSPARENT
-SUMMARY:First Friday Yoga
-LOCATION:Patrick Heath Public Library\, 451 N Main St\, Boerne\, TX
-DESCRIPTION:When: Fri\, 6 – 7 PM\nLink: https://theboernelife.com/events/first-friday-yoga/2026-07-03/
-END:VEVENT
-BEGIN:VEVENT
-UID:65-KaraokeatDrinkTexasBoerne@serpapi-events
-DTSTAMP:20260901
-DTSTART;VALUE=DATE:20260901
-DTEND;VALUE=DATE:20260902
-TRANSP:TRANSPARENT
-SUMMARY:Karaoke at Drink Texas Boerne
-LOCATION:Drink Texas Boerne\, 31138 I-10\, Boerne\, TX
-DESCRIPTION:When: Tue\, 7 – 11 PM\nLink: https://theboernelife.com/events/category/music/week/2026-09-04/
-END:VEVENT
-BEGIN:VEVENT
-UID:66-DeVinoLadiesNight@serpapi-events
-DTSTAMP:20260625
-DTSTART;VALUE=DATE:20260625
-DTEND;VALUE=DATE:20260626
-TRANSP:TRANSPARENT
-SUMMARY:DeVino Ladies Night
-LOCATION:DeVino Cellars\, 112 E San Antonio Ave\, Boerne\, TX
-DESCRIPTION:When: Thu\, 4 – 9 PM\nLink: https://business.boerne.org/events/details/devino-ladies-night-06-25-2026-31090?calendarMonth=2026-06-01
-END:VEVENT
-BEGIN:VEVENT
-UID:67-BrittBallengerBand@serpapi-events
+UID:60-BrittBallengerBand@serpapi-events
 DTSTAMP:20260711
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260712
 TRANSP:TRANSPARENT
 SUMMARY:Britt Ballenger Band
 LOCATION:Free Roam Brewing Company\, 325 S Main St\, Boerne\, TX
-DESCRIPTION:When: Sat\, 6 – 10 PM\nLink: https://open.spotify.com/concert/59qkVgN4hmUml85HBVBYZv
+DESCRIPTION:When: sáb\, 6:00 – 10:00 p.m.\nLink: https://open.spotify.com/concert/59qkVgN4hmUml85HBVBYZv
 END:VEVENT
 BEGIN:VEVENT
-UID:68-MarkSearcyMusic@serpapi-events
+UID:61-TheBestJazzBrunchinTexas@serpapi-events
+DTSTAMP:20260726
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+TRANSP:TRANSPARENT
+SUMMARY:The Best Jazz Brunch in Texas
+LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
+DESCRIPTION:When: dom\, 11:00 a.m. – 3:00 p.m.\nLink: https://open.spotify.com/concert/7hy6301roLpiwH9c6ORz1O
+END:VEVENT
+BEGIN:VEVENT
+UID:62-SourdoughWorkshop@serpapi-events
+DTSTAMP:20260716
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+TRANSP:TRANSPARENT
+SUMMARY:Sourdough Workshop
+LOCATION:Herff Farm\, 33 Herff Rd\, Boerne\, TX
+DESCRIPTION:When: jue\, 6:30 – 8:00 p.m.\nLink: https://business.boerne.org/events/details/sourdough-workshop-07-16-2025-32256
+END:VEVENT
+BEGIN:VEVENT
+UID:63-FirstFridayYoga@serpapi-events
+DTSTAMP:20260703
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+TRANSP:TRANSPARENT
+SUMMARY:First Friday Yoga
+LOCATION:Patrick Heath Public Library\, 451 N Main St\, Boerne\, TX
+DESCRIPTION:When: vie\, 6:00 – 7:00 p.m.\nLink: https://theboernelife.com/events/first-friday-yoga/2026-07-03/
+END:VEVENT
+BEGIN:VEVENT
+UID:64-MarkSearcyMusic@serpapi-events
 DTSTAMP:20260628
 DTSTART;VALUE=DATE:20260628
 DTEND;VALUE=DATE:20260629
 TRANSP:TRANSPARENT
 SUMMARY:Mark Searcy Music
 LOCATION:259 Brantley's Bistro\, 259 S Main St\, Boerne\, TX
-DESCRIPTION:When: Sun\, 1 – 5 PM\nLink: https://www.mysanantonio.com/entertainment/?_evDiscoveryPath=/event/108293296n-mark-searcy-music
+DESCRIPTION:When: dom\, 1:00 – 5:00 p.m.\nLink: https://www.mysanantonio.com/entertainment/?_evDiscoveryPath=/event/108293296n-mark-searcy-music
 END:VEVENT
 BEGIN:VEVENT
-UID:69-YOUTHSOFTBALLINFIELDERCAMPBoerneTX2026@serpapi-events
-DTSTAMP:20260629
-DTSTART;VALUE=DATE:20260629
-DTEND;VALUE=DATE:20260701
+UID:65-TheBestJazzBrunchinTexas@serpapi-events
+DTSTAMP:20261011
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
 TRANSP:TRANSPARENT
-SUMMARY:YOUTH SOFTBALL INFIELDER CAMP - Boerne\, TX 2026
-LOCATION:The Dugout\, 132 Old San Antonio Rd\, Boerne\, TX
-DESCRIPTION:When: Mon\, Jun 29 – Tue\, Jun 30\nLink: https://www.activekids.com/boerne-tx/baseball/baseball-camps/youth-softball-infielder-camp-2026
+SUMMARY:The Best Jazz Brunch in Texas
+LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
+DESCRIPTION:When: dom\, 11:00 a.m. – 3:00 p.m.\nLink: https://open.spotify.com/concert/3GI50WnRtS1FV6bD3avrVC
+END:VEVENT
+BEGIN:VEVENT
+UID:66-MIDDLESCHOOLTESTING2@serpapi-events
+DTSTAMP:20260730
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+TRANSP:TRANSPARENT
+SUMMARY:MIDDLE SCHOOL TESTING #2
+LOCATION:D1 Training Boerne\, 132 Old San Antonio Rd\, Boerne\, TX
+DESCRIPTION:When: jue\, 1:00 – 2:00 p.m.\nLink: https://herald-zeitung.com/community_calendar/?_evDiscoveryPath=/event/42954847a-middle-school-testing-2
+END:VEVENT
+BEGIN:VEVENT
+UID:67-NoahPeterson@serpapi-events
+DTSTAMP:20261018
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+TRANSP:TRANSPARENT
+SUMMARY:Noah Peterson
+LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
+DESCRIPTION:When: dom\, 11:00 a.m. – 3:00 p.m.\nLink: https://open.spotify.com/concert/6fy7fg02GcBnJcLUuZ2SDp
+END:VEVENT
+BEGIN:VEVENT
+UID:68-MemberOrientationPresentedbyAlignedMedicalBillingGroup@serpapi-events
+DTSTAMP:20260626
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+TRANSP:TRANSPARENT
+SUMMARY:Member Orientation - Presented by Aligned Medical Billing Group
+LOCATION:Greater Boerne Chamber of Commerce\, 121 S Main St\, Boerne\, TX
+DESCRIPTION:When: vie\, 11:30 a.m. – 1:00 p.m.\nLink: https://business.boerne.org/events/details/member-orientation-presented-by-aligned-medical-billing-group-32338
+END:VEVENT
+BEGIN:VEVENT
+UID:69-DeVinoLadiesNight@serpapi-events
+DTSTAMP:20260709
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+TRANSP:TRANSPARENT
+SUMMARY:DeVino Ladies Night
+LOCATION:DeVino Cellars\, 112 E San Antonio Ave\, Boerne\, TX
+DESCRIPTION:When: jue\, 4:00 – 9:00 p.m.\nLink: https://business.boerne.org/events/details/devino-ladies-night-07-09-2026-31092?calendarMonth=2026-07-01
 END:VEVENT
 BEGIN:VEVENT
 UID:70-YOUTHSOFTBALLINFIELDERCAMPBoerneTX2026@serpapi-events
@@ -722,17 +752,27 @@ LOCATION:Patrick Heath Public Library\, 451 N Main St\, Boerne\, TX
 DESCRIPTION:When: Mon\, 10:30 – 11:30 AM\nLink: https://theboernelife.com/events/dino-paws-at-patrick-heath-public-library/
 END:VEVENT
 BEGIN:VEVENT
-UID:75-MIDDLESCHOOLTESTING2@serpapi-events
-DTSTAMP:20260730
-DTSTART;VALUE=DATE:20260730
-DTEND;VALUE=DATE:20260731
+UID:75-KendallCountyFair@serpapi-events
+DTSTAMP:20260905
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260907
 TRANSP:TRANSPARENT
-SUMMARY:MIDDLE SCHOOL TESTING #2
-LOCATION:D1 Training Boerne\, 132 Old San Antonio Rd\, Boerne\, TX
-DESCRIPTION:When: Thu\, 1 – 2 PM\nLink: https://herald-zeitung.com/community_calendar/?_evDiscoveryPath=/event/42954847a-middle-school-testing-2
+SUMMARY:Kendall County Fair
+LOCATION:Kendall County Fair Association (Kendall County Fair Grounds)\, 1307 River Rd\, Boerne\, TX
+DESCRIPTION:When: Sat\, Sep 5 – Sun\, Sep 6\nLink: https://open.spotify.com/concert/4Q70x69eKZSs0URkVgqDif
 END:VEVENT
 BEGIN:VEVENT
-UID:76-AnnualBoerneBarktoberfest@serpapi-events
+UID:76-KaraokeatDrinkTexasBoerne@serpapi-events
+DTSTAMP:20261020
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+SUMMARY:Karaoke at Drink Texas Boerne
+LOCATION:Drink Texas Boerne\, 31138 I-10\, Boerne\, TX
+DESCRIPTION:When: Tue\, 7 – 11 PM\nLink: https://theboernelife.com/events/tag/night/week/2026-10-19/
+END:VEVENT
+BEGIN:VEVENT
+UID:77-AnnualBoerneBarktoberfest@serpapi-events
 DTSTAMP:20261017
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
@@ -742,7 +782,17 @@ LOCATION:Main Plaza\, Boerne\, TX
 DESCRIPTION:When: Saturday\nLink: https://www.bringfido.co.uk/event/47733
 END:VEVENT
 BEGIN:VEVENT
-UID:77-BarnyardStompers@serpapi-events
+UID:78-MIDDLESCHOOLTESTING2@serpapi-events
+DTSTAMP:20260730
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+TRANSP:TRANSPARENT
+SUMMARY:MIDDLE SCHOOL TESTING #2
+LOCATION:D1 Training Boerne\, 132 Old San Antonio Rd\, Boerne\, TX
+DESCRIPTION:When: Thu\, 2 – 3 PM\nLink: https://www.activekids.com/boerne-tx/cross-training/camps/high-school-testing-2-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:79-BarnyardStompers@serpapi-events
 DTSTAMP:20260717
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260719
@@ -752,17 +802,17 @@ LOCATION:Salvador DOBBS\, 512 River Rd\, Boerne\, TX
 DESCRIPTION:When: Fri\, Jul 17 – Sat\, Jul 18\nLink: https://www.mysanantonio.com/entertainment/?_evDiscoveryPath=/event/108477720n-barnyard-stompers
 END:VEVENT
 BEGIN:VEVENT
-UID:78-DeVinoLadiesNight@serpapi-events
-DTSTAMP:20260709
-DTSTART;VALUE=DATE:20260709
-DTEND;VALUE=DATE:20260710
+UID:80-BarnyardStompers@serpapi-events
+DTSTAMP:20260717
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260719
 TRANSP:TRANSPARENT
-SUMMARY:DeVino Ladies Night
-LOCATION:DeVino Cellars\, 112 E San Antonio Ave\, Boerne\, TX
-DESCRIPTION:When: Thu\, 4 – 9 PM\nLink: https://business.boerne.org/events/details/devino-ladies-night-07-09-2026-31092?calendarMonth=2026-07-01
+SUMMARY:Barnyard Stompers
+LOCATION:Salvador DOBBS\, 512 River Rd\, Boerne\, TX
+DESCRIPTION:When: Fri\, Jul 17 – Sat\, Jul 18\nLink: https://www.mysanantonio.com/entertainment/?_evDiscoveryPath=/event/108477720n-barnyard-stompers
 END:VEVENT
 BEGIN:VEVENT
-UID:79-DeVinoLadiesNight@serpapi-events
+UID:81-DeVinoLadiesNight@serpapi-events
 DTSTAMP:20260702
 DTSTART;VALUE=DATE:20260702
 DTEND;VALUE=DATE:20260703
@@ -772,7 +822,7 @@ LOCATION:DeVino Cellars\, 112 E San Antonio Ave\, Boerne\, TX
 DESCRIPTION:When: Thu\, 4 – 9 PM\nLink: https://business.boerne.org/events/details/devino-ladies-night-07-02-2026-31091
 END:VEVENT
 BEGIN:VEVENT
-UID:80-CoffeewithKyleepresentedbyTapatioSpringsHillCountryResort@serpapi-events
+UID:82-CoffeewithKyleepresentedbyTapatioSpringsHillCountryResort@serpapi-events
 DTSTAMP:20260715
 DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20260716
@@ -780,26 +830,6 @@ TRANSP:TRANSPARENT
 SUMMARY:Coffee with Kylee presented by Tapatio Springs Hill Country Resort
 LOCATION:Greater Boerne Chamber of Commerce\, 121 S Main St\, Boerne\, TX
 DESCRIPTION:When: Wed\, 9 – 10 AM\nLink: https://business.boerne.org/events/details/coffee-with-kylee-07-15-2026-32061
-END:VEVENT
-BEGIN:VEVENT
-UID:81-KyleGarrett@serpapi-events
-DTSTAMP:20260711
-DTSTART;VALUE=DATE:20260711
-DTEND;VALUE=DATE:20260712
-TRANSP:TRANSPARENT
-SUMMARY:Kyle Garrett
-LOCATION:Pinchy’s Lobster & Rawbar\, 250 River Rd\, Boerne\, TX
-DESCRIPTION:When: Sat\, 6 – 10 PM\nLink: https://open.spotify.com/concert/4IKWQaCvbtSpAFRF8RCcXV
-END:VEVENT
-BEGIN:VEVENT
-UID:82-MarkSearcyMusic@serpapi-events
-DTSTAMP:20260722
-DTSTART;VALUE=DATE:20260722
-DTEND;VALUE=DATE:20260723
-TRANSP:TRANSPARENT
-SUMMARY:Mark Searcy Music
-LOCATION:Cibolo Creek Brewing Co.\, 448 S Main St\, Boerne\, TX
-DESCRIPTION:When: Wed\, 6 – 10 PM\nLink: https://open.spotify.com/concert/6g801YpqZ8kJlEQlXJR6F2
 END:VEVENT
 BEGIN:VEVENT
 UID:83-TapatioSpringsxHillCountry2026SummerMahjongRetreat@serpapi-events
@@ -812,14 +842,14 @@ LOCATION:Tapatio Springs Hill Country Resort\, 1 Resort Way\, Boerne\, TX
 DESCRIPTION:When: Fri\, Jul 17 – Sun\, Jul 19\nLink: https://events.ticketleap.com/tickets/tapatio-springs-hill-country-resort/2026-Mahjong-Retreat
 END:VEVENT
 BEGIN:VEVENT
-UID:84-YOUTHBASEBALLHITTINGCAMPBoerneTX2026@serpapi-events
-DTSTAMP:20260803
-DTSTART;VALUE=DATE:20260803
-DTEND;VALUE=DATE:20260805
+UID:84-KyleGarrett@serpapi-events
+DTSTAMP:20260711
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
 TRANSP:TRANSPARENT
-SUMMARY:YOUTH BASEBALL HITTING CAMP - Boerne\, TX 2026
-LOCATION:The Dugout\, 132 Old San Antonio Rd\, Boerne\, TX
-DESCRIPTION:When: Mon\, Aug 3 – Tue\, Aug 4\nLink: https://www.activekids.com/boerne-tx/baseball/baseball-camps/youth-baseball-hitting-camp-2026
+SUMMARY:Kyle Garrett
+LOCATION:Pinchy’s Lobster & Rawbar\, 250 River Rd\, Boerne\, TX
+DESCRIPTION:When: Sat\, 6 – 10 PM\nLink: https://open.spotify.com/concert/4IKWQaCvbtSpAFRF8RCcXV
 END:VEVENT
 BEGIN:VEVENT
 UID:85-CiboloFarmersMarketatHerffFarm@serpapi-events
@@ -832,14 +862,14 @@ LOCATION:Herff Farm\, 33 Herff Rd\, Boerne\, TX
 DESCRIPTION:When: Sat\, 9 AM – 1 PM\nLink: https://business.boerne.org/events/details/cibolo-farmers-market-at-herff-farm-06-27-2026-29667?calendarMonth=2026-06-01
 END:VEVENT
 BEGIN:VEVENT
-UID:86-ChamberWednesdayLeadsGroup@serpapi-events
-DTSTAMP:20260708
-DTSTART;VALUE=DATE:20260708
-DTEND;VALUE=DATE:20260709
+UID:86-BoerneSouthMiddleSchoolXCInvitational@serpapi-events
+DTSTAMP:20260822
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
 TRANSP:TRANSPARENT
-SUMMARY:Chamber Wednesday Leads Group
-LOCATION:Greater Boerne Chamber of Commerce\, 121 S Main St\, Boerne\, TX
-DESCRIPTION:When: Wed\, 11 AM – 12 PM\nLink: https://business.boerne.org/events/details/chamber-wednesday-leads-group-07-08-2026-29307?calendarMonth=2026-07-01
+SUMMARY:Boerne South Middle School XC Invitational
+LOCATION:Boerne Middle School South\, 10 Cascade Cavern\, Boerne\, TX
+DESCRIPTION:When: Saturday\nLink: https://tx.milesplit.com/meets/758653-boerne-south-middle-school-xc-invitational-2026/coverage
 END:VEVENT
 BEGIN:VEVENT
 UID:87-MusicBingoatLostOakCellars@serpapi-events
@@ -852,127 +882,57 @@ LOCATION:Lost Oak Cellars\, 111 Rosewood Ave\, Boerne\, TX
 DESCRIPTION:When: Wed\, 6 – 8 PM\nLink: https://theboernelife.com/page/15/?post_type=tribe_events&eventDisplay=photo&tag=game-night&eventDate=2025-02-28
 END:VEVENT
 BEGIN:VEVENT
-UID:88-BillySnipes@serpapi-events
-DTSTAMP:20260710
-DTSTART;VALUE=DATE:20260710
-DTEND;VALUE=DATE:20260712
+UID:88-ChamberWednesdayLeadsGroup@serpapi-events
+DTSTAMP:20260708
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260709
 TRANSP:TRANSPARENT
-SUMMARY:Billy Snipes
-LOCATION:Salvador DOBBS\, 512 River Rd\, Boerne\, TX
-DESCRIPTION:When: Fri\, Jul 10 – Sat\, Jul 11\nLink: https://www.mysanantonio.com/entertainment/?_evDiscoveryPath=/event/108345250n-billy-snipes
+SUMMARY:Chamber Wednesday Leads Group
+LOCATION:Greater Boerne Chamber of Commerce\, 121 S Main St\, Boerne\, TX
+DESCRIPTION:When: Wed\, 11 AM – 12 PM\nLink: https://business.boerne.org/events/details/chamber-wednesday-leads-group-07-08-2026-29307?calendarMonth=2026-07-01
 END:VEVENT
 BEGIN:VEVENT
-UID:89-LacyBrinsonatTapatio@serpapi-events
-DTSTAMP:20260710
-DTSTART;VALUE=DATE:20260710
-DTEND;VALUE=DATE:20260711
-TRANSP:TRANSPARENT
-SUMMARY:Lacy Brinson at Tapatio
-LOCATION:Tapatio Springs Hill Country Resort\, 1 Resort Way\, Boerne\, TX
-DESCRIPTION:When: Fri\, 7 – 11 PM\nLink: https://www.mysanantonio.com/entertainment/?_evDiscoveryPath=/event/108428525n-lacy-brinson-at-tapatio
-END:VEVENT
-BEGIN:VEVENT
-UID:90-DeanSeltzersTexasTrioCocktailsCountryatSalvadorDobbs@serpapi-events
-DTSTAMP:20260814
-DTSTART;VALUE=DATE:20260814
-DTEND;VALUE=DATE:20260816
-TRANSP:TRANSPARENT
-SUMMARY:Dean Seltzer's Texas Trio - Cocktails & Country at Salvador Dobbs
-LOCATION:Salvador DOBBS\, 512 River Rd\, Boerne\, TX
-DESCRIPTION:When: Fri\, Aug 14 – Sat\, Aug 15\nLink: https://www.google.com/goto?url=CAES9wEB7keqTdhjtEpGi7_TYdw7zRvSROszR6k6ATkg5nSLReO6zEojBiFiAiYjVnqV1kyRDVo8krxsi0ca0JUF939jAt0aeR32XkYnieEKSwCpBKFsUJP8iTJKgJHrQAWRNeJPe2BXg_JjqMISisC_quFYWf0YH80hdADrtSHHYeryZdtVq8ZgpeJj-NODKD5IxDdOk9F8M7fODzDDR-HVuGlkUq90_SP1jNTMl-edXzdJRdqXQgFMfA7HGdFYi6RpxyPBBLVkJxWUQs8951woBAmxBk_wmTukZ8MSVCAO2LzH8XYJDP8Yp6oeGJkTn2rp1SJj9NHvENuv
-END:VEVENT
-BEGIN:VEVENT
-UID:91-RestorativeYogaatSanAntonioYogainBoerne@serpapi-events
-DTSTAMP:20260801
-DTSTART;VALUE=DATE:20260801
-DTEND;VALUE=DATE:20260802
-TRANSP:TRANSPARENT
-SUMMARY:Restorative Yoga at San Antonio Yoga in Boerne
-LOCATION:San Antonio Yoga in Boerne\, 101 Oak Ridge Dr\, Boerne\, TX
-DESCRIPTION:When: Sat\, 10 AM – 12 PM\nLink: https://www.google.com/goto?url=CAEShAEB7keqTZlXr3cS6MZE-j-TG4dko4JyThDOI2IjZ1RRr3dzRTAUJSaYD_ipsv4bw4JNNynLnrOuQzKETdx2s2xObRq8CliSgvevldKd0hR3_6cDM-i47ShxtwvNQXqk2ndYi1cSjVu9VGhUD2LiC0HweDxaE4bdkpYq4sbyGCio5xFP14A=
-END:VEVENT
-BEGIN:VEVENT
-UID:92-MoondanceOutdoorConcertGLEAUXBoerneLove@serpapi-events
+UID:89-MoondanceOutdoorConcertGLEAUXBoerneLove@serpapi-events
 DTSTAMP:20260829
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
 TRANSP:TRANSPARENT
 SUMMARY:Moondance Outdoor Concert – GLEAUX — Boerne Love
 LOCATION:Cibolo Center for Conservation\, 140 City Park Rd\, Boerne\, TX
-DESCRIPTION:When: Sat\, 7 – 9 PM\nLink: https://www.google.com/goto?url=CAESmgEB7keqTYCugnS38pekivhNmDM-8CubOa3pPLc8cNoNuMMis580893TirdUfjifjX-TQao8ppO7c6U5DgGSL7vGhSmabr3Gi4KpJsBRNV38uGu5-DnSasTz5Wp_QauRVGe-UXGFMykSZQnGxSv6dO7B4fOQW9-e2aIs2Gc06Y3oG8UBUpophvuJLv7NxSfyPe8L3jXVg8oNIXRv
+DESCRIPTION:When: Sat\, 7 – 9 PM\nLink: https://www.boernelove.org/new-events-1/moondance-outdoor-concert-cactus-country-rkbzc-jw55z-jn42l
 END:VEVENT
 BEGIN:VEVENT
-UID:93-HIGHSCHOOLTESTINGPostSummer@serpapi-events
-DTSTAMP:20260724
-DTSTART;VALUE=DATE:20260724
-DTEND;VALUE=DATE:20260725
-TRANSP:TRANSPARENT
-SUMMARY:HIGH SCHOOL TESTING (Post Summer)
-LOCATION:D1 Training Boerne\, 132 Old San Antonio Rd\, Boerne\, TX
-DESCRIPTION:When: Fri\, 11 AM – 12 PM\nLink: https://www.google.com/goto?url=CAESqQEB7keqTd3vEBxBLebu73fT-jqHIsnKX1EznJG3DcocygC_TlTToZ17liMIuyEC0hyNH5Um223JiI-exuO2_8AU0vs_VmJa7wQlBZmHfMTu4_FgcI7IEevydemZv09ghXxXoo2fe_h1BZO7MYtcKEB1w5laGZJ13Z5q7ULv0G7EvNG3TstXaGG5mBvcPxoBMfofT48BE-1AvJO1uvwH-uSKrH3uMbCGHafs
-END:VEVENT
-BEGIN:VEVENT
-UID:94-DeVinoLadiesNight@serpapi-events
-DTSTAMP:20260813
-DTSTART;VALUE=DATE:20260813
-DTEND;VALUE=DATE:20260814
-TRANSP:TRANSPARENT
-SUMMARY:DeVino Ladies Night
-LOCATION:DeVino Cellars\, 112 E San Antonio Ave\, Boerne\, TX
-DESCRIPTION:When: Thu\, 4 – 9 PM\nLink: https://www.google.com/goto?url=CAEShwEB7keqTS6EVnTWOO5Tp4u6yYnabPupDhoQ2DNbHlikkqxAofYznfHmvWBhP2Wei3eUL9-pP2bctshT3GympnYD7jofbr9z60S8y3aEe55lc4rcw_MGYf1jV3SuKylTIkQ9Joyqx-SwRCIb1MbyjU1co1wAeVx2b0hiwShALYQ3r2HWuD-VmBo=
-END:VEVENT
-BEGIN:VEVENT
-UID:95-BubbletimeBookworms@serpapi-events
-DTSTAMP:20260625
-DTSTART;VALUE=DATE:20260625
-DTEND;VALUE=DATE:20260626
-TRANSP:TRANSPARENT
-SUMMARY:Bubbletime Bookworms
-LOCATION:Patrick Heath Public Library\, 451 N Main St\, Boerne\, TX
-DESCRIPTION:When: Thu\, 10:00 – 10:30 AM\nLink: https://www.google.com/goto?url=CAESfQHuR6pNvGx51RUdGqUF8O8becemv9NfMfCj-vPRtMk9Zzi-L-PQBpDb8wcrsjo5TmZdoLTlypaUDidVlC4u3zx-rUPiBm4fHe63_bv44E-d2p_zwfdXABm7Yt8_xdGCyfrMGquYXL8B5cB2h4r2sZhRvTOHDHSHRnggf_xS
-END:VEVENT
-BEGIN:VEVENT
-UID:96-Americas250thCelebrationWeekend@serpapi-events
-DTSTAMP:20260702
-DTSTART;VALUE=DATE:20260702
-DTEND;VALUE=DATE:20260705
-TRANSP:TRANSPARENT
-SUMMARY:America’s 250th Celebration Weekend
-LOCATION:Tapatio Springs Hill Country Resort\, 1 Resort Way\, Boerne\, TX
-DESCRIPTION:When: Thu\, Jul 2 – Sat\, Jul 4\nLink: https://www.google.com/goto?url=CAESgQEB7keqTQRTgqEvvvELsv9dzZvfN4GhbEwCvZgd1L2VjcVepobc166thOstAS87kdFLYl8ePx55BteT2CnREZqWKS-dSYFD6e3EBsWdF0uA2mBiPvRCitt0aVxcOsoLn9QsGHUJTWbE_1v5DXtjmzHwiR91gVHuM11nmD6JbCTOcek=
-END:VEVENT
-BEGIN:VEVENT
-UID:97-CiboloFarmersMarketatHerffFarm@serpapi-events
+UID:90-CiboloFarmersMarketatHerffFarm@serpapi-events
 DTSTAMP:20260704
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260705
 TRANSP:TRANSPARENT
 SUMMARY:Cibolo Farmers Market at Herff Farm
 LOCATION:Herff Farm\, 33 Herff Rd\, Boerne\, TX
-DESCRIPTION:When: Sat\, 9 AM – 1 PM\nLink: https://www.google.com/goto?url=CAESsAEB7keqTZ7KmVYgb7PJls3byhfLJp6dfO87iTUV1Q5HmFPwTspmgEujcSbJk96Fu7AL5_yDGFN43vZd-q_i_wfVyb-vmOwZl5kE4BhNxOhxjp5mvzib9lScDkXtbWQsrRD0XcIzcjidFhNCoX8yXGRuHcI8ecTD97l2vmLUxD7Bg7e7VSDCCVMqWeanSVMKaWZWoblGrKHmXH_zCuPVsW5cdlLL6nSuCXEPH9bgTCSF1A==
+DESCRIPTION:When: Sat\, 9 AM – 1 PM\nLink: https://business.boerne.org/events/details/cibolo-farmers-market-at-herff-farm-07-04-2026-29668?calendarMonth=2026-07-01
 END:VEVENT
 BEGIN:VEVENT
-UID:98-ChamberWednesdayLeadsGroup@serpapi-events
-DTSTAMP:20260812
-DTSTART;VALUE=DATE:20260812
-DTEND;VALUE=DATE:20260813
-TRANSP:TRANSPARENT
-SUMMARY:Chamber Wednesday Leads Group
-LOCATION:Greater Boerne Chamber of Commerce\, 121 S Main St\, Boerne\, TX
-DESCRIPTION:When: Wed\, 11 AM – 12 PM\nLink: https://www.google.com/goto?url=CAESqgEB7keqTWDGoCYpg--CfUKaOMc85e7Mh2gFEE-R-IusiVmMHK7TptpV4N_fE2KqrUZ2hGTIIr1oRzWnihM3N2MCayQFe4-sXoElEnwnNee3Qk4bEftp-9Mg2-2XzJs9KvLJiAiy1atpKosobQCU7meX4U1NfymS3YnPxZc_N0b8W7GkSQnYu_zAKdmzMdjNiF--wjCrGkewlLDuI6CwpArGii7wxA_XsYqUBQ==
-END:VEVENT
-BEGIN:VEVENT
-UID:99-ScottyAlexander@serpapi-events
+UID:91-ScottyAlexander@serpapi-events
 DTSTAMP:20260729
 DTSTART;VALUE=DATE:20260729
 DTEND;VALUE=DATE:20260730
 TRANSP:TRANSPARENT
 SUMMARY:Scotty Alexander
 LOCATION:Free Roam Brewing Company\, 325 S Main St\, Boerne\, TX
-DESCRIPTION:When: Wed\, 7:30 – 11:30 PM\nLink: https://www.google.com/goto?url=CAESlwEB7keqTbpTdSxd3RgPxkM8WRHXKSPnfBrNe5n0-Sq53a8szf85a7rSFvx1eSYN3n6hL_MF29fzzIk7bBfGqnYhZegbEKo138oZ0S3b6SdizdfR4-VkayOetLksBuVOGK5gNZyyvG5jI8MaVSNgAUGEg7QeZjKSGGD3qJcUbajG9cxhOwEfSU-2bTwrRfg_FuhpkPioCLVW
+DESCRIPTION:When: Wed\, 7:30 – 11:30 PM\nLink: https://www.mysanantonio.com/entertainment/?_evDiscoveryPath=/event/108352355n-scotty-alexander
 END:VEVENT
 BEGIN:VEVENT
-UID:100-ChamberWednesdayLeadsGroup@serpapi-events
+UID:92-ChamberWednesdayLeadsGroup@serpapi-events
+DTSTAMP:20260812
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+TRANSP:TRANSPARENT
+SUMMARY:Chamber Wednesday Leads Group
+LOCATION:Greater Boerne Chamber of Commerce\, 121 S Main St\, Boerne\, TX
+DESCRIPTION:When: Wed\, 11 AM – 12 PM\nLink: https://business.boerne.org/events/details/chamber-wednesday-leads-group-08-12-2026-29308?calendarMonth=2026-08-01
+END:VEVENT
+BEGIN:VEVENT
+UID:93-ChamberWednesdayLeadsGroup@serpapi-events
 DTSTAMP:20260722
 DTSTART;VALUE=DATE:20260722
 DTEND;VALUE=DATE:20260723
@@ -982,7 +942,7 @@ LOCATION:Greater Boerne Chamber of Commerce\, 121 S Main St\, Boerne\, TX
 DESCRIPTION:When: Wed\, 11 AM – 12 PM\nLink: https://business.boerne.org/events/details/chamber-wednesday-leads-group-07-22-2026-29328
 END:VEVENT
 BEGIN:VEVENT
-UID:101-BlackRifleBlockParty@serpapi-events
+UID:94-BlackRifleBlockParty@serpapi-events
 DTSTAMP:20260704
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260705
@@ -992,7 +952,7 @@ LOCATION:Black Rifle Coffee\, 101 S Main St Ste a\, Boerne\, TX
 DESCRIPTION:When: Sat\, 5 – 9 PM\nLink: https://theboernelife.com/events/black-rifle-block-party-2/
 END:VEVENT
 BEGIN:VEVENT
-UID:102-NoahPetersonSoloSaxSessions@serpapi-events
+UID:95-NoahPetersonSoloSaxSessions@serpapi-events
 DTSTAMP:20260626
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
@@ -1002,7 +962,7 @@ LOCATION:Lost Oak Cellars\, 111 Rosewood Ave\, Boerne\, TX
 DESCRIPTION:When: Fri\, 7 – 11 PM\nLink: https://www.mysanantonio.com/entertainment/?_evDiscoveryPath=/event/108469320n-noah-peterson-solo-sax-sessions
 END:VEVENT
 BEGIN:VEVENT
-UID:103-BrittBallengerBand@serpapi-events
+UID:96-BrittBallengerBand@serpapi-events
 DTSTAMP:20260905
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
@@ -1012,7 +972,7 @@ LOCATION:Kendall County Fair Association (Kendall County Fair Grounds)\, 1307 Ri
 DESCRIPTION:When: Sat\, 1 – 5 PM\nLink: https://open.spotify.com/concert/3L2Z5Rt443Zsr7TmmEDQNU
 END:VEVENT
 BEGIN:VEVENT
-UID:104-CalebYoung@serpapi-events
+UID:97-CalebYoung@serpapi-events
 DTSTAMP:20260826
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
@@ -1022,27 +982,17 @@ LOCATION:Free Roam Brewing Company\, 325 S Main St\, Boerne\, TX
 DESCRIPTION:When: Wed\, 7:30 – 11:30 PM\nLink: https://open.spotify.com/concert/3ZadChK2jf2ITUHB9h5xNj
 END:VEVENT
 BEGIN:VEVENT
-UID:105-NoahPeterson@serpapi-events
-DTSTAMP:20261227
-DTSTART;VALUE=DATE:20261227
-DTEND;VALUE=DATE:20261228
+UID:98-ChamberThursdayLeadsGroup@serpapi-events
+DTSTAMP:20260625
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
 TRANSP:TRANSPARENT
-SUMMARY:Noah Peterson
-LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
-DESCRIPTION:When: Sun\, 11 AM – 3 PM\nLink: https://open.spotify.com/concert/2hTGEqE9MNCD6ATYLOXzr6
+SUMMARY:Chamber Thursday Leads Group
+LOCATION:Greater Boerne Chamber of Commerce\, 121 S Main St\, Boerne\, TX
+DESCRIPTION:When: Thu\, 9 – 10 AM\nLink: https://business.boerne.org/events/details/chamber-thursday-leads-group-06-25-2026-29369?calendarMonth=2026-06-01
 END:VEVENT
 BEGIN:VEVENT
-UID:106-NoahPeterson@serpapi-events
-DTSTAMP:20261220
-DTSTART;VALUE=DATE:20261220
-DTEND;VALUE=DATE:20261221
-TRANSP:TRANSPARENT
-SUMMARY:Noah Peterson
-LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
-DESCRIPTION:When: Sun\, 11 AM – 3 PM\nLink: https://open.spotify.com/concert/3FOwHyNQOsjoDyrPqEaV62
-END:VEVENT
-BEGIN:VEVENT
-UID:107-BubbletimeBookworms@serpapi-events
+UID:99-BubbletimeBookworms@serpapi-events
 DTSTAMP:20260730
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260731
@@ -1050,6 +1000,86 @@ TRANSP:TRANSPARENT
 SUMMARY:Bubbletime Bookworms
 LOCATION:Patrick Heath Public Library\, 451 N Main St\, Boerne\, TX
 DESCRIPTION:When: Thu\, 10:00 – 10:30 AM\nLink: https://theboernelife.com/events/bubbletime-bookworms-2-2/2026-07-30/
+END:VEVENT
+BEGIN:VEVENT
+UID:100-MoondanceOutdoorConcertGLEAUXBoerneLove@serpapi-events
+DTSTAMP:20260829
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+TRANSP:TRANSPARENT
+SUMMARY:Moondance Outdoor Concert – GLEAUX — Boerne Love
+LOCATION:Cibolo Center for Conservation\, 140 City Park Rd\, Boerne\, TX
+DESCRIPTION:When: Sat\, 7 – 9 PM\nLink: https://www.boernelove.org/new-events-1/moondance-outdoor-concert-cactus-country-rkbzc-jw55z-jn42l
+END:VEVENT
+BEGIN:VEVENT
+UID:101-HIGHSCHOOLTESTINGPostSummer@serpapi-events
+DTSTAMP:20260724
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+TRANSP:TRANSPARENT
+SUMMARY:HIGH SCHOOL TESTING (Post Summer)
+LOCATION:D1 Training Boerne\, 132 Old San Antonio Rd\, Boerne\, TX
+DESCRIPTION:When: Fri\, 11 AM – 12 PM\nLink: https://herald-zeitung.com/community_calendar/?_evDiscoveryPath=/event/42839889a-high-school-testing-post-summer-
+END:VEVENT
+BEGIN:VEVENT
+UID:102-BlackRifleBlockParty@serpapi-events
+DTSTAMP:20260704
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+TRANSP:TRANSPARENT
+SUMMARY:Black Rifle Block Party
+LOCATION:Black Rifle Coffee\, 101 S Main St Ste a\, Boerne\, TX
+DESCRIPTION:When: Sat\, 5 – 9 PM\nLink: https://theboernelife.com/events/black-rifle-block-party-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:103-NoahPetersonSoloSaxSessions@serpapi-events
+DTSTAMP:20260626
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+TRANSP:TRANSPARENT
+SUMMARY:Noah Peterson Solo Sax Sessions
+LOCATION:Lost Oak Cellars\, 111 Rosewood Ave\, Boerne\, TX
+DESCRIPTION:When: Fri\, 7 – 11 PM\nLink: https://www.mysanantonio.com/entertainment/?_evDiscoveryPath=/event/108469320n-noah-peterson-solo-sax-sessions
+END:VEVENT
+BEGIN:VEVENT
+UID:104-BubbletimeBookworms@serpapi-events
+DTSTAMP:20260730
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+TRANSP:TRANSPARENT
+SUMMARY:Bubbletime Bookworms
+LOCATION:Patrick Heath Public Library\, 451 N Main St\, Boerne\, TX
+DESCRIPTION:When: Thu\, 10:00 – 10:30 AM\nLink: https://theboernelife.com/events/bubbletime-bookworms-2-2/2026-07-30/
+END:VEVENT
+BEGIN:VEVENT
+UID:105-BrittBallengerBand@serpapi-events
+DTSTAMP:20260905
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+TRANSP:TRANSPARENT
+SUMMARY:Britt Ballenger Band
+LOCATION:Kendall County Fair Association (Kendall County Fair Grounds)\, 1307 River Rd\, Boerne\, TX
+DESCRIPTION:When: Sat\, 1 – 5 PM\nLink: https://open.spotify.com/concert/3L2Z5Rt443Zsr7TmmEDQNU
+END:VEVENT
+BEGIN:VEVENT
+UID:106-CalebYoung@serpapi-events
+DTSTAMP:20260826
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+TRANSP:TRANSPARENT
+SUMMARY:Caleb Young
+LOCATION:Free Roam Brewing Company\, 325 S Main St\, Boerne\, TX
+DESCRIPTION:When: Wed\, 7:30 – 11:30 PM\nLink: https://open.spotify.com/concert/3ZadChK2jf2ITUHB9h5xNj
+END:VEVENT
+BEGIN:VEVENT
+UID:107-NoahPeterson@serpapi-events
+DTSTAMP:20261227
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+TRANSP:TRANSPARENT
+SUMMARY:Noah Peterson
+LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
+DESCRIPTION:When: Sun\, 11 AM – 3 PM\nLink: https://open.spotify.com/concert/2hTGEqE9MNCD6ATYLOXzr6
 END:VEVENT
 BEGIN:VEVENT
 UID:108-ChamberThursdayLeadsGroup@serpapi-events
@@ -1062,14 +1092,14 @@ LOCATION:Greater Boerne Chamber of Commerce\, 121 S Main St\, Boerne\, TX
 DESCRIPTION:When: Thu\, 9 – 10 AM\nLink: https://business.boerne.org/events/details/chamber-thursday-leads-group-06-25-2026-29369?calendarMonth=2026-06-01
 END:VEVENT
 BEGIN:VEVENT
-UID:109-DavidAdamByrnes@serpapi-events
-DTSTAMP:20260722
-DTSTART;VALUE=DATE:20260722
-DTEND;VALUE=DATE:20260723
+UID:109-NoahPeterson@serpapi-events
+DTSTAMP:20261220
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
 TRANSP:TRANSPARENT
-SUMMARY:David Adam Byrnes
-LOCATION:Free Roam Brewing Company\, 325 S Main St\, Boerne\, TX
-DESCRIPTION:When: Wed\, 7:30 – 11:30 PM\nLink: https://open.spotify.com/concert/0Ho1NExLdBJSgki4wX4td1
+SUMMARY:Noah Peterson
+LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
+DESCRIPTION:When: Sun\, 11 AM – 3 PM\nLink: https://open.spotify.com/concert/3FOwHyNQOsjoDyrPqEaV62
 END:VEVENT
 BEGIN:VEVENT
 UID:110-Paws4Reading@serpapi-events
@@ -1082,7 +1112,37 @@ LOCATION:Boerne Public Library\, 451 N Main St\, Boerne\, TX
 DESCRIPTION:When: Tue\, 3:30 – 4:00 PM\nLink: https://theboernelife.com/events/paws-4-reading-2-2-2/2026-06-23/
 END:VEVENT
 BEGIN:VEVENT
-UID:111-SalvadorDobbsSolo@serpapi-events
+UID:111-DavidAdamByrnes@serpapi-events
+DTSTAMP:20260722
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+TRANSP:TRANSPARENT
+SUMMARY:David Adam Byrnes
+LOCATION:Free Roam Brewing Company\, 325 S Main St\, Boerne\, TX
+DESCRIPTION:When: Wed\, 7:30 – 11:30 PM\nLink: https://open.spotify.com/concert/0Ho1NExLdBJSgki4wX4td1
+END:VEVENT
+BEGIN:VEVENT
+UID:112-BubbletimeBookworms@serpapi-events
+DTSTAMP:20261126
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+TRANSP:TRANSPARENT
+SUMMARY:Bubbletime Bookworms
+LOCATION:Boerne Public Library\, 451 N Main St\, Boerne\, TX
+DESCRIPTION:When: Thu\, 10:00 – 10:30 AM\nLink: https://theboernelife.com/events/bubbletime-bookworms-2/2026-11-26/
+END:VEVENT
+BEGIN:VEVENT
+UID:113-CiboloFarmersMarketatHerffFarm@serpapi-events
+DTSTAMP:20260718
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+TRANSP:TRANSPARENT
+SUMMARY:Cibolo Farmers Market at Herff Farm
+LOCATION:Herff Farm\, 33 Herff Rd\, Boerne\, TX
+DESCRIPTION:When: Sat\, 9 AM – 1 PM\nLink: https://business.boerne.org/events/details/cibolo-farmers-market-at-herff-farm-07-18-2026-29670?calendarMonth=2026-07-01
+END:VEVENT
+BEGIN:VEVENT
+UID:114-SalvadorDobbsSolo@serpapi-events
 DTSTAMP:20260815
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260817
@@ -1092,7 +1152,17 @@ LOCATION:Salvador DOBBS\, 512 River Rd\, Boerne\, TX
 DESCRIPTION:When: Sat\, Aug 15 – Sun\, Aug 16\nLink: https://herald-zeitung.com/community_calendar/?_evDiscoveryPath=/event/108404072n-erica-daniels-music-salvador-dobbs-solo
 END:VEVENT
 BEGIN:VEVENT
-UID:112-FreeRoamSummerSeries@serpapi-events
+UID:115-CiboloFarmersMarketatHerffFarm@serpapi-events
+DTSTAMP:20260801
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+TRANSP:TRANSPARENT
+SUMMARY:Cibolo Farmers Market at Herff Farm
+LOCATION:Herff Farm\, 33 Herff Rd\, Boerne\, TX
+DESCRIPTION:When: Sat\, 9 AM – 1 PM\nLink: https://business.boerne.org/events/details/cibolo-farmers-market-at-herff-farm-08-01-2026-29672?calendarMonth=2026-08-01
+END:VEVENT
+BEGIN:VEVENT
+UID:116-FreeRoamSummerSeries@serpapi-events
 DTSTAMP:20260812
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
@@ -1102,17 +1172,7 @@ LOCATION:Free Roam Brewing Company\, 325 S Main St\, Boerne\, TX
 DESCRIPTION:When: Wed\, 7 PM\nLink: https://jesseelee.com/event/6477524/754737907/free-roam-summer-series
 END:VEVENT
 BEGIN:VEVENT
-UID:113-BubbletimeBookworms@serpapi-events
-DTSTAMP:20260813
-DTSTART;VALUE=DATE:20260813
-DTEND;VALUE=DATE:20260814
-TRANSP:TRANSPARENT
-SUMMARY:Bubbletime Bookworms
-LOCATION:Boerne Public Library\, 451 N Main St\, Boerne\, TX
-DESCRIPTION:When: Thu\, 10:00 – 10:30 AM\nLink: https://theboernelife.com/events/bubbletime-bookworms-2/2026-08-13/
-END:VEVENT
-BEGIN:VEVENT
-UID:114-CiboloFarmersMarketatHerffFarm@serpapi-events
+UID:117-CiboloFarmersMarketatHerffFarm@serpapi-events
 DTSTAMP:20260725
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260726
@@ -1122,7 +1182,17 @@ LOCATION:Herff Farm\, 33 Herff Rd\, Boerne\, TX
 DESCRIPTION:When: Sat\, 9 AM – 1 PM\nLink: https://business.boerne.org/events/details/cibolo-farmers-market-at-herff-farm-07-25-2026-29671?calendarMonth=2026-07-01
 END:VEVENT
 BEGIN:VEVENT
-UID:115-HillCountrySpruceCuttersGatheringatTheModelBox@serpapi-events
+UID:118-BubbletimeBookworms@serpapi-events
+DTSTAMP:20260813
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+TRANSP:TRANSPARENT
+SUMMARY:Bubbletime Bookworms
+LOCATION:Boerne Public Library\, 451 N Main St\, Boerne\, TX
+DESCRIPTION:When: Thu\, 10:00 – 10:30 AM\nLink: https://theboernelife.com/events/bubbletime-bookworms-2/2026-08-13/
+END:VEVENT
+BEGIN:VEVENT
+UID:119-HillCountrySpruceCuttersGatheringatTheModelBox@serpapi-events
 DTSTAMP:20261015
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
@@ -1132,17 +1202,17 @@ LOCATION:The Model Box\, 1022 N Main St\, Boerne\, TX
 DESCRIPTION:When: Thu\, 5 – 7 PM\nLink: https://theboernelife.com/events/category/arts-and-culture/week/2026-10-12/
 END:VEVENT
 BEGIN:VEVENT
-UID:116-YOUTHFOOTBALLSUMMERCAMP2@serpapi-events
-DTSTAMP:20260720
-DTSTART;VALUE=DATE:20260720
-DTEND;VALUE=DATE:20260722
+UID:120-HillCountrySpruceCuttersGatheringatTheModelBox@serpapi-events
+DTSTAMP:20261015
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
 TRANSP:TRANSPARENT
-SUMMARY:YOUTH FOOTBALL SUMMER CAMP #2
-LOCATION:D1 Training Boerne\, 132 Old San Antonio Rd\, Boerne\, TX
-DESCRIPTION:When: Mon\, Jul 20 – Tue\, Jul 21\nLink: https://herald-zeitung.com/community_calendar/?_evDiscoveryPath=/event/42839886a-youth-football-summer-camp-2
+SUMMARY:Hill Country SpruceCutters Gathering at The Model Box
+LOCATION:The Model Box\, 1022 N Main St\, Boerne\, TX
+DESCRIPTION:When: Thu\, 5 – 7 PM\nLink: https://theboernelife.com/events/category/arts-and-culture/week/2026-10-12/
 END:VEVENT
 BEGIN:VEVENT
-UID:117-CiboloFarmersMarketatHerffFarm@serpapi-events
+UID:121-CiboloFarmersMarketatHerffFarm@serpapi-events
 DTSTAMP:20260822
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
@@ -1152,7 +1222,27 @@ LOCATION:Herff Farm\, 33 Herff Rd\, Boerne\, TX
 DESCRIPTION:When: Sat\, 9 AM – 1 PM\nLink: https://business.boerne.org/events/details/cibolo-farmers-market-at-herff-farm-08-22-2026-29675?calendarMonth=2026-08-01
 END:VEVENT
 BEGIN:VEVENT
-UID:118-CiboloFarmersMarketatHerffFarm@serpapi-events
+UID:122-YOUTHFOOTBALLSUMMERCAMP2@serpapi-events
+DTSTAMP:20260720
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260722
+TRANSP:TRANSPARENT
+SUMMARY:YOUTH FOOTBALL SUMMER CAMP #2
+LOCATION:D1 Training Boerne\, 132 Old San Antonio Rd\, Boerne\, TX
+DESCRIPTION:When: Mon\, Jul 20 – Tue\, Jul 21\nLink: https://herald-zeitung.com/community_calendar/?_evDiscoveryPath=/event/42839886a-youth-football-summer-camp-2
+END:VEVENT
+BEGIN:VEVENT
+UID:123-StevenMcClintock@serpapi-events
+DTSTAMP:20260819
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+TRANSP:TRANSPARENT
+SUMMARY:Steven McClintock
+LOCATION:Free Roam Brewing Company\, 325 S Main St\, Boerne\, TX
+DESCRIPTION:When: Wed\, 7:30 – 11:30 PM\nLink: https://open.spotify.com/concert/7D0PL2ZMMMQ3LaAY4qGRlw
+END:VEVENT
+BEGIN:VEVENT
+UID:124-CiboloFarmersMarketatHerffFarm@serpapi-events
 DTSTAMP:20260808
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260809
@@ -1162,7 +1252,17 @@ LOCATION:Herff Farm\, 33 Herff Rd\, Boerne\, TX
 DESCRIPTION:When: Sat\, 9 AM – 1 PM\nLink: https://business.boerne.org/events/details/cibolo-farmers-market-at-herff-farm-08-08-2026-29673
 END:VEVENT
 BEGIN:VEVENT
-UID:119-OFFENSIVELINEMANDEFENSIVELINEMANCAMP@serpapi-events
+UID:125-FirstFridayYoga@serpapi-events
+DTSTAMP:20261106
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+TRANSP:TRANSPARENT
+SUMMARY:First Friday Yoga
+LOCATION:Patrick Heath Public Library\, 451 N Main St\, Boerne\, TX
+DESCRIPTION:When: Fri\, 6 – 7 PM\nLink: https://theboernelife.com/events/first-friday-yoga/2026-11-06/
+END:VEVENT
+BEGIN:VEVENT
+UID:126-OFFENSIVELINEMANDEFENSIVELINEMANCAMP@serpapi-events
 DTSTAMP:20260629
 DTSTART;VALUE=DATE:20260629
 DTEND;VALUE=DATE:20260701
@@ -1170,5 +1270,735 @@ TRANSP:TRANSPARENT
 SUMMARY:OFFENSIVE LINEMAN / DEFENSIVE LINEMAN CAMP
 LOCATION:D1 Training Boerne\, 132 Old San Antonio Rd\, Boerne\, TX
 DESCRIPTION:When: Mon\, Jun 29 – Tue\, Jun 30\nLink: https://herald-zeitung.com/community_calendar/?_evDiscoveryPath=/event/42839885a-offensive-lineman-defensive-lineman-camp
+END:VEVENT
+BEGIN:VEVENT
+UID:127-TaiChiwithQigong@serpapi-events
+DTSTAMP:20260703
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+TRANSP:TRANSPARENT
+SUMMARY:Tai Chi with Qi gong
+LOCATION:Patrick Heath Public Library\, 451 N Main St\, Boerne\, TX
+DESCRIPTION:When: Fri\, 11:30 AM – 12:30 PM\nLink: https://theboernelife.com/events/tai-chi-qi-gong-2/2026-07-03/
+END:VEVENT
+BEGIN:VEVENT
+UID:128-CiboloFarmersMarketatHerffFarm@serpapi-events
+DTSTAMP:20261107
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+TRANSP:TRANSPARENT
+SUMMARY:Cibolo Farmers Market at Herff Farm
+LOCATION:Herff Farm\, 33 Herff Rd\, Boerne\, TX
+DESCRIPTION:When: Sat\, 9 AM – 1 PM\nLink: https://business.boerne.org/events/details/cibolo-farmers-market-at-herff-farm-11-07-2026-29686
+END:VEVENT
+BEGIN:VEVENT
+UID:129-CiboloFarmersMarketatHerffFarm@serpapi-events
+DTSTAMP:20260912
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+TRANSP:TRANSPARENT
+SUMMARY:Cibolo Farmers Market at Herff Farm
+LOCATION:Herff Farm\, 33 Herff Rd\, Boerne\, TX
+DESCRIPTION:When: Sat\, 9 AM – 1 PM\nLink: https://business.boerne.org/events/details/cibolo-farmers-market-at-herff-farm-09-12-2026-29678?calendarMonth=2026-09-01
+END:VEVENT
+BEGIN:VEVENT
+UID:130-CiboloFarmersMarketatHerffFarm@serpapi-events
+DTSTAMP:20260801
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+TRANSP:TRANSPARENT
+SUMMARY:Cibolo Farmers Market at Herff Farm
+LOCATION:Herff Farm\, 33 Herff Rd\, Boerne\, TX
+DESCRIPTION:When: Sat\, 9:00 a.m.–1:00 p.m.\nLink: https://business.boerne.org/events/details/cibolo-farmers-market-at-herff-farm-08-01-2026-29672?calendarMonth=2026-08-01
+END:VEVENT
+BEGIN:VEVENT
+UID:131-BubbletimeBookworms@serpapi-events
+DTSTAMP:20260724
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+TRANSP:TRANSPARENT
+SUMMARY:Bubbletime Bookworms
+LOCATION:Patrick Heath Public Library\, 451 N Main St\, Boerne\, TX
+DESCRIPTION:When: Fri\, 10:00–10:30 a.m.\nLink: https://theboernelife.com/events/bubbletime-bookworms-2-2/2026-07-24/
+END:VEVENT
+BEGIN:VEVENT
+UID:132-BubbletimeBookworms@serpapi-events
+DTSTAMP:20260806
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260807
+TRANSP:TRANSPARENT
+SUMMARY:Bubbletime Bookworms
+LOCATION:Patrick Heath Public Library\, 451 N Main St\, Boerne\, TX
+DESCRIPTION:When: Thu\, 10:00–10:30 a.m.\nLink: https://theboernelife.com/events/bubbletime-bookworms-2-2/2026-08-06/
+END:VEVENT
+BEGIN:VEVENT
+UID:133-CiboloFarmersMarketatHerffFarm@serpapi-events
+DTSTAMP:20260725
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+TRANSP:TRANSPARENT
+SUMMARY:Cibolo Farmers Market at Herff Farm
+LOCATION:Herff Farm\, 33 Herff Rd\, Boerne\, TX
+DESCRIPTION:When: Sat\, 9:00 a.m.–1:00 p.m.\nLink: https://business.boerne.org/events/details/cibolo-farmers-market-at-herff-farm-07-25-2026-29671?calendarMonth=2026-07-01
+END:VEVENT
+BEGIN:VEVENT
+UID:134-Americas250thCelebrationWeekend@serpapi-events
+DTSTAMP:20260702
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260705
+TRANSP:TRANSPARENT
+SUMMARY:America’s 250th Celebration Weekend
+LOCATION:Tapatio Springs Hill Country Resort\, 1 Resort Way\, Boerne\, TX
+DESCRIPTION:When: Thu\, Jul 2–Sat\, Jul 4\nLink: https://www.texasamerica250.com/event/americas-250th-celebration-weekend/
+END:VEVENT
+BEGIN:VEVENT
+UID:135-ArtAfterHoursGelPlatePrintingatHillCountryCouncilfortheArts@serpapi-events
+DTSTAMP:20260624
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+TRANSP:TRANSPARENT
+SUMMARY:Art AfterHours – Gel Plate Printing at Hill Country Council for the Arts
+LOCATION:Hill Country Council for the Arts\, 102 City Park Rd\, Boerne\, TX
+DESCRIPTION:When: Wed\, 8:00–10:00 a.m.\nLink: https://theboernelife.com/events/2026-06-24/
+END:VEVENT
+BEGIN:VEVENT
+UID:136-CCAHeartoftheHills26@serpapi-events
+DTSTAMP:20260924
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+TRANSP:TRANSPARENT
+SUMMARY:CCA Heart of the Hills 26'
+LOCATION:The Cana Ballroom\, 202 W Kronkosky St\, Boerne\, TX
+DESCRIPTION:When: Thu\, 6:00 p.m.\nLink: https://ticketstripe.com/HOTHCCA26
+END:VEVENT
+BEGIN:VEVENT
+UID:137-BubbletimeBookworms@serpapi-events
+DTSTAMP:20260821
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+TRANSP:TRANSPARENT
+SUMMARY:Bubbletime Bookworms
+LOCATION:Patrick Heath Public Library\, 451 N Main St\, Boerne\, TX
+DESCRIPTION:When: Fri\, 10:00–10:30 a.m.\nLink: https://theboernelife.com/events/bubbletime-bookworms-2-2/2026-08-21/
+END:VEVENT
+BEGIN:VEVENT
+UID:138-BoerneNorthMiddleSchoolXCInvitational@serpapi-events
+DTSTAMP:20260829
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+TRANSP:TRANSPARENT
+SUMMARY:Boerne North Middle School XC Invitational
+LOCATION:Capt. Mark Tyler Voss Middle School\, 45 Voss Parkway\, Boerne\, TX
+DESCRIPTION:When: Saturday\nLink: https://tx.milesplit.com/meets/758656-boerne-north-middle-school-xc-invitational-2026/coverage
+END:VEVENT
+BEGIN:VEVENT
+UID:139-CiboloFarmersMarketatHerffFarm@serpapi-events
+DTSTAMP:20260822
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+TRANSP:TRANSPARENT
+SUMMARY:Cibolo Farmers Market at Herff Farm
+LOCATION:Herff Farm\, 33 Herff Rd\, Boerne\, TX
+DESCRIPTION:When: Sat\, 9:00 a.m.–1:00 p.m.\nLink: https://business.boerne.org/events/details/cibolo-farmers-market-at-herff-farm-08-22-2026-29675?calendarMonth=2026-08-01
+END:VEVENT
+BEGIN:VEVENT
+UID:140-CCAHeartoftheHills26@serpapi-events
+DTSTAMP:20260924
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+TRANSP:TRANSPARENT
+SUMMARY:CCA Heart of the Hills 26'
+LOCATION:The Cana Ballroom\, 202 W Kronkosky St\, Boerne\, TX
+DESCRIPTION:When: Thu\, 6 PM\nLink: https://ticketstripe.com/HOTHCCA26
+END:VEVENT
+BEGIN:VEVENT
+UID:141-MarkSearcyMusic@serpapi-events
+DTSTAMP:20260809
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+TRANSP:TRANSPARENT
+SUMMARY:Mark Searcy Music
+LOCATION:Cibolo Creek Brewing Co.\, 448 S Main St\, Boerne\, TX
+DESCRIPTION:When: Sun\, 12 – 4 PM\nLink: https://open.spotify.com/concert/3TFAEl3dU0vOKvC93viQIG
+END:VEVENT
+BEGIN:VEVENT
+UID:142-DeVinoLadiesNight@serpapi-events
+DTSTAMP:20260827
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+TRANSP:TRANSPARENT
+SUMMARY:DeVino Ladies Night
+LOCATION:DeVino Cellars\, 112 E San Antonio Ave\, Boerne\, TX
+DESCRIPTION:When: Thu\, 4 – 9 PM\nLink: https://business.boerne.org/events/details/devino-ladies-night-08-27-2026-31099?calendarMonth=2026-08-01
+END:VEVENT
+BEGIN:VEVENT
+UID:143-YOUTHBASEBALLSUMMERCAMP3BoerneTX2026@serpapi-events
+DTSTAMP:20260727
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260730
+TRANSP:TRANSPARENT
+SUMMARY:YOUTH BASEBALL SUMMER CAMP #3 - Boerne\, TX 2026
+LOCATION:The Dugout\, 132 Old San Antonio Rd\, Boerne\, TX
+DESCRIPTION:When: Mon\, Jul 27 – Wed\, Jul 29\nLink: https://www.activekids.com/boerne-tx/baseball/baseball-camps/youth-baseball-summer-camp-3-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:144-CoffeewithKyleepresentedbyTapatioSpringsHillCountryResort@serpapi-events
+DTSTAMP:20260819
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+TRANSP:TRANSPARENT
+SUMMARY:Coffee with Kylee presented by Tapatio Springs Hill Country Resort
+LOCATION:Greater Boerne Chamber of Commerce\, 121 S Main St\, Boerne\, TX
+DESCRIPTION:When: Wed\, 9 – 10 AM\nLink: https://business.boerne.org/events/details/coffee-with-kylee-08-19-2026-32062
+END:VEVENT
+BEGIN:VEVENT
+UID:145-MarkSearcyMusic@serpapi-events
+DTSTAMP:20260916
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+TRANSP:TRANSPARENT
+SUMMARY:Mark Searcy Music
+LOCATION:Cibolo Creek Brewing Co.\, 448 S Main St\, Boerne\, TX
+DESCRIPTION:When: Wed\, 6 – 10 PM\nLink: https://open.spotify.com/concert/7yDeyb8mHwR31qF4zYNZTR
+END:VEVENT
+BEGIN:VEVENT
+UID:146-KillerCraftsTrueCrimePodcastsandCrafts@serpapi-events
+DTSTAMP:20260811
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260812
+TRANSP:TRANSPARENT
+SUMMARY:Killer Crafts: True Crime Podcasts and Crafts
+LOCATION:Boerne Public Library\, 451 N Main St\, Boerne\, TX
+DESCRIPTION:When: Tue\, 6:00 – 7:30 PM\nLink: https://theboernelife.com/events/tag/adults/page/11/?tribe-bar-date=2025-02-17
+END:VEVENT
+BEGIN:VEVENT
+UID:147-BubbletimeBookworms@serpapi-events
+DTSTAMP:20260910
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+TRANSP:TRANSPARENT
+SUMMARY:Bubbletime Bookworms
+LOCATION:Patrick Heath Public Library\, 451 N Main St\, Boerne\, TX
+DESCRIPTION:When: Thu\, 10:00 – 10:30 AM\nLink: https://theboernelife.com/events/bubbletime-bookworms-2-2/2026-09-10/
+END:VEVENT
+BEGIN:VEVENT
+UID:148-MatthewMarcusMcDaniel@serpapi-events
+DTSTAMP:20260919
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+TRANSP:TRANSPARENT
+SUMMARY:Matthew Marcus McDaniel
+LOCATION:Cibolo Creek Brewing Co.\, 448 S Main St\, Boerne\, TX
+DESCRIPTION:When: Sat\, 6 – 10 PM\nLink: https://open.spotify.com/concert/5SXtazyY5BEqienWMqocMB
+END:VEVENT
+BEGIN:VEVENT
+UID:149-Paws4Reading@serpapi-events
+DTSTAMP:20260630
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+TRANSP:TRANSPARENT
+SUMMARY:Paws 4 Reading
+LOCATION:Boerne Public Library\, 451 N Main St\, Boerne\, TX
+DESCRIPTION:When: Tue\, 3:30 – 4:00 PM\nLink: https://theboernelife.com/events/paws-4-reading-2-2-2/2026-06-30/
+END:VEVENT
+BEGIN:VEVENT
+UID:150-TaiChiwithQigong@serpapi-events
+DTSTAMP:20260904
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+TRANSP:TRANSPARENT
+SUMMARY:Tai Chi with Qi gong
+LOCATION:Boerne Public Library\, 451 N Main St\, Boerne\, TX
+DESCRIPTION:When: Fri\, 11:30 AM – 12:30 PM\nLink: https://theboernelife.com/events/tai-chi-qi-gong-2/2026-09-04/
+END:VEVENT
+BEGIN:VEVENT
+UID:151-BubbletimeBookworms@serpapi-events
+DTSTAMP:20260924
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+TRANSP:TRANSPARENT
+SUMMARY:Bubbletime Bookworms
+LOCATION:Patrick Heath Public Library\, 451 N Main St\, Boerne\, TX
+DESCRIPTION:When: Thu\, 10:00 – 10:30 AM\nLink: https://theboernelife.com/events/bubbletime-bookworms-2-2/2026-09-24/
+END:VEVENT
+BEGIN:VEVENT
+UID:152-TexasMunicipalCourtsEducationCenterTMCECImpairedDrivingSymposium@serpapi-events
+DTSTAMP:20260812
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260814
+TRANSP:TRANSPARENT
+SUMMARY:Texas Municipal Courts Education Center (TMCEC) Impaired Driving Symposium
+LOCATION:The Bevy Hotel Boerne\, a DoubleTree by Hilton\, 101 Herff Rd\, Boerne\, TX
+DESCRIPTION:When: Wed\, Aug 12 – Thu\, Aug 13\nLink: https://www.texasimpaireddrivingtaskforce.org/event/texas-municipal-courts-education-center-tmcec-impaired-driving-symposium/
+END:VEVENT
+BEGIN:VEVENT
+UID:153-RoaringReadersStorytimeatPatrickHeathPublicLibrary@serpapi-events
+DTSTAMP:20260624
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+TRANSP:TRANSPARENT
+SUMMARY:Roaring Readers Storytime at Patrick Heath Public Library
+LOCATION:Patrick Heath Public Library\, 451 N Main St\, Boerne\, TX
+DESCRIPTION:When: Wed\, 10:30 – 11:30 AM\nLink: https://theboernelife.com/events/roaring-readers-storytime-at-patrick-heath-public-library/2026-06-24/
+END:VEVENT
+BEGIN:VEVENT
+UID:154-BubbletimeBookworms@serpapi-events
+DTSTAMP:20260911
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+TRANSP:TRANSPARENT
+SUMMARY:Bubbletime Bookworms
+LOCATION:Patrick Heath Public Library\, 451 N Main St\, Boerne\, TX
+DESCRIPTION:When: Fri\, 10:00 – 10:30 AM\nLink: https://theboernelife.com/events/bubbletime-bookworms-2-2/2026-09-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:155-BubbletimeBookworms@serpapi-events
+DTSTAMP:20260702
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260703
+TRANSP:TRANSPARENT
+SUMMARY:Bubbletime Bookworms
+LOCATION:Boerne Public Library\, 451 N Main St\, Boerne\, TX
+DESCRIPTION:When: Thu\, 10:00 – 10:30 AM\nLink: https://theboernelife.com/events/bubbletime-bookworms-2/2026-07-02/
+END:VEVENT
+BEGIN:VEVENT
+UID:156-RalynGayleFullBandatFreeRoamBrewingsSummerSongwriterSeries@serpapi-events
+DTSTAMP:20260708
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260709
+TRANSP:TRANSPARENT
+SUMMARY:Ralyn Gayle Full Band at Free Roam Brewing's Summer Songwriter Series
+LOCATION:Free Roam Brewing Company\, 325 S Main St\, Boerne\, TX
+DESCRIPTION:When: Wed\, 3 – 7 PM\nLink: https://www.mysanantonio.com/entertainment/?_evDiscoveryPath=/event/108304275n-ralyn-gayle-full-band-at-free-roam-brewing-s-summer-songwriter-series
+END:VEVENT
+BEGIN:VEVENT
+UID:157-ArtAfterHoursGelPlatePrintingatHillCountryCouncilfortheArts@serpapi-events
+DTSTAMP:20260624
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+TRANSP:TRANSPARENT
+SUMMARY:Art AfterHours – Gel Plate Printing at Hill Country Council for the Arts
+LOCATION:Hill Country Council for the Arts\, 102 City Park Rd\, Boerne\, TX
+DESCRIPTION:When: Wed\, 8 – 10 AM\nLink: https://theboernelife.com/events/2026-06-24/
+END:VEVENT
+BEGIN:VEVENT
+UID:158-FamilyNightHike@serpapi-events
+DTSTAMP:20260807
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+TRANSP:TRANSPARENT
+SUMMARY:Family Night Hike
+LOCATION:Cibolo Center for Conservation\, 140 City Park Rd\, Boerne\, TX
+DESCRIPTION:When: Friday\nLink: https://www.traveltexas.com/event/family-night-hike/6147/
+END:VEVENT
+BEGIN:VEVENT
+UID:159-BubbletimeBookworms@serpapi-events
+DTSTAMP:20260918
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+TRANSP:TRANSPARENT
+SUMMARY:Bubbletime Bookworms
+LOCATION:Patrick Heath Public Library\, 451 N Main St\, Boerne\, TX
+DESCRIPTION:When: Fri\, 10:00 – 10:30 AM\nLink: https://theboernelife.com/events/bubbletime-bookworms-2-2/2026-09-18/
+END:VEVENT
+BEGIN:VEVENT
+UID:160-BubbletimeBookworms@serpapi-events
+DTSTAMP:20261015
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+TRANSP:TRANSPARENT
+SUMMARY:Bubbletime Bookworms
+LOCATION:Boerne Public Library\, 451 N Main St\, Boerne\, TX
+DESCRIPTION:When: Thu\, 10:00 – 10:30 AM\nLink: https://theboernelife.com/events/bubbletime-bookworms-2/2026-10-15/
+END:VEVENT
+BEGIN:VEVENT
+UID:161-MIDDLESCHOOLFOOTBALLSUMMERCAMP2@serpapi-events
+DTSTAMP:20260722
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260724
+TRANSP:TRANSPARENT
+SUMMARY:MIDDLE SCHOOL FOOTBALL SUMMER CAMP #2
+LOCATION:D1 Training Boerne\, 132 Old San Antonio Rd\, Boerne\, TX
+DESCRIPTION:When: Wed\, Jul 22 – Thu\, Jul 23\nLink: https://herald-zeitung.com/community_calendar/?_evDiscoveryPath=/event/42952963a-middle-school-football-summer-camp-2
+END:VEVENT
+BEGIN:VEVENT
+UID:162-MarkSearcyMusic@serpapi-events
+DTSTAMP:20261017
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+TRANSP:TRANSPARENT
+SUMMARY:Mark Searcy Music
+LOCATION:Cibolo Creek Brewing Co.\, 448 S Main St\, Boerne\, TX
+DESCRIPTION:When: Sat\, 6 – 10 PM\nLink: https://open.spotify.com/concert/4CShbQ9nJMjCZPSRZv5ke6
+END:VEVENT
+BEGIN:VEVENT
+UID:163-BubbletimeBookworms@serpapi-events
+DTSTAMP:20260731
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+TRANSP:TRANSPARENT
+SUMMARY:Bubbletime Bookworms
+LOCATION:Boerne Public Library\, 451 N Main St\, Boerne\, TX
+DESCRIPTION:When: Fri\, 10:00 – 10:30 AM\nLink: https://theboernelife.com/events/bubbletime-bookworms-2/2026-07-31/
+END:VEVENT
+BEGIN:VEVENT
+UID:164-BubbletimeBookworms@serpapi-events
+DTSTAMP:20260626
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+TRANSP:TRANSPARENT
+SUMMARY:Bubbletime Bookworms
+LOCATION:Patrick Heath Public Library\, 451 N Main St\, Boerne\, TX
+DESCRIPTION:When: Fri\, 10:00 – 10:30 AM\nLink: https://theboernelife.com/events/bubbletime-bookworms-2-2/2026-06-26/
+END:VEVENT
+BEGIN:VEVENT
+UID:165-FlagRun5K@serpapi-events
+DTSTAMP:20260704
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+TRANSP:TRANSPARENT
+SUMMARY:Flag Run 5K
+LOCATION:Main Plaza\, Boerne\, TX
+DESCRIPTION:When: Sat\, 7:30 – 11:30 AM\nLink: https://theboernelife.com/events/category/health-and-wellness/day/2026-07-04/
+END:VEVENT
+BEGIN:VEVENT
+UID:166-Paws4Reading@serpapi-events
+DTSTAMP:20260818
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+TRANSP:TRANSPARENT
+SUMMARY:Paws 4 Reading
+LOCATION:Boerne Public Library\, 451 N Main St\, Boerne\, TX
+DESCRIPTION:When: Tue\, 3:30 – 4:00 PM\nLink: https://theboernelife.com/events/paws-4-reading-2-2-2/2026-08-18/
+END:VEVENT
+BEGIN:VEVENT
+UID:167-ArtAfterHoursDischargeDyeingatHillCountryCouncilfortheArts@serpapi-events
+DTSTAMP:20260701
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+TRANSP:TRANSPARENT
+SUMMARY:Art AfterHours – Discharge Dyeing at Hill Country Council for the Arts
+LOCATION:Hill Country Council for the Arts\, 102 City Park Rd\, Boerne\, TX
+DESCRIPTION:When: Wed\, 8 – 10 AM\nLink: https://theboernelife.com/events/category/arts-and-culture/day/2026-07-01/
+END:VEVENT
+BEGIN:VEVENT
+UID:168-MatthewMarcusMcDaniel@serpapi-events
+DTSTAMP:20261128
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Matthew Marcus McDaniel
+LOCATION:Cibolo Creek Brewing Co.\, 448 S Main St\, Boerne\, TX
+DESCRIPTION:When: Sat\, 6 – 10 PM\nLink: https://open.spotify.com/concert/16mjjtJXexWsh93mPNfl3P
+END:VEVENT
+BEGIN:VEVENT
+UID:169-RoaringReadersStorytimeatPatrickHeathPublicLibrary@serpapi-events
+DTSTAMP:20260701
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+TRANSP:TRANSPARENT
+SUMMARY:Roaring Readers Storytime at Patrick Heath Public Library
+LOCATION:Patrick Heath Public Library\, 451 N Main St\, Boerne\, TX
+DESCRIPTION:When: Wed\, 10:30 – 11:30 AM\nLink: https://theboernelife.com/events/roaring-readers-storytime-at-patrick-heath-public-library/2026-07-01/
+END:VEVENT
+BEGIN:VEVENT
+UID:170-ArtAfterHoursDischargeDyeingatHillCountryCouncilfortheArts@serpapi-events
+DTSTAMP:20260701
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+TRANSP:TRANSPARENT
+SUMMARY:Art AfterHours – Discharge Dyeing at Hill Country Council for the Arts
+LOCATION:Hill Country Council for the Arts\, 102 City Park Rd\, Boerne\, TX
+DESCRIPTION:When: Wed\, 8 – 10 AM\nLink: https://theboernelife.com/events/category/arts-and-culture/day/2026-07-01/
+END:VEVENT
+BEGIN:VEVENT
+UID:171-RoaringReadersStorytimeatPatrickHeathPublicLibrary@serpapi-events
+DTSTAMP:20260701
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+TRANSP:TRANSPARENT
+SUMMARY:Roaring Readers Storytime at Patrick Heath Public Library
+LOCATION:Patrick Heath Public Library\, 451 N Main St\, Boerne\, TX
+DESCRIPTION:When: Wed\, 10:30 – 11:30 AM\nLink: https://theboernelife.com/events/roaring-readers-storytime-at-patrick-heath-public-library/2026-07-01/
+END:VEVENT
+BEGIN:VEVENT
+UID:172-BubbletimeBookworms@serpapi-events
+DTSTAMP:20260710
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+TRANSP:TRANSPARENT
+SUMMARY:Bubbletime Bookworms
+LOCATION:Patrick Heath Public Library\, 451 N Main St\, Boerne\, TX
+DESCRIPTION:When: Fri\, 10:00 – 10:30 AM\nLink: https://theboernelife.com/events/bubbletime-bookworms-2-2/2026-07-10/
+END:VEVENT
+BEGIN:VEVENT
+UID:173-Paws4Reading@serpapi-events
+DTSTAMP:20260915
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+TRANSP:TRANSPARENT
+SUMMARY:Paws 4 Reading
+LOCATION:Boerne Public Library\, 451 N Main St\, Boerne\, TX
+DESCRIPTION:When: Tue\, 3:30 – 4:00 PM\nLink: https://theboernelife.com/events/paws-4-reading-2-2-2/2026-09-15/
+END:VEVENT
+BEGIN:VEVENT
+UID:174-FamilyNightHikesattheCiboloNatureCenterBoerneLove@serpapi-events
+DTSTAMP:20260904
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+TRANSP:TRANSPARENT
+SUMMARY:Family Night Hikes at the Cibolo Nature Center — Boerne Love
+LOCATION:Cibolo Center for Conservation\, 140 City Park Rd\, Boerne\, TX
+DESCRIPTION:When: Fri\, 6 – 7 PM\nLink: https://rose-chiton-kl9d.squarespace.com/new-events-1/family-night-hikes-1-rzjnx
+END:VEVENT
+BEGIN:VEVENT
+UID:175-MatthewMarcusMcDaniel@serpapi-events
+DTSTAMP:20260626
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+TRANSP:TRANSPARENT
+SUMMARY:Matthew Marcus McDaniel
+LOCATION:Cibolo Creek Brewing Co.\, 448 S Main St\, Boerne\, TX
+DESCRIPTION:When: Fri\, 6 – 10 PM\nLink: https://open.spotify.com/concert/5Po9r2ops1FQ2qnzKJAeGx
+END:VEVENT
+BEGIN:VEVENT
+UID:176-RoaringReadersStorytimeatPatrickHeathPublicLibrary@serpapi-events
+DTSTAMP:20260708
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260709
+TRANSP:TRANSPARENT
+SUMMARY:Roaring Readers Storytime at Patrick Heath Public Library
+LOCATION:Patrick Heath Public Library\, 451 N Main St\, Boerne\, TX
+DESCRIPTION:When: Wed\, 10:30 – 11:30 AM\nLink: https://theboernelife.com/events/roaring-readers-storytime-at-patrick-heath-public-library/2026-07-08/
+END:VEVENT
+BEGIN:VEVENT
+UID:177-BubbletimeBookworms@serpapi-events
+DTSTAMP:20260709
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+TRANSP:TRANSPARENT
+SUMMARY:Bubbletime Bookworms
+LOCATION:Patrick Heath Public Library\, 451 N Main St\, Boerne\, TX
+DESCRIPTION:When: Thu\, 10:00 – 10:30 AM\nLink: https://theboernelife.com/events/bubbletime-bookworms-2-2/2026-07-09/
+END:VEVENT
+BEGIN:VEVENT
+UID:178-MilitaryMondaySportingClaysatJoshuaCreekRanch@serpapi-events
+DTSTAMP:20260629
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260630
+TRANSP:TRANSPARENT
+SUMMARY:Military Monday Sporting Clays at Joshua Creek Ranch
+LOCATION:Joshua Creek Ranch\, 132 Cravey Rd\, Boerne\, TX
+DESCRIPTION:When: Monday\nLink: https://theboernelife.com/events/military-monday-sporting-clays-at-joshua-creek-ranch/2026-06-29/
+END:VEVENT
+BEGIN:VEVENT
+UID:179-DucksUnlimitedOutlawDuckJampresentedbyCapitalFarmCredit@serpapi-events
+DTSTAMP:20261129
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Ducks Unlimited: Outlaw Duck Jam - presented by Capital Farm Credit
+LOCATION:Tapatio Springs Hill Country Resort\, 1 Resort Way\, Boerne\, TX
+DESCRIPTION:When: Sunday\nLink: https://boisegunclub.com/texas/events/ducks-unlimited-outlaw-duck-jam-presented-by-capital-farm-credit
+END:VEVENT
+BEGIN:VEVENT
+UID:180-DucksUnlimitedOutlawDuckJampresentedbyCapitalFarmCredit@serpapi-events
+DTSTAMP:20261129
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Ducks Unlimited: Outlaw Duck Jam - presented by Capital Farm Credit
+LOCATION:Tapatio Springs Hill Country Resort\, 1 Resort Way\, Boerne\, TX
+DESCRIPTION:When: Sunday\nLink: https://boisegunclub.com/texas/events/ducks-unlimited-outlaw-duck-jam-presented-by-capital-farm-credit
+END:VEVENT
+BEGIN:VEVENT
+UID:181-CiboloFarmersMarketatHerffFarm@serpapi-events
+DTSTAMP:20260711
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+TRANSP:TRANSPARENT
+SUMMARY:Cibolo Farmers Market at Herff Farm
+LOCATION:Herff Farm\, 33 Herff Rd\, Boerne\, TX
+DESCRIPTION:When: Sat\, 9 AM – 1 PM\nLink: https://business.boerne.org/events/details/cibolo-farmers-market-at-herff-farm-07-11-2026-29669?calendarMonth=2026-07-01
+END:VEVENT
+BEGIN:VEVENT
+UID:182-LittleListenersStorytime@serpapi-events
+DTSTAMP:20260624
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+TRANSP:TRANSPARENT
+SUMMARY:Little Listeners Storytime
+LOCATION:Patrick Heath Public Library\, 451 N Main St\, Boerne\, TX
+DESCRIPTION:When: Wed\, 10:30 – 11:00 AM\nLink: https://theboernelife.com/events/little-listeners-storytime-2-2/2026-06-24/
+END:VEVENT
+BEGIN:VEVENT
+UID:183-BaileyRaeAcousticShowattheFreeRoam@serpapi-events
+DTSTAMP:20260624
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+TRANSP:TRANSPARENT
+SUMMARY:Bailey Rae Acoustic Show at the Free Roam...
+LOCATION:Free Roam Brewing Company\, 325 S Main St\, Boerne\, TX
+DESCRIPTION:When: Wed\, 7:30 – 11:30 PM\nLink: https://herald-zeitung.com/community_calendar/?_evDiscoveryPath=/event/108333137n-bailey-rae-acoustic-show-at-the-free-roam-brewing-summer-concert-series
+END:VEVENT
+BEGIN:VEVENT
+UID:184-RoaringReadersStorytimeatPatrickHeathPublicLibrary@serpapi-events
+DTSTAMP:20260826
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+TRANSP:TRANSPARENT
+SUMMARY:Roaring Readers Storytime at Patrick Heath Public Library
+LOCATION:Patrick Heath Public Library\, 451 N Main St\, Boerne\, TX
+DESCRIPTION:When: Wed\, 10:30 – 11:30 AM\nLink: https://theboernelife.com/events/roaring-readers-storytime-at-patrick-heath-public-library/2026-08-26/
+END:VEVENT
+BEGIN:VEVENT
+UID:185-RefugeofLaughsCleanComedyShow@serpapi-events
+DTSTAMP:20260619
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+TRANSP:TRANSPARENT
+SUMMARY:Refuge of Laughs Clean Comedy Show!
+LOCATION:Refuge Coffee + Beer Garden\, 11011 Shaenfield Rd\, San Antonio\, TX
+DESCRIPTION:When: Today\, 7:30 – 9:00 PM\nLink: https://www.eventbrite.com/e/refuge-of-laughs-clean-comedy-show-tickets-1991314216426
+END:VEVENT
+BEGIN:VEVENT
+UID:186-LoteriaComedyLane33ComedyClubSanAntonio@serpapi-events
+DTSTAMP:20260619
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+TRANSP:TRANSPARENT
+SUMMARY:Loteria Comedy: Lane 33 Comedy Club ( San Antonio)
+LOCATION:Oak Hills Bowling Center\, 7330 Callaghan Rd\, San Antonio\, TX
+DESCRIPTION:When: Today\, 8 – 10 PM\nLink: https://events.massivetix.com/e/loteria-lane33comedy-club/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:187-YogainthePark@serpapi-events
+DTSTAMP:20260711
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+TRANSP:TRANSPARENT
+SUMMARY:Yoga in the Park
+LOCATION:Patrick Heath Public Library\, 451 N Main St\, Boerne\, TX
+DESCRIPTION:When: Sat\, 9:30 – 10:30 AM\nLink: https://www.groundedmovement.org/schedule/d5c53075-edb3-4322-8556-799cf86251b0_1783780200?embed=false
+END:VEVENT
+BEGIN:VEVENT
+UID:188-AdultNightHike@serpapi-events
+DTSTAMP:20260821
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+TRANSP:TRANSPARENT
+SUMMARY:Adult Night Hike
+LOCATION:Cibolo Center for Conservation\, 140 City Park Rd\, Boerne\, TX
+DESCRIPTION:When: Friday\nLink: https://www.traveltexas.com/event/adult-night-hike/6153/
+END:VEVENT
+BEGIN:VEVENT
+UID:189-MilitaryMondaySportingClaysatJoshuaCreekRanch@serpapi-events
+DTSTAMP:20260713
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260714
+TRANSP:TRANSPARENT
+SUMMARY:Military Monday Sporting Clays at Joshua Creek Ranch
+LOCATION:Joshua Creek Ranch\, 132 Cravey Rd\, Boerne\, TX
+DESCRIPTION:When: Monday\nLink: https://theboernelife.com/events/military-monday-sporting-clays-at-joshua-creek-ranch/2026-07-13/
+END:VEVENT
+BEGIN:VEVENT
+UID:190-MilitaryMondaySportingClaysatJoshuaCreekRanch@serpapi-events
+DTSTAMP:20260713
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260714
+TRANSP:TRANSPARENT
+SUMMARY:Military Monday Sporting Clays at Joshua Creek Ranch
+LOCATION:Joshua Creek Ranch\, 132 Cravey Rd\, Boerne\, TX
+DESCRIPTION:When: Monday\nLink: https://theboernelife.com/events/military-monday-sporting-clays-at-joshua-creek-ranch/2026-07-13/
+END:VEVENT
+BEGIN:VEVENT
+UID:191-RoaringReadersStorytimeatPatrickHeathPublicLibrary@serpapi-events
+DTSTAMP:20260805
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+TRANSP:TRANSPARENT
+SUMMARY:Roaring Readers Storytime at Patrick Heath Public Library
+LOCATION:Patrick Heath Public Library\, 451 N Main St\, Boerne\, TX
+DESCRIPTION:When: Wed\, 10:30 – 11:30 AM\nLink: https://theboernelife.com/events/roaring-readers-storytime-at-patrick-heath-public-library/2026-08-05/
+END:VEVENT
+BEGIN:VEVENT
+UID:192-RoaringReadersStorytimeatPatrickHeathPublicLibrary@serpapi-events
+DTSTAMP:20260812
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+TRANSP:TRANSPARENT
+SUMMARY:Roaring Readers Storytime at Patrick Heath Public Library
+LOCATION:Patrick Heath Public Library\, 451 N Main St\, Boerne\, TX
+DESCRIPTION:When: Wed\, 10:30 – 11:30 AM\nLink: https://theboernelife.com/events/roaring-readers-storytime-at-patrick-heath-public-library/2026-08-12/
+END:VEVENT
+BEGIN:VEVENT
+UID:193-LittleListenersStorytime@serpapi-events
+DTSTAMP:20260701
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+TRANSP:TRANSPARENT
+SUMMARY:Little Listeners Storytime
+LOCATION:Patrick Heath Public Library\, 451 N Main St\, Boerne\, TX
+DESCRIPTION:When: Wed\, 10:30 – 11:00 AM\nLink: https://theboernelife.com/events/little-listeners-storytime-2-2/2026-07-01/
+END:VEVENT
+BEGIN:VEVENT
+UID:194-MemberOrientationPresentedbyAlignedMedicalBillingGroup@serpapi-events
+DTSTAMP:20260626
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+TRANSP:TRANSPARENT
+SUMMARY:Member Orientation - Presented by Aligned Medical Billing Group
+LOCATION:Greater Boerne Chamber of Commerce\, 121 S Main St\, Boerne\, TX
+DESCRIPTION:When: Fri\, 11:30 AM – 1:00 PM\nLink: https://business.boerne.org/events/details/member-orientation-presented-by-aligned-medical-billing-group-32338
+END:VEVENT
+BEGIN:VEVENT
+UID:195-SoundBathMeditation@serpapi-events
+DTSTAMP:20260620
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+TRANSP:TRANSPARENT
+SUMMARY:Sound Bath & Meditation
+LOCATION:Barbara & Tammy's School Of Dance\, 5410 Glen Ridge Dr\, San Antonio\, TX
+DESCRIPTION:When: Tomorrow\, 2:30 – 3:30 PM\nLink: https://www.sacurrent.com/events/details/sound-bath-meditation/19032463/2026-06-20T14
+END:VEVENT
+BEGIN:VEVENT
+UID:196-ClevelandSrixonDemoDayLeonSprings@serpapi-events
+DTSTAMP:20260711
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+TRANSP:TRANSPARENT
+SUMMARY:Cleveland/Srixon Demo Day – Leon Springs
+LOCATION:Mac Wylie Golf Center\, 26254 Interstate 10 West Frontage Road\, Boerne\, TX
+DESCRIPTION:When: Sat\, 10 AM – 2 PM\nLink: https://macwyliegolf.com/event/cleveland-demo-day-leon-springs-2-1/
+END:VEVENT
+BEGIN:VEVENT
+UID:197-VeteransNetworkingMonthlyBreakfast@serpapi-events
+DTSTAMP:20260619
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+TRANSP:TRANSPARENT
+SUMMARY:Veterans Networking Monthly Breakfast
+LOCATION:Ay Chiwawa! Mexican Cafe\, 403 Singing Oaks\, Spring Branch\, TX
+DESCRIPTION:When: Today\, 7:30 – 9:00 AM\nLink: https://web.bulverdespringbranchchamber.com/events/details/veterans-networking-monthly-breakfast-06-19-2026-46906
+END:VEVENT
+BEGIN:VEVENT
+UID:198-RoaringReadersStorytimeatPatrickHeathPublicLibrary@serpapi-events
+DTSTAMP:20260715
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260716
+TRANSP:TRANSPARENT
+SUMMARY:Roaring Readers Storytime at Patrick Heath Public Library
+LOCATION:Patrick Heath Public Library\, 451 N Main St\, Boerne\, TX
+DESCRIPTION:When: Wed\, 10:30 – 11:30 AM\nLink: https://theboernelife.com/events/roaring-readers-storytime-at-patrick-heath-public-library/2026-07-15/
+END:VEVENT
+BEGIN:VEVENT
+UID:199-FamilyNightHikeatTheCibolo@serpapi-events
+DTSTAMP:20260904
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260906
+TRANSP:TRANSPARENT
+SUMMARY:Family Night Hike at The Cibolo
+LOCATION:140 City Pk Rd\, Boerne\, TX
+DESCRIPTION:When: Fri\, Sep 4 – Sat\, Sep 5\nLink: https://business.boerne.org/events/details/family-night-hike-at-the-cibolo-09-04-2026-32126
 END:VEVENT
 END:VCALENDAR
