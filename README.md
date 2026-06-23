@@ -48,3 +48,4 @@ After pushing, subscribe to the hosted ICS URL you publish (e.g., raw GitHub URL
   - Uses `EVENT_QUERY` env (set in the workflow) and `SERPAPI_API_KEY` secret
   - Regenerates `data/events.csv` and `data/events.ics`
   - Commits/pushes changes if files differ
+  - **Requires `GH_PAT` secret**: A Personal Access Token with repo write permissions must be configured in repository settings for the workflow to push changes
