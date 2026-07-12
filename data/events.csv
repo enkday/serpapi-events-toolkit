@@ -1,91 +1,51 @@
 idx,title,start_date,start_time,end_date,end_time,when_raw,address_line,city,state,link
-1,Boerne Market Days,JUL 11,,,,"Mañana, 10:00 a.m. – 5:00 p.m.",Main Plaza,Boerne,TX,https://business.boerne.org/events/details/boerne-market-days-07-11-2026-30344
-2,Boerne Market Days,JUL 12,,,,"dom, 10:00 a.m. – 4:00 p.m.",Main Plaza,Boerne,TX,https://business.boerne.org/events/details/boerne-market-days-07-12-2026-30471?calendarMonth=2026-07-01
-3,Live Music at The Dodging Duck Brewhaus,JUL 10,,,,"Hoy, 5:30 – 8:30 p.m.","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://beer.social/brewery/dodging-duck-brewhaus-boerne-texas/events/734019
-4,The Best Jazz Brunch in Texas,JUL 12,,,,"dom, 11:00 a.m. – 3:00 p.m.","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://open.spotify.com/concert/2HwD3Oncj3HUYdsdX1Z0kj
-5,"INFIELDER ACADEMY SESSON 1: AGE 7-12 - Boerne, TX 2026",JUL 10,,JUL,,7 – 21 de jul,"The Dugout, 132 Old San Antonio Rd",Boerne,TX,https://www.activekids.com/boerne-tx/baseball/baseball-camps/infielder-academy-sesson-1-age-13-18-2026
-6,Kyle Garrett,JUL 11,,,,"Mañana, 6:00 – 10:00 p.m.","Pinchy’s Lobster & Rawbar, 250 River Rd",Boerne,TX,https://open.spotify.com/concert/4IKWQaCvbtSpAFRF8RCcXV
-7,Texas Brewery Roundup,JUL 10,,JUL 12,,"vie, 10 de jul – dom, 12 de jul","The Bevy Hotel Boerne, a DoubleTree by Hilton, 101 Herff Rd",Boerne,TX,https://10times.com/es/e1h1-310x-hrxh-s-texas-brewery-roundup
-8,Free Bundtlets at the New Nothing Bundt Cakes in Boerne,JUL 11,,,,"Mañana, 9:00 a.m.","Nothing Bundt Cakes, 34618 I-10 Suite 103",Boerne,TX,https://patch.com/texas/boerne-tx/calendar/event/20260711/bf8b599f-ca06-414c-9845-9ad655f39529/free-bundtlets-at-the-new-nothing-bundt-cakes-in-boerne
-9,Britt Ballenger Band,JUL 11,,,,"Mañana, 6:00 – 10:00 p.m.","Free Roam Brewing Company, 325 S Main St",Boerne,TX,https://open.spotify.com/concert/59qkVgN4hmUml85HBVBYZv
-10,Cibolo Farmers Market at Herff Farm,JUL 11,,,,"Mañana, 9:00 a.m. – 1:00 p.m.","Herff Farm, 33 Herff Rd",Boerne,TX,https://business.boerne.org/events/details/cibolo-farmers-market-at-herff-farm-07-11-2026-29669?calendarMonth=2026-07-01
-11,Rumble in the Jungle at Patrick Heath Public Library,JUL 11,11 AM,,1 PM,"Tomorrow, 11 AM – 1 PM","Patrick Heath Public Library, 451 N Main St",Boerne,TX,https://theboernelife.com/events/rumble-in-the-jungle-at-patrick-heath-public-library/
-12,Lacy Brinson at Tapatio,JUL 10,11 PM,,,"Today, 7 – 11 PM","Tapatio Springs Hill Country Resort, 1 Resort Way",Boerne,TX,https://open.spotify.com/concert/1luODY2w9pUD94z1QJqVwF
-13,Brad Blackburn,JUL 10,10 PM,,,"Today, 6 – 10 PM","Free Roam Brewing Company, 325 S Main St",Boerne,TX,https://open.spotify.com/concert/6Xwaor0uj18S8riOBEhMLT
-14,Bubbletime Bookworms,JUL 10,10:30 AM,,,"Today, 10:00 – 10:30 AM","Patrick Heath Public Library, 451 N Main St",Boerne,TX,https://theboernelife.com/events/bubbletime-bookworms-2-2/2026-07-10/
-15,Billy Snipes,JUL 10,,JUL 11,,"Fri, Jul 10 – Sat, Jul 11","Salvador DOBBS, 512 River Rd",Boerne,TX,https://www.mysanantonio.com/entertainment/?_evDiscoveryPath=/event/108345250n-billy-snipes
-16,Boerne Boo,OCT 24,,,,Saturday,"Patrick Heath Public Library, 451 N Main St",Boerne,TX,https://www.traveltexas.com/event/boerne-boo/6265/
-17,Cleveland/Srixon Demo Day – Leon Springs,JUL 11,10 AM,,2 PM,"Tomorrow, 10 AM – 2 PM","Mac Wylie Golf Center, 26254 Interstate 10 West Frontage Road",Boerne,TX,https://macwyliegolf.com/event/cleveland-demo-day-leon-springs-2-1/
-18,Book Festival,OCT 3,10 AM,,4 PM,"Sat, 10 AM – 4 PM","Patrick Heath Public Library, 451 N Main St",Boerne,TX,https://www.traveltexas.com/event/book-festival/6234/
-19,Boerne After Hours Mixer - Hosted by Sendero Wealth Management,AUG 27,6 PM,,,"Thu, 4 – 6 PM","Richter Tavern, 153 S Main St",Boerne,TX,https://business.boerne.org/events/details/boerne-after-hours-mixer-hosted-by-sendero-wealth-management-32372
-20,Noah Peterson,AUG 9,11 AM,,3 PM,"Sun, 11 AM – 3 PM","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://open.spotify.com/concert/3zg5VBqZrC89o5INM8GJJQ
-21,Boerne Market Days,OCT 10,10 AM,,5 PM,"Sat, 10 AM – 5 PM",Main Plaza,Boerne,TX,https://business.boerne.org/events/details/boerne-market-days-10-10-2026-30347
-22,Boerne Market Days,OCT 11,10 AM,,4 PM,"Sun, 10 AM – 4 PM",Main Plaza,Boerne,TX,https://business.boerne.org/events/details/boerne-market-days-10-11-2026-30474?calendarMonth=2026-10-01
-23,Noah Peterson,SEP 27,11 AM,,3 PM,"Sun, 11 AM – 3 PM","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://open.spotify.com/concert/45YCfsjmmCp6tIlz163eVv
-24,November 4th Comedy Show & Game Night,NOV 4,9:00 PM,,,"Wed, 7:30 – 9:00 PM","DeVino Cellars, 112 E San Antonio Ave",Boerne,TX,https://www.sacurrent.com/events/details/november-4th-comedy-show-game-night/19032530/2026-11-04T19/
-25,HIGH SCHOOL TESTING (Post Summer),JUL 24,11 AM,,,"Fri, 10 – 11 AM","D1 Training Boerne, 132 Old San Antonio Rd",Boerne,TX,https://herald-zeitung.com/community_calendar/?_evDiscoveryPath=/event/42840098a-middle-school-testing-post-summer-
-26,Boerne Market Days,DEC 13,10 AM,,4 PM,"Sun, 10 AM – 4 PM",Main Plaza,Boerne,TX,https://business.boerne.org/events/details/boerne-market-days-12-13-2026-30476
-27,The Best Jazz Brunch in Texas,SEP 6,11 AM,,3 PM,"Sun, 11 AM – 3 PM","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://open.spotify.com/concert/3Rl3QccCGG3iSu1aI51XLB
-28,Karaoke at Drink Texas Boerne,JUL 14,11 PM,,,"Tue, 7 – 11 PM","Drink Texas Boerne, 31138 I-10",Boerne,TX,https://theboernelife.com/events/tag/night/week/2026-07-15/
-29,Noah Peterson,AUG 2,11 AM,,3 PM,"Sun, 11 AM – 3 PM","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://open.spotify.com/concert/1HXTy0rYPGFTs5Hs9MAXny
-30,The Best Jazz Brunch in Texas,AUG 30,11 AM,,3 PM,"Sun, 11 AM – 3 PM","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://open.spotify.com/concert/0C1pfIloRizblhWBJJ6VQI
-31,The Best Jazz Brunch in Texas,SEP 6,,,,"Sun, 11:00 a.m.–3:00 p.m.","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://open.spotify.com/concert/3Rl3QccCGG3iSu1aI51XLB
-32,Noah Peterson,NOV 22,,,,"Sun, 11:00 a.m.–3:00 p.m.","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://open.spotify.com/concert/5sGoMoXL4dugpB2v3m3LJB
-33,Boerne Market Days,AUG 9,,,,"Sun, 10:00 a.m.–4:00 p.m.",Main Plaza,Boerne,TX,https://business.boerne.org/events/details/boerne-market-days-08-09-2026-30472
-34,The Best Jazz Brunch in Texas,AUG 30,,,,"Sun, 11:00 a.m.–3:00 p.m.","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://open.spotify.com/concert/0C1pfIloRizblhWBJJ6VQI
-35,Noah Peterson,DEC 13,,,,"Sun, 11:00 a.m.–3:00 p.m.","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://open.spotify.com/concert/39ndaNc9lMDj0iNOqVf449
-36,Noah Peterson,OCT 18,,,,"Sun, 11:00 a.m.–3:00 p.m.","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://open.spotify.com/concert/6fy7fg02GcBnJcLUuZ2SDp
-37,SOLD OUT: Murder at the Wine Bar – Boerne Community Theatre Fundraiser,NOV 27,,,,"Fri, 4:30–8:00 p.m.","DeVino Cellars, 112 E San Antonio Ave",Boerne,TX,https://theboernelife.com/events/murder-at-the-wine-bar-boerne-community-theatre-fundraiser/2026-11-27/
-38,Karaoke at Drink Texas Boerne,JUL 14,,,,"Tue, 7:00–11:00 p.m.","Drink Texas Boerne, 31138 I-10",Boerne,TX,https://theboernelife.com/events/tag/night/week/2026-07-15/
-39,Steven McClintock,AUG 19,,,,"Wed, 7:30–11:30 p.m.","Free Roam Brewing Company, 325 S Main St",Boerne,TX,https://open.spotify.com/concert/7D0PL2ZMMMQ3LaAY4qGRlw
-40,Mahjong Before School,JUL 30,,,,"Thu, 6:00–9:00 p.m.","Richter Bakhaus, 153 S Main St",Boerne,TX,https://givebutter.com/MahjongBeforeSchool
-41,Noah Peterson,DEC 27,11 AM,,3 PM,"Sun, 11 AM – 3 PM","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://open.spotify.com/concert/2hTGEqE9MNCD6ATYLOXzr6
-42,Steven McClintock,AUG 19,11:30 PM,,,"Wed, 7:30 – 11:30 PM","Free Roam Brewing Company, 325 S Main St",Boerne,TX,https://open.spotify.com/concert/7D0PL2ZMMMQ3LaAY4qGRlw
-43,The Best Jazz Brunch in Texas,JUL 19,11 AM,,3 PM,"Sun, 11 AM – 3 PM","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://open.spotify.com/concert/34OcUb6rv9pzB9sL7NzClm
-44,Noah Peterson,OCT 4,11 AM,,3 PM,"Sun, 11 AM – 3 PM","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://open.spotify.com/concert/3Nf5Qi4MBM5TyeOzqmHK14
-45,Thrifty Happy Hour,JUL 18,8 PM,,,"Sat, 5 – 8 PM","Thrift Store - Hill Country Animal League, 115 W Bandera Rd",Boerne,TX,https://www.austinmonthly.com/events/thrifty-happy-hour-2/
-46,Cibolo Farmers Market at Herff Farm,AUG 15,9 AM,,1 PM,"Sat, 9 AM – 1 PM","Herff Farm, 33 Herff Rd",Boerne,TX,https://business.boerne.org/events/details/cibolo-farmers-market-at-herff-farm-08-15-2026-29674?calendarMonth=2026-08-01
-47,Noah Peterson,NOV 1,11 AM,,3 PM,"Sun, 11 AM – 3 PM","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://open.spotify.com/concert/1aw3yQHsUY5RQcd5cdLMuN
-48,Mahjong Before School,JUL 30,9 PM,,,"Thu, 6 – 9 PM","Richter Bakhaus, 153 S Main St",Boerne,TX,https://givebutter.com/MahjongBeforeSchool
-49,Annual Boerne Barktoberfest,OCT 17,10 AM,,4 PM,"Sat, 10 AM – 4 PM",Main Plaza,Boerne,TX,https://www.bringfido.co.uk/event/47733
-50,The Best Jazz Brunch in Texas,AUG 16,11 AM,,3 PM,"Sun, 11 AM – 3 PM","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://open.spotify.com/concert/7n8rd0EhfHR5hbJWqpiIib
-51,Coffee with Kylee presented by Tapatio Springs Hill Country Resort,JUL 15,10 AM,,,"Wed, 9 – 10 AM","Greater Boerne Chamber of Commerce, 121 S Main St",Boerne,TX,https://business.boerne.org/events/details/coffee-with-kylee-07-15-2026-32061
-52,Noah Peterson,NOV 8,11 AM,,3 PM,"Sun, 11 AM – 3 PM","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://open.spotify.com/concert/0aSH8pLNBZzMBH0vY8wWuc
-53,Boerne Market Days,SEP 12,10 AM,,5 PM,"Sat, 10 AM – 5 PM",Main Plaza,Boerne,TX,https://business.boerne.org/events/details/boerne-market-days-09-12-2026-30346
-54,Boerne Market Days,NOV 14,10 AM,,5 PM,"Sat, 10 AM – 5 PM",Main Plaza,Boerne,TX,https://business.boerne.org/events/details/boerne-market-days-11-14-2026-30348
-55,The Best Jazz Brunch in Texas,OCT 4,11 AM,,,"Sun, 11 AM","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://www.sacurrent.com/events/details/the-best-jazz-brunch-in-texas/17687190/2026-10-04T11/
-56,Kendall County Fair,SEP 5,,SEP 6,,"Sat, Sep 5 – Sun, Sep 6","Kendall County Fair Association (Kendall County Fair Grounds), 1307 River Rd",Boerne,TX,https://open.spotify.com/concert/4Q70x69eKZSs0URkVgqDif
-57,Lacy Brinson at Tapatio Springs,SEP 18,11 PM,,,"Fri, 7 – 11 PM","Tapatio Springs Hill Country Resort, 1 Resort Way",Boerne,TX,https://herald-zeitung.com/community_calendar/?_evDiscoveryPath=/event/108428548n-lacy-brinson-at-tapatio-springs
-58,The Chocolate Experience: Create Your Own Confections,AUG 20,8:00 PM,,,"Thu, 6:30 – 8:00 PM","Herff Farm, 33 Herff Rd",Boerne,TX,https://business.boerne.org/events/details/the-chocolate-experience-create-your-own-confections-32426
-59,Dean Seltzer's Texas Trio - Cocktails & Country at Salvador Dobbs,AUG 14,,AUG 15,,"Fri, Aug 14 – Sat, Aug 15","Salvador DOBBS, 512 River Rd",Boerne,TX,https://herald-zeitung.com/community_calendar/?_evDiscoveryPath=/event/108337789n-dean-seltzer-the-redneck-mothers-dean-seltzer-s-texas-trio-live-country-music-at-salvador-dobbs-in-boerne-tx
-60,Paws 4 Reading,AUG 4,4:00 PM,,,"Tue, 3:30 – 4:00 PM","Patrick Heath Public Library, 451 N Main St",Boerne,TX,https://theboernelife.com/events/paws-4-reading-2-2-2/2026-08-04/
-61,Noah Peterson,NOV 15,11 AM,,3 PM,"Sun, 11 AM – 3 PM","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://open.spotify.com/concert/5W4xO3C3rXlgZyWHm4TYAL
-62,Paws 4 Reading,AUG 4,4:00 PM,,,"Tue, 3:30 – 4:00 PM","Patrick Heath Public Library, 451 N Main St",Boerne,TX,https://theboernelife.com/events/paws-4-reading-2-2-2/2026-08-04/
-63,Something Borrowed — The Ironwood Wedding Décor Market,AUG 16,11 AM,,,"Sun, 11 AM","Ironwood Events at Von Erich Ranch, 1637 Ranch Rd 473",Boerne,TX,https://www.ticketsource.com/ironwood-events-at-von-erich-ranch/something-borrowed-the-ironwood-wedding-decor-market/e-evlplq
-64,Boerne Market Days,AUG 8,10 AM,,5 PM,"Sat, 10 AM – 5 PM",Main Plaza,Boerne,TX,https://business.boerne.org/events/details/boerne-market-days-08-08-2026-30345
-65,The Best Jazz Brunch in Texas,OCT 25,11 AM,,3 PM,"Sun, 11 AM – 3 PM","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://open.spotify.com/concert/5FfzllZhm3Al7V1cgUHc4l
-66,Restorative Yoga at San Antonio Yoga in Boerne,SEP 5,10 AM,,12 PM,"Sat, 10 AM – 12 PM","San Antonio Yoga in Boerne, 101 Oak Ridge Dr",Boerne,TX,https://business.boerne.org/events/details/restorivate-yoga-09-05-2026-31531
-67,Noah Peterson,DEC 20,11 AM,,3 PM,"Sun, 11 AM – 3 PM","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://open.spotify.com/concert/3FOwHyNQOsjoDyrPqEaV62
-68,The Best Jazz Brunch in Texas,OCT 11,11 AM,,3 PM,"Sun, 11 AM – 3 PM","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://open.spotify.com/concert/3GI50WnRtS1FV6bD3avrVC
-69,Chamber Wednesday Leads Group,JUL 22,11 AM,,12 PM,"Wed, 11 AM – 12 PM","Greater Boerne Chamber of Commerce, 121 S Main St",Boerne,TX,https://business.boerne.org/events/details/chamber-wednesday-leads-group-07-22-2026-29328
-70,Cibolo Farmers Market at Herff Farm,JUL 18,9 AM,,1 PM,"Sat, 9 AM – 1 PM","Herff Farm, 33 Herff Rd",Boerne,TX,https://business.boerne.org/events/details/cibolo-farmers-market-at-herff-farm-07-18-2026-29670?calendarMonth=2026-07-01
-71,Noah Peterson,DEC 6,11 AM,,3 PM,"Sun, 11 AM – 3 PM","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://open.spotify.com/concert/2tnLcTbY3yf07Q40R4NHhP
-72,"YOUTH BASEBALL HITTING CAMP - Boerne, TX 2026",AUG 3,,AUG 4,,"Mon, Aug 3 – Tue, Aug 4","The Dugout, 132 Old San Antonio Rd",Boerne,TX,https://www.activekids.com/boerne-tx/baseball/baseball-camps/youth-baseball-hitting-camp-2026
-73,Unearth Your Story – Oral Histories at Morningside at Menger Springs,JUL 15,10 AM,,12 PM,"Wed, 10 AM – 12 PM","Morningside at Menger Springs Independent Living, 1100 Grand Blvd",Boerne,TX,https://theboernelife.com/venue/morningside-at-menger-springs/
-74,Cibolo Farmers Market at Herff Farm,JUL 25,9 AM,,1 PM,"Sat, 9 AM – 1 PM","Herff Farm, 33 Herff Rd",Boerne,TX,https://business.boerne.org/events/details/cibolo-farmers-market-at-herff-farm-07-25-2026-29671?calendarMonth=2026-07-01
-75,The Best Jazz Brunch in Texas,JUL 26,11 AM,,3 PM,"Sun, 11 AM – 3 PM","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://open.spotify.com/concert/7hy6301roLpiwH9c6ORz1O
-76,Lacy Brinson at Tapatio Springs,AUG 7,11 PM,,,"Fri, 7 – 11 PM","Tapatio Springs Hill Country Resort, 1 Resort Way",Boerne,TX,https://open.spotify.com/concert/77YyBNFZDQLlTcgqtkklzw
-77,Chamber Wednesday Leads Group,AUG 12,11 AM,,12 PM,"Wed, 11 AM – 12 PM","Greater Boerne Chamber of Commerce, 121 S Main St",Boerne,TX,https://business.boerne.org/events/details/chamber-wednesday-leads-group-08-12-2026-29308?calendarMonth=2026-08-01
-78,San Antonio Singles Event: Trivia Night (Ages 25–40),JUL 11,9 PM,,,"Tomorrow, 7 – 9 PM","The Hoppy Monk, 1010 N Loop 1604 E",San Antonio,TX,https://www.eventbrite.com/e/san-antonio-singles-event-trivia-night-ages-2540-tickets-1991537142203
-79,DeVino Ladies Night,JUL 16,9 PM,,,"Thu, 4 – 9 PM","DeVino Cellars, 112 E San Antonio Ave",Boerne,TX,https://business.boerne.org/events/details/devino-ladies-night-07-16-2026-31093?calendarMonth=2026-07-01
-80,Cibolo Farmers Market at Herff Farm,AUG 1,9 AM,,1 PM,"Sat, 9 AM – 1 PM","Herff Farm, 33 Herff Rd",Boerne,TX,https://business.boerne.org/events/details/cibolo-farmers-market-at-herff-farm-08-01-2026-29672?calendarMonth=2026-08-01
-81,DeVino Ladies Night,JUL 16,9 PM,,,"Thu, 4 – 9 PM","DeVino Cellars, 112 E San Antonio Ave",Boerne,TX,https://business.boerne.org/events/details/devino-ladies-night-07-16-2026-31093?calendarMonth=2026-07-01
-82,DeVino Ladies Night,JUL 23,9 PM,,,"Thu, 4 – 9 PM","DeVino Cellars, 112 E San Antonio Ave",Boerne,TX,https://business.boerne.org/events/details/devino-ladies-night-07-23-2026-31094?calendarMonth=2026-07-01
-83,Chamber Wednesday Leads Group,SEP 9,11 AM,,12 PM,"Wed, 11 AM – 12 PM","Greater Boerne Chamber of Commerce, 121 S Main St",Boerne,TX,https://business.boerne.org/events/details/chamber-wednesday-leads-group-09-09-2026-29309
-84,MIDDLE SCHOOL TESTING #2,JUL 30,3 PM,,,"Thu, 2 – 3 PM","D1 Training Boerne, 132 Old San Antonio Rd",Boerne,TX,https://www.activekids.com/boerne-tx/cross-training/camps/high-school-testing-2-2026
-85,Cibolo Farmers Market at Herff Farm,NOV 21,9 AM,,1 PM,"Sat, 9 AM – 1 PM","Herff Farm, 33 Herff Rd",Boerne,TX,https://business.boerne.org/events/details/cibolo-farmers-market-at-herff-farm-11-21-2026-29688
-86,Steven McClintock,AUG 19,11:30 PM,,,"Wed, 7:30 – 11:30 PM","Free Roam Brewing Company, 325 S Main St",Boerne,TX,https://open.spotify.com/concert/7D0PL2ZMMMQ3LaAY4qGRlw
-87,San Antonio Singles Event: Trivia Night (Ages 25–40),JUL 11,9 PM,,,"Tomorrow, 7 – 9 PM","The Hoppy Monk, 1010 N Loop 1604 E",San Antonio,TX,https://www.eventbrite.com/e/san-antonio-singles-event-trivia-night-ages-2540-tickets-1991537142203
-88,David Adam Byrnes,JUL 22,11:30 PM,,,"Wed, 7:30 – 11:30 PM","Free Roam Brewing Company, 325 S Main St",Boerne,TX,https://open.spotify.com/concert/0Ho1NExLdBJSgki4wX4td1
-89,Bubbletime Bookworms,AUG 6,10:30 AM,,,"Thu, 10:00 – 10:30 AM","Patrick Heath Public Library, 451 N Main St",Boerne,TX,https://theboernelife.com/events/bubbletime-bookworms-2/2026-08-06/
-90,"YOUTH BASEBALL SUMMER CAMP #3 - Boerne, TX 2026",JUL 27,,JUL 29,,"Mon, Jul 27 – Wed, Jul 29","The Dugout, 132 Old San Antonio Rd",Boerne,TX,https://www.activekids.com/boerne-tx/baseball/baseball-camps/youth-baseball-summer-camp-3-2026
+1,"INFIELDER ACADEMY SESSON 1: AGE 7-12 - Boerne, TX 2026",JUL 12,,JUL 7,,Jul 7 – 21,"The Dugout, 132 Old San Antonio Rd",Boerne,TX,https://www.activekids.com/boerne-tx/baseball/baseball-camps/infielder-academy-sesson-1-age-13-18-2026
+2,The Best Jazz Brunch in Texas,JUL 12,11 AM,,3 PM,"Today, 11 AM – 3 PM","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://open.spotify.com/concert/2HwD3Oncj3HUYdsdX1Z0kj
+3,Texas Brewery Roundup,JUL 10,,JUL 12,,"Fri, Jul 10 – Sun, Jul 12","The Bevy Hotel Boerne, a DoubleTree by Hilton, 101 Herff Rd",Boerne,TX,https://tickets.texascraftbrewersguild.org/e/txbreweryroundup2026
+4,Boerne Market Days,JUL 12,10 AM,,4 PM,"Today, 10 AM – 4 PM",Main Plaza,Boerne,TX,https://business.boerne.org/events/details/boerne-market-days-07-12-2026-30471?calendarMonth=2026-07-01
+5,Boerne Boo,OCT 24,,,,Saturday,"Patrick Heath Public Library, 451 N Main St",Boerne,TX,https://www.traveltexas.com/event/boerne-boo/6265/
+6,Book Festival,OCT 3,10 AM,,4 PM,"Sat, 10 AM – 4 PM","Patrick Heath Public Library, 451 N Main St",Boerne,TX,https://www.traveltexas.com/event/book-festival/6234/
+7,Boerne After Hours Mixer - Hosted by Sendero Wealth Management,AUG 27,6 PM,,,"Thu, 4 – 6 PM","Richter Tavern, 153 S Main St",Boerne,TX,https://business.boerne.org/events/details/boerne-after-hours-mixer-hosted-by-sendero-wealth-management-32372
+8,Noah Peterson,AUG 9,11 AM,,3 PM,"Sun, 11 AM – 3 PM","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://open.spotify.com/concert/3zg5VBqZrC89o5INM8GJJQ
+9,Boerne Market Days,OCT 10,10 AM,,5 PM,"Sat, 10 AM – 5 PM",Main Plaza,Boerne,TX,https://business.boerne.org/events/details/boerne-market-days-10-10-2026-30347
+10,Boerne Market Days,OCT 11,10 AM,,4 PM,"Sun, 10 AM – 4 PM",Main Plaza,Boerne,TX,https://business.boerne.org/events/details/boerne-market-days-10-11-2026-30474?calendarMonth=2026-10-01
+11,The Best Jazz Brunch in Texas,AUG 30,11 AM,,3 PM,"Sun, 11 AM – 3 PM","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://open.spotify.com/concert/0C1pfIloRizblhWBJJ6VQI
+12,November 4th Comedy Show & Game Night,NOV 4,9:00 PM,,,"Wed, 7:30 – 9:00 PM","DeVino Cellars, 112 E San Antonio Ave",Boerne,TX,https://www.sacurrent.com/events/details/november-4th-comedy-show-game-night/19032530/2026-11-04T19/
+13,The Best Jazz Brunch in Texas,SEP 20,11 AM,,3 PM,"Sun, 11 AM – 3 PM","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://open.spotify.com/concert/0ZFT0fhjWWxoS4wsEnVCC5
+14,Karaoke at Drink Texas Boerne,JUL 14,11 PM,,,"Tue, 7 – 11 PM","Drink Texas Boerne, 31138 I-10",Boerne,TX,https://theboernelife.com/events/tag/night/week/2026-07-15/
+15,Noah Peterson,AUG 2,11 AM,,3 PM,"Sun, 11 AM – 3 PM","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://open.spotify.com/concert/1HXTy0rYPGFTs5Hs9MAXny
+16,Sourdough Workshop,JUL 16,8:00 PM,,,"Thu, 6:30 – 8:00 PM","Herff Farm, 33 Herff Rd",Boerne,TX,https://business.boerne.org/events/details/sourdough-workshop-07-16-2025-32256
+17,Boerne Market Days,OCT 10,10 AM,,5 PM,"Sat, 10 AM – 5 PM",Main Plaza,Boerne,TX,https://business.boerne.org/events/details/boerne-market-days-10-10-2026-30347
+18,Boerne Market Days,OCT 11,10 AM,,4 PM,"Sun, 10 AM – 4 PM",Main Plaza,Boerne,TX,https://business.boerne.org/events/details/boerne-market-days-10-11-2026-30474?calendarMonth=2026-10-01
+19,Noah Peterson,AUG 23,11 AM,,3 PM,"Sun, 11 AM – 3 PM","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://open.spotify.com/concert/6U9UJdmDJ3xMUOxXPQGzHS
+20,Noah Peterson,NOV 22,11 AM,,3 PM,"Sun, 11 AM – 3 PM","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://open.spotify.com/concert/5sGoMoXL4dugpB2v3m3LJB
+21,Noah Peterson,AUG 23,11 AM,,3 PM,"Sun, 11 AM – 3 PM","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://open.spotify.com/concert/6U9UJdmDJ3xMUOxXPQGzHS
+22,The Best Jazz Brunch in Texas,SEP 20,11 AM,,3 PM,"Sun, 11 AM – 3 PM","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://open.spotify.com/concert/0ZFT0fhjWWxoS4wsEnVCC5
+23,Noah Peterson,NOV 22,11 AM,,3 PM,"Sun, 11 AM – 3 PM","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://open.spotify.com/concert/5sGoMoXL4dugpB2v3m3LJB
+24,Noah Peterson,SEP 13,11 AM,,3 PM,"Sun, 11 AM – 3 PM","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://open.spotify.com/concert/5b0inAl0NjqoZnGRhOVHXQ
+25,Noah Peterson,DEC 13,11 AM,,3 PM,"Sun, 11 AM – 3 PM","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://open.spotify.com/concert/39ndaNc9lMDj0iNOqVf449
+26,SOLD OUT: Murder at the Wine Bar – Boerne Community Theatre Fundraiser,NOV 27,8:00 PM,,,"Fri, 4:30 – 8:00 PM","DeVino Cellars, 112 E San Antonio Ave",Boerne,TX,https://theboernelife.com/events/murder-at-the-wine-bar-boerne-community-theatre-fundraiser/2026-11-27/
+27,Noah Peterson,OCT 18,11 AM,,3 PM,"Sun, 11 AM – 3 PM","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://open.spotify.com/concert/6fy7fg02GcBnJcLUuZ2SDp
+28,Boerne Market Days,SEP 13,10 AM,,4 PM,"Sun, 10 AM – 4 PM",Main Plaza,Boerne,TX,https://business.boerne.org/events/details/boerne-market-days-09-13-2026-30473?calendarMonth=2026-09-01
+29,Steven McClintock,AUG 19,11:30 PM,,,"Wed, 7:30 – 11:30 PM","Free Roam Brewing Company, 325 S Main St",Boerne,TX,https://open.spotify.com/concert/7D0PL2ZMMMQ3LaAY4qGRlw
+30,Noah Peterson,DEC 27,11 AM,,3 PM,"Sun, 11 AM – 3 PM","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://open.spotify.com/concert/2hTGEqE9MNCD6ATYLOXzr6
+31,The Best Jazz Brunch in Texas,JUL 19,11 AM,,3 PM,"Sun, 11 AM – 3 PM","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://open.spotify.com/concert/34OcUb6rv9pzB9sL7NzClm
+32,Noah Peterson,OCT 4,11 AM,,3 PM,"Sun, 11 AM – 3 PM","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://open.spotify.com/concert/3Nf5Qi4MBM5TyeOzqmHK14
+33,Thrifty Happy Hour,JUL 18,8 PM,,,"Sat, 5 – 8 PM","Thrift Store - Hill Country Animal League, 115 W Bandera Rd",Boerne,TX,https://www.austinmonthly.com/events/thrifty-happy-hour-2/
+34,Cibolo Farmers Market at Herff Farm,AUG 15,9 AM,,1 PM,"Sat, 9 AM – 1 PM","Herff Farm, 33 Herff Rd",Boerne,TX,https://business.boerne.org/events/details/cibolo-farmers-market-at-herff-farm-08-15-2026-29674?calendarMonth=2026-08-01
+35,Noah Peterson,NOV 1,11 AM,,3 PM,"Sun, 11 AM – 3 PM","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://open.spotify.com/concert/1aw3yQHsUY5RQcd5cdLMuN
+36,Annual Boerne Barktoberfest,OCT 17,10 AM,,4 PM,"Sat, 10 AM – 4 PM",Main Plaza,Boerne,TX,https://www.bringfido.co.uk/event/47733
+37,Mahjong Before School,JUL 30,9 PM,,,"Thu, 6 – 9 PM","Richter Bakhaus, 153 S Main St",Boerne,TX,https://givebutter.com/MahjongBeforeSchool
+38,The Best Jazz Brunch in Texas,AUG 16,11 AM,,3 PM,"Sun, 11 AM – 3 PM","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://open.spotify.com/concert/7n8rd0EhfHR5hbJWqpiIib
+39,Coffee with Kylee presented by Tapatio Springs Hill Country Resort,JUL 15,10 AM,,,"Wed, 9 – 10 AM","Greater Boerne Chamber of Commerce, 121 S Main St",Boerne,TX,https://business.boerne.org/events/details/coffee-with-kylee-07-15-2026-32061
+40,Boerne Market Days,NOV 14,10 AM,,5 PM,"Sat, 10 AM – 5 PM",Main Plaza,Boerne,TX,https://business.boerne.org/events/details/boerne-market-days-11-14-2026-30348
+41,Boerne Market Days,SEP 12,10 AM,,5 PM,"Sat, 10 AM – 5 PM",Main Plaza,Boerne,TX,https://business.boerne.org/events/details/boerne-market-days-09-12-2026-30346
+42,The Best Jazz Brunch in Texas,OCT 4,11 AM,,,"Sun, 11 AM","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://www.sacurrent.com/events/details/the-best-jazz-brunch-in-texas/17687190/2026-10-04T11/
+43,Boerne Market Days,NOV 14,10 AM,,5 PM,"Sat, 10 AM – 5 PM",Main Plaza,Boerne,TX,https://business.boerne.org/events/details/boerne-market-days-11-14-2026-30348
+44,Kendall County Fair,SEP 5,,SEP 6,,"Sat, Sep 5 – Sun, Sep 6","Kendall County Fair Association (Kendall County Fair Grounds), 1307 River Rd",Boerne,TX,https://open.spotify.com/concert/4Q70x69eKZSs0URkVgqDif
+45,The Chocolate Experience: Create Your Own Confections,AUG 20,8:00 PM,,,"Thu, 6:30 – 8:00 PM","Herff Farm, 33 Herff Rd",Boerne,TX,https://business.boerne.org/events/details/the-chocolate-experience-create-your-own-confections-32426
+46,Lacy Brinson at Tapatio Springs,SEP 18,11 PM,,,"Fri, 7 – 11 PM","Tapatio Springs Hill Country Resort, 1 Resort Way",Boerne,TX,https://herald-zeitung.com/community_calendar/?_evDiscoveryPath=/event/108428548n-lacy-brinson-at-tapatio-springs
+47,Dean Seltzer's Texas Trio - Cocktails & Country at Salvador Dobbs,AUG 14,,AUG 15,,"Fri, Aug 14 – Sat, Aug 15","Salvador DOBBS, 512 River Rd",Boerne,TX,https://herald-zeitung.com/community_calendar/?_evDiscoveryPath=/event/108337789n-dean-seltzer-the-redneck-mothers-dean-seltzer-s-texas-trio-live-country-music-at-salvador-dobbs-in-boerne-tx
+48,Paws 4 Reading,AUG 4,4:00 PM,,,"Tue, 3:30 – 4:00 PM","Patrick Heath Public Library, 451 N Main St",Boerne,TX,https://theboernelife.com/events/paws-4-reading-2-2-2/2026-08-04/
+49,Noah Peterson,NOV 29,11 AM,,3 PM,"Sun, 11 AM – 3 PM","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://open.spotify.com/concert/0I4kv7CoW6hH11PFvbSJHm
+50,Noah Peterson,NOV 15,11 AM,,3 PM,"Sun, 11 AM – 3 PM","The Dodging Duck Brewhaus, 402 River Rd",Boerne,TX,https://open.spotify.com/concert/5W4xO3C3rXlgZyWHm4TYAL
