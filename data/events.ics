@@ -2,19 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//serpapi-events//EN
 BEGIN:VEVENT
-UID:0-TheBestJazzBrunchinTexas@serpapi-events
-DTSTAMP:20260719
-DTSTART;VALUE=DATE:20260719
-DTEND;VALUE=DATE:20260720
-TRANSP:TRANSPARENT
-SUMMARY:The Best Jazz Brunch in Texas
-LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
-DESCRIPTION:When: Sun\, 11 AM – 3 PM\nLink: https://open.spotify.com/concert/34OcUb6rv9pzB9sL7NzClm
-END:VEVENT
-BEGIN:VEVENT
-UID:1-INFIELDERACADEMYSESSON1AGE712BoerneTX2026@serpapi-events
-DTSTAMP:20260717
-DTSTART;VALUE=DATE:20260717
+UID:0-INFIELDERACADEMYSESSON1AGE712BoerneTX2026@serpapi-events
+DTSTAMP:20260718
+DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20260708
 TRANSP:TRANSPARENT
 SUMMARY:INFIELDER ACADEMY SESSON 1: AGE 7-12 - Boerne\, TX 2026
@@ -22,34 +12,44 @@ LOCATION:The Dugout\, 132 Old San Antonio Rd\, Boerne\, TX
 DESCRIPTION:When: Jul 7 – 21\nLink: https://www.activekids.com/boerne-tx/baseball/baseball-camps/infielder-academy-sesson-1-age-13-18-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:2-CiboloFarmersMarketatHerffFarm@serpapi-events
-DTSTAMP:20260718
-DTSTART;VALUE=DATE:20260718
-DTEND;VALUE=DATE:20260719
-TRANSP:TRANSPARENT
-SUMMARY:Cibolo Farmers Market at Herff Farm
-LOCATION:Herff Farm\, 33 Herff Rd\, Boerne\, TX
-DESCRIPTION:When: Tomorrow\, 9 AM – 1 PM\nLink: https://business.boerne.org/events/details/cibolo-farmers-market-at-herff-farm-07-18-2026-29670?calendarMonth=2026-07-01
-END:VEVENT
-BEGIN:VEVENT
-UID:3-ThriftyHappyHour@serpapi-events
+UID:1-ThriftyHappyHour@serpapi-events
 DTSTAMP:20260718
 DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20260719
 TRANSP:TRANSPARENT
 SUMMARY:Thrifty Happy Hour
 LOCATION:Thrift Store - Hill Country Animal League\, 115 W Bandera Rd\, Boerne\, TX
-DESCRIPTION:When: Tomorrow\, 5 – 8 PM\nLink: https://www.austinmonthly.com/events/thrifty-happy-hour-2/
+DESCRIPTION:When: Today\, 5 – 8 PM\nLink: https://www.austinmonthly.com/events/thrifty-happy-hour-2/
 END:VEVENT
 BEGIN:VEVENT
-UID:4-BubbletimeBookworms@serpapi-events
+UID:2-TheBestJazzBrunchinTexas@serpapi-events
+DTSTAMP:20260719
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+TRANSP:TRANSPARENT
+SUMMARY:The Best Jazz Brunch in Texas
+LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
+DESCRIPTION:When: Tomorrow\, 11 AM – 3 PM\nLink: https://open.spotify.com/concert/34OcUb6rv9pzB9sL7NzClm
+END:VEVENT
+BEGIN:VEVENT
+UID:3-CiboloFarmersMarketatHerffFarm@serpapi-events
+DTSTAMP:20260718
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+TRANSP:TRANSPARENT
+SUMMARY:Cibolo Farmers Market at Herff Farm
+LOCATION:Herff Farm\, 33 Herff Rd\, Boerne\, TX
+DESCRIPTION:When: Today\, 9 AM – 1 PM\nLink: https://business.boerne.org/events/details/cibolo-farmers-market-at-herff-farm-07-18-2026-29670?calendarMonth=2026-07-01
+END:VEVENT
+BEGIN:VEVENT
+UID:4-TapatioSpringsxHillCountry2026SummerMahjongRetreat@serpapi-events
 DTSTAMP:20260717
 DTSTART;VALUE=DATE:20260717
-DTEND;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260720
 TRANSP:TRANSPARENT
-SUMMARY:Bubbletime Bookworms
-LOCATION:Patrick Heath Public Library\, 451 N Main St\, Boerne\, TX
-DESCRIPTION:When: Today\, 10:00 – 10:30 AM\nLink: https://theboernelife.com/events/bubbletime-bookworms-2-2/2026-07-17/
+SUMMARY:Tapatio Springs x Hill Country: 2026 Summer Mahjong Retreat
+LOCATION:Tapatio Springs Hill Country Resort\, 1 Resort Way\, Boerne\, TX
+DESCRIPTION:When: Fri\, Jul 17 – Sun\, Jul 19\nLink: https://events.ticketleap.com/tickets/tapatio-springs-hill-country-resort/2026-Mahjong-Retreat
 END:VEVENT
 BEGIN:VEVENT
 UID:5-BoerneBoo@serpapi-events
@@ -72,33 +72,103 @@ LOCATION:Patrick Heath Public Library\, 451 N Main St\, Boerne\, TX
 DESCRIPTION:When: Sat\, 10 AM – 4 PM\nLink: https://www.traveltexas.com/event/book-festival/6234/
 END:VEVENT
 BEGIN:VEVENT
-UID:7-TapatioSpringsxHillCountry2026SummerMahjongRetreat@serpapi-events
-DTSTAMP:20260717
-DTSTART;VALUE=DATE:20260717
-DTEND;VALUE=DATE:20260720
+UID:7-BoerneAfterHoursMixerHostedbySenderoWealthManagement@serpapi-events
+DTSTAMP:20260827
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
 TRANSP:TRANSPARENT
-SUMMARY:Tapatio Springs x Hill Country: 2026 Summer Mahjong Retreat
-LOCATION:Tapatio Springs Hill Country Resort\, 1 Resort Way\, Boerne\, TX
-DESCRIPTION:When: Fri\, Jul 17 – Sun\, Jul 19\nLink: https://events.ticketleap.com/tickets/tapatio-springs-hill-country-resort/2026-Mahjong-Retreat
+SUMMARY:Boerne After Hours Mixer - Hosted by Sendero Wealth Management
+LOCATION:Richter Tavern\, 153 S Main St\, Boerne\, TX
+DESCRIPTION:When: Thu\, 4 – 6 PM\nLink: https://business.boerne.org/events/details/boerne-after-hours-mixer-hosted-by-sendero-wealth-management-32372
 END:VEVENT
 BEGIN:VEVENT
-UID:8-TheBestJazzBrunchinTexas@serpapi-events
-DTSTAMP:20260906
-DTSTART;VALUE=DATE:20260906
-DTEND;VALUE=DATE:20260907
+UID:8-NoahPeterson@serpapi-events
+DTSTAMP:20260809
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
 TRANSP:TRANSPARENT
-SUMMARY:The Best Jazz Brunch in Texas
+SUMMARY:Noah Peterson
 LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
-DESCRIPTION:When: Sun\, 11 AM – 3 PM\nLink: https://open.spotify.com/concert/3Rl3QccCGG3iSu1aI51XLB
+DESCRIPTION:When: Sun\, 11 AM – 3 PM\nLink: https://open.spotify.com/concert/3zg5VBqZrC89o5INM8GJJQ
 END:VEVENT
 BEGIN:VEVENT
-UID:9-TheBestJazzBrunchinTexas@serpapi-events
-DTSTAMP:20260830
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260831
+UID:9-BoerneMarketDays@serpapi-events
+DTSTAMP:20261010
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
 TRANSP:TRANSPARENT
-SUMMARY:The Best Jazz Brunch in Texas
-LOCATION:The Dodging Duck Brewhaus\, 402 River Rd\, Boerne\, TX
-DESCRIPTION:When: Sun\, 11 AM – 3 PM\nLink: https://open.spotify.com/concert/0C1pfIloRizblhWBJJ6VQI
+SUMMARY:Boerne Market Days
+LOCATION:Main Plaza\, Boerne\, TX
+DESCRIPTION:When: Sat\, 10 AM – 5 PM\nLink: https://business.boerne.org/events/details/boerne-market-days-10-10-2026-30347
+END:VEVENT
+BEGIN:VEVENT
+UID:10-November4thComedyShowGameNight@serpapi-events
+DTSTAMP:20261104
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+TRANSP:TRANSPARENT
+SUMMARY:November 4th Comedy Show & Game Night
+LOCATION:DeVino Cellars\, 112 E San Antonio Ave\, Boerne\, TX
+DESCRIPTION:When: Wed\, 7:30 – 9:00 pm\nLink: https://www.sacurrent.com/events/details/november-4th-comedy-show-game-night/19032530/2026-11-04T19/
+END:VEVENT
+BEGIN:VEVENT
+UID:11-BoerneMarketDays@serpapi-events
+DTSTAMP:20260809
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+TRANSP:TRANSPARENT
+SUMMARY:Boerne Market Days
+LOCATION:Main Plaza\, Boerne\, TX
+DESCRIPTION:When: Sun\, 10:00 am – 4:00 pm\nLink: https://business.boerne.org/events/details/boerne-market-days-08-09-2026-30472
+END:VEVENT
+BEGIN:VEVENT
+UID:12-MahjongBeforeSchool@serpapi-events
+DTSTAMP:20260730
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+TRANSP:TRANSPARENT
+SUMMARY:Mahjong Before School
+LOCATION:Richter Bakhaus\, 153 S Main St\, Boerne\, TX
+DESCRIPTION:When: Thu\, 6:00 – 9:00 pm\nLink: https://givebutter.com/MahjongBeforeSchool
+END:VEVENT
+BEGIN:VEVENT
+UID:13-SOLDOUTMurderattheWineBarBoerneCommunityTheatreFundraiser@serpapi-events
+DTSTAMP:20261127
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:SOLD OUT: Murder at the Wine Bar – Boerne Community Theatre Fundraiser
+LOCATION:DeVino Cellars\, 112 E San Antonio Ave\, Boerne\, TX
+DESCRIPTION:When: Fri\, 4:30 – 8:00 pm\nLink: https://theboernelife.com/events/murder-at-the-wine-bar-boerne-community-theatre-fundraiser/2026-11-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:14-StevenMcClintock@serpapi-events
+DTSTAMP:20260819
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+TRANSP:TRANSPARENT
+SUMMARY:Steven McClintock
+LOCATION:Free Roam Brewing Company\, 325 S Main St\, Boerne\, TX
+DESCRIPTION:When: Wed\, 7:30 – 11:30 pm\nLink: https://open.spotify.com/concert/7D0PL2ZMMMQ3LaAY4qGRlw
+END:VEVENT
+BEGIN:VEVENT
+UID:17-CiboloFarmersMarketatHerffFarm@serpapi-events
+DTSTAMP:20260815
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+TRANSP:TRANSPARENT
+SUMMARY:Cibolo Farmers Market at Herff Farm
+LOCATION:Herff Farm\, 33 Herff Rd\, Boerne\, TX
+DESCRIPTION:When: Sat\, 9:00 am – 1:00 pm\nLink: https://business.boerne.org/events/details/cibolo-farmers-market-at-herff-farm-08-15-2026-29674?calendarMonth=2026-08-01
+END:VEVENT
+BEGIN:VEVENT
+UID:18-TheChocolateExperienceCreateYourOwnConfections@serpapi-events
+DTSTAMP:20260820
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+TRANSP:TRANSPARENT
+SUMMARY:The Chocolate Experience: Create Your Own Confections
+LOCATION:Herff Farm\, 33 Herff Rd\, Boerne\, TX
+DESCRIPTION:When: Thu\, 6:30 – 8:00 pm\nLink: https://business.boerne.org/events/details/the-chocolate-experience-create-your-own-confections-32426
 END:VEVENT
 END:VCALENDAR
